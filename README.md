@@ -1,6 +1,6 @@
 # Instagram 自動投稿（Body Care moco）
 
-Body Care moco（@bodycaremoco_narita）の Instagram に、毎日 **昼12時半・夜19時** に、AIが作った画像と文章を自動投稿する仕組みです。
+Body Care moco（@bodycaremoco_narita）の Instagram に、毎日 **昼12時半・夜19時33分** に、AIが作った画像と文章を自動投稿する仕組みです。
 投稿は、横にスワイプして見るカルーセル形式（表紙・中身1〜3枚・締めの3〜5枚）です。
 GitHub Actions（クラウド）で動くので、パソコンの電源が切れていても投稿されます。
 
@@ -8,7 +8,7 @@ Salon de moco（@salondemoco）の仕組み（`moco0829-cloud/instagram-autopost
 こちらを変えても Salon de moco には影響しません。
 
 ```
-GitHub Actions（毎日 昼12時半・夜19時の投稿に向けて起動）
+GitHub Actions（毎日 昼12時半・夜19時33分の投稿に向けて起動）
   ├─ Claude が「テーマ・キャプション・各画像の文字・画像の指示文」を作る（brand.md と過去の投稿履歴を参照）
   ├─ OpenAI の画像生成AIが背景画像を作る（1080×1350 の縦長に整える）
   ├─ 同じ背景の上に、表紙・中身（番号付きの手順やチェックリスト）・締めの文字をゴシック体で重ねる
@@ -25,7 +25,7 @@ GitHub Actions（毎日 昼12時半・夜19時の投稿に向けて起動）
 | `autopost.py` | 文章・画像の生成と Instagram への投稿 |
 | `history.json` | 投稿履歴（テーマの重複を避けるのに使う） |
 | `posts/` | 生成した画像の保存先 |
-| `.github/workflows/autopost.yml` | 毎日 昼12時半・夜19時の自動実行 |
+| `.github/workflows/autopost.yml` | 毎日 昼12時半・夜19時33分の自動実行 |
 | `.github/workflows/refresh-token.yml` | Instagram トークンの自動延長（週1回） |
 
 ## 色合い
@@ -100,7 +100,7 @@ Note に `bodycaremoco-autopost-secrets`、Expiration に「No expiration」、S
 1. リポジトリの「Settings」→「Secrets and variables」→「Actions」→「**Variables**」タブ
 2. 「New repository variable」で、名前 `AUTOPOST_ENABLED`、値 `true` を登録
 
-以降は毎日 12:30 と 19:00 に自動で投稿されます。止めたいときは、この値を `false` にします。
+以降は毎日 12:30 と 19:33 に自動で投稿されます。止めたいときは、この値を `false` にします。
 
 ---
 
@@ -122,7 +122,7 @@ Note に `bodycaremoco-autopost-secrets`、Expiration に「No expiration」、S
   公開されるのはプログラム・brand.md・投稿の履歴・投稿した画像だけで、トークンやAPIキーは Secrets に入っていて外からは見えません。
 
 - GitHub Actions の定期実行は混雑時に **数時間遅れる** ことがあります。そのため昼の枠は 9:23・10:23・11:07、夜の枠は 16:23・17:23・18:07 の3回ずつ仕掛けておき、
-  最初に動いた回が画像と文章を作って **投稿時刻（12:30 / 19:00）まで待ってから** 投稿します。その枠の投稿が済んでいれば残りの回は何もせず、
+  最初に動いた回が画像と文章を作って **投稿時刻（12:30 / 19:33）まで待ってから** 投稿します。その枠の投稿が済んでいれば残りの回は何もせず、
   昼は14時、夜は21時を過ぎても始まらなかった日はその枠の投稿を見送ります（時間外に投稿しないため）。
 - 毎回の投稿で Actions が画像と履歴をコミットするので、手元で変更するときは GitHub 側を pull してから編集・push してください。
 - 投稿は API 経由で毎回自動公開されます。AIが作った内容がそのまま出るため、最初の数日は投稿をチェックし、

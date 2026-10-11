@@ -2,7 +2,7 @@ name: Instagram 自動投稿
 
 on:
   schedule:
-    # 投稿は1日2回（昼 12:30・夜 19:00）。
+    # 投稿は1日2回（昼 12:30・夜 19:33）。ほかの投稿が集中する毎時ちょうどを避けている。
     # GitHub Actions の cron は UTC（日本時間 = UTC + 9 時間）で、混雑すると数時間遅れることがある。
     # そこで投稿時刻より前に3回ずつ仕掛け、最初に動いた回が画像と文章を作り、投稿時刻まで待ってから投稿する。
     # 区切りのいい時刻（毎時0分）は混みやすいので避ける。
@@ -62,12 +62,12 @@ jobs:
           from datetime import datetime, timedelta, timezone
           now = datetime.now(timezone(timedelta(hours=9)))
           today = now.strftime("%Y-%m-%d")
-          # 15時より前に動いた回は昼 12:30 の枠、それ以降に動いた回は夜 19:00 の枠
+          # 15時より前に動いた回は昼 12:30 の枠、それ以降に動いた回は夜 19:33 の枠
           if os.environ["EVENT"] == "schedule":
               slot = "noon" if now.hour < 15 else "night"
           else:
               slot = os.environ.get("INPUT_SLOT") or "night"
-          post_at, give_up = {"noon": ("12:30", 14), "night": ("19:00", 21)}[slot]
+          post_at, give_up = {"noon": ("12:30", 14), "night": ("19:33", 21)}[slot]
           name = {"noon": "昼", "night": "夜"}[slot]
           skip, reason = False, ""
           if os.environ["EVENT"] == "schedule":
