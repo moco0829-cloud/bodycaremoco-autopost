@@ -1,51 +1,52 @@
 {
   "date": "2026-10-11",
   "slot": "night",
-  "theme": "後半に崩れる原因と、ラウンド後の疲労ケア",
-  "caption": "「前半は良かったのに、後半で崩れた…」そんな日はありませんか？\n\n今日のラウンド、本当にお疲れさまでした⛳\n\nスコアを振り返ると、スイングや技術ばかり気になりますよね。\nでも実は、後半の崩れや飛距離の低下には、身体のこわばりが関係していることもあるんです。\n\n同じスイングをくり返したり、前傾姿勢で長く歩いたりするうちに、筋膜はこわばりやすくなります。\nすると、捻りが浅くなったり、脚でふんばりにくくなったりすることも。\n\n画像では、後半崩れのサインと、今夜からできる「疲れを残さない工夫」をまとめました。保存して、ラウンドのあとに見返してみてください。\n\nBody Care mocoでは、メディセルで筋膜をやさしく吸い上げ、こわばりにしっかりアプローチします。強く揉まないので、揉み返しが苦手な方も安心です。\n\nがんばった身体を整えて、次のラウンドをもっと楽しく☀️\nご予約・ご相談は、お気軽にDMへどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア #ラウンド後ケア #ゴルフ好きな人と繋がりたい #ゴルフ女子 #ゴルフ男子 #腰痛ケア #肩こりケア #疲労ケア #成田市サロン #プライベートサロン",
+  "theme": "後半に崩れる原因とラウンド後ケア",
+  "caption": "「前半は良かったのに、後半で崩れた…」そんな日、ありませんか？⛳\n\n今日のラウンド、本当にお疲れさまでした。\nスコアカードを見返して、ため息が出ている方もいるかもしれませんね。\n\n実は、後半にトップが浅くなる、飛距離が落ちる、振り切れないといった変化は、技術だけでなく「身体のこわばり」が関係していることもあります。\n長時間歩いて、何十回もスイングした身体は、筋膜が動きにくくなりやすい状態です。\n\n大切なのは、その疲れを今夜のうちにリセットして、翌日に残さないこと。\n今夜からできるケアと、こわばりのサインを画像にまとめました。ぜひ保存して、次のラウンド後にも見返してみてください。\n\nBody Care mocoでは、メディセルで筋膜をやさしく吸い上げ、強く揉まずにしっかりアプローチします。\n「最近、後半がもたない」「長年の腰の張りが気になる」そんな方も、あきらめずに一度ご相談くださいね。\n\n※強い痛みや腫れが続く場合は、まず整形外科などの医療機関へご相談ください。\n\nご予約・ご相談はDMへどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア #ラウンド後ケア #ゴルフ好きな人と繋がりたい #ゴルフ女子 #ゴルフ男子 #腰痛ケア #疲労回復 #成田市サロン #千葉ゴルフ #プライベートサロン",
   "cover": {
-    "lead": "今日のラウンド、お疲れさま",
-    "headline": "後半の【崩れ】、\n身体のこわばり\nかもしれません"
+    "lead": "今日のラウンド、どうでした？",
+    "headline": "後半に\n【崩れる】のは\n身体のせい？"
   },
   "slides": [
     {
       "title": "後半崩れの\n【こわばりサイン】",
       "numbered": false,
       "items": [
-        "後半になると、スイングが小さくなる",
-        "前半より飛距離が落ちてくる",
-        "腰や肩がはって、身体を捻りにくい",
-        "脚が重く、傾斜でふんばりにくい",
-        "疲れてくると手打ちになりやすい"
+        "後半、トップが浅くなった気がする",
+        "前半より飛距離が落ちてきた",
+        "腰や背中が張って振り切れない",
+        "上り坂やバンカーで脚が重く感じる",
+        "帰りの車で首や肩がガチガチ"
       ]
     },
     {
-      "title": "なぜ後半に\n【崩れやすい】の？",
-      "numbered": false,
-      "items": [
-        "同じ動きの反復で、筋膜がこわばりやすい",
-        "歩行と前傾姿勢で、腰や背中に負担がたまる",
-        "筋膜が固まると、捻りがスムーズにいきにくい",
-        "技術だけでなく、身体の状態も振り返ってみて"
-      ]
-    },
-    {
-      "title": "今夜できる\n【疲れを残さない】工夫",
+      "title": "今夜できる\n【疲れリセット】",
       "numbered": true,
       "items": [
-        "水分をこまめにとり、汗で失った分を補う",
-        "ぬるめのお湯にゆっくりつかって温まる",
-        "腰・お尻・ふくらはぎを反動をつけずに伸ばす",
-        "いつもより早めに休み、睡眠をしっかりとる",
-        "強い痛みや腫れが続く時は医療機関へ相談を"
+        "まずはコップ1杯の水分補給",
+        "ぬるめのお湯にゆっくり浸かる",
+        "太もも・お尻を反動なくのばす",
+        "胸を開いて深呼吸をくり返す",
+        "いつもより少し早めに休む"
+      ]
+    },
+    {
+      "title": "疲れを【ためない】\nための考え方",
+      "numbered": false,
+      "items": [
+        "こわばりは筋膜の動きにくさのサインかも",
+        "強く揉みすぎず、やさしくほぐす",
+        "違和感は早めのケアで向き合う",
+        "強い痛み・腫れが続くときは医療機関へ",
+        "メディセルで筋膜にしっかりアプローチ"
       ]
     }
   ],
   "closing": {
-    "lead": "次のラウンドをもっと楽しく",
-    "headline": "お気軽に\n【DMで】\nご相談ください"
+    "lead": "今日も一日お疲れさまでした",
+    "headline": "次のラウンドを\n【軽い身体】で\n迎えませんか"
   },
-  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a round. Warm low sunset light casting long shadows across the fairway, sky transitioning from soft sunset glow to deep calm blue. An 18th green pin flag silhouetted at the far right edge, a well-used golf bag with a worn glove resting on it and slightly muddy golf shoes placed at the lower left corner. Calm, reflective, refined mood conveying a day of hard effort and tired body. Color palette of bluish white, blue-gray and navy with touches of warm golden sunlight. Clean, crisp design appealing to both men and women, not spa-like. Keep the center bright, pale and mostly empty with generous negative space for overlaying a headline; place motifs such as sky, grass, trees and light toward the corners and side edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a finished round. Warm low sunset light with long shadows stretching across the 18th green, a pin flag gently swaying near the right edge, a well-used golf bag, a worn golf glove and slightly dirty golf shoes resting in the lower left corner. Sky transitioning from soft sunset orange to deep blue, framed by trees and grass at the edges. Calm, composed, reflective mood conveying a day of effort and tired body. Bluish white and blue-gray palette with touches of warm sunset glow, clean and sophisticated, appealing to both men and women. Keep the center bright, pale and mostly empty for overlaying a headline; place motifs toward the corners and sides. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
   "palette": "night",
   "images": [
     "posts/20261011-night-1.jpg",
