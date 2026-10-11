@@ -1,58 +1,56 @@
 {
   "date": "2026-10-11",
-  "slot": "night",
-  "theme": "ゴルフのラウンド後の疲労ケア",
-  "caption": "ラウンドの翌朝、腰や背中が重くて「年のせいかな」と感じていませんか？\n\n今日はゴルフを楽しまれた方も多いのではないでしょうか。\nたくさん歩いて、何度もスイングして、身体は思っている以上にがんばっています。\n\n同じ方向へのひねりをくり返すと、筋膜がこわばりやすくなります。\nその疲れを翌日に残さないために、今夜はご自身の身体をいたわる時間をつくってみてくださいね🌿\n\n帰宅後の水分補給、ぬるめのお風呂、やさしいストレッチ。\nどれも今日からできる小さなケアです。\n今夜のケアと、こわばりのサインを画像にまとめましたので、あわせてご覧ください。\n\nBody Care mocoでは、メディセルで皮膚と筋膜をやさしく吸い上げ、こわばりをほぐしてめぐりを整えます。強く揉まないので、揉み返しが苦手な方にもおすすめです。\nオーナーのmocoもゴルフが大好き。心も身体もゴルフも、もっと楽に、もっと楽しく⛳\n\n※強い痛みや腫れ、しびれが続く場合は、整形外科などの医療機関にご相談ください。\n\nご予約・ご相談は、お気軽にDMへどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #成田市サロン #ゴルフ #ゴルフ好き #ラウンド後 #ゴルフケア #腰痛ケア #肩こりケア #疲労回復 #セルフケア #プライベートサロン",
+  "slot": "noon",
+  "theme": "ラウンド前の肩と股関節の準備",
+  "caption": "「1番ホール、なんだか身体が回らない…」そんな経験はありませんか？⛳\n\n秋晴れのゴルフシーズン。\nせっかくのラウンドも、スタート直後は肩や股関節がこわばったまま、という方は少なくありません。\n\nデスクワークや車移動が続くと、筋膜がこわばって動きにくくなりがちです。\nだからこそ、ラウンド前・練習前のちょっとした準備がポイントです。\n\n今回は、ティーグラウンドに向かう前にできる肩まわり・股関節の準備と、明日からの仕事の合間にできるセルフケアをまとめました。\nお昼休みにもすぐ試せる内容なので、画像もあわせてご覧ください。保存しておくと、ラウンド当日に便利です。\n\nBody Care mocoでは、メディセルで筋膜にやさしくアプローチする「ラウンド前ケア」にも力を入れています。\n強く揉まないので、プレー前でも身体が軽く感じる方が多いです☀️\n\n今週末のゴルフも、明日からのお仕事も、動ける身体で楽しみましょう。\nご予約・ご相談はDMからお気軽にどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフ #ゴルフ好き #ラウンド前 #ゴルフストレッチ #ゴルフケア #肩こり #股関節 #セルフケア #デスクワーク #成田ゴルフ",
   "cover": {
-    "lead": "日曜ゴルファーのみなさんへ",
-    "headline": "ラウンド後の\n【疲れ】を\n翌日に残さない"
+    "lead": "ラウンド前のひと工夫",
+    "headline": "スタート前\n【5分】で\n動ける身体に"
   },
   "slides": [
     {
-      "title": "ラウンド後の\n【夜のセルフケア】",
+      "title": "ラウンド前の\n【肩まわり】準備",
       "numbered": true,
       "items": [
-        "帰宅したら、まずは水分補給をこまめに",
-        "ぬるめのお湯にゆっくり浸かって温める",
-        "太ももの前後とお尻をやさしく伸ばす",
-        "胸を開いて、肩甲骨まわりを大きく回す",
-        "いつもより少し早めに布団へ"
+        "両肩をすくめて、ストンと下ろす×5回",
+        "肘で大きな円を描くように肩を回す",
+        "クラブを両手で持ち、頭の上へ伸ばす",
+        "胸を開いて、深呼吸をゆっくり3回"
       ]
     },
     {
-      "title": "こんなサインは\n【筋膜のこわばり】かも",
-      "numbered": false,
+      "title": "【股関節】を\n動かしやすく",
+      "numbered": true,
       "items": [
-        "翌朝、腰や背中がこわばって重い",
-        "振り返る動きで、片側だけつっぱる",
-        "肩が上がりにくく、腕が回しにくい",
-        "歩くと膝や太ももが重だるい",
-        "ストレッチしても、すぐ元に戻ってしまう"
+        "足を肩幅に開き、腰をゆっくり回す",
+        "クラブを杖にして、脚を前後に軽く振る",
+        "軽く前屈して、もも裏をじんわり伸ばす",
+        "痛みが出たら無理せず中止しましょう"
       ]
     },
     {
-      "title": "メディセルで\n【ラウンド後ケア】",
+      "title": "仕事の合間に\nできる【セルフケア】",
       "numbered": false,
       "items": [
-        "揉まずに吸い上げて、筋膜のこわばりをほぐす",
-        "揉み返しが苦手な方にもおすすめ",
-        "めぐりを整え、身体が軽く感じる方も多い",
-        "強い痛みや腫れは、まず医療機関へご相談を"
+        "1時間に1度は立ち上がって大きく伸び",
+        "画面は目の高さに、あごを軽く引いて座る",
+        "肩甲骨を寄せて5秒キープ×3回",
+        "こまめな水分補給で、めぐりをサポート"
       ]
     }
   ],
   "closing": {
-    "lead": "次のラウンドも笑顔で",
-    "headline": "DMで気軽に\n【ご相談】\nください"
+    "lead": "週末のゴルフを笑顔で",
+    "headline": "動ける身体へ\nお気軽に\n【ご相談】を"
   },
-  "image_prompt": "Calm watercolor-style background illustration, bluish white to pale blue-gray base, gentle evening sky transitioning from soft dusk to deep twilight blue in the upper corners, a hint of a quiet golf course green and a single golf ball resting on soft grass at the bottom left edge, potted green houseplants on the right edge, warm soft indirect lamp light glowing gently from one corner, soothing atmosphere of caring for the day's fatigue, clean and calm design appealing to both men and women, the center left bright, light-colored and mostly empty for overlaying a headline later, motifs placed only at the corners and edges, no people, no faces, no body parts, no text, no letters, no numbers, no logos",
-  "palette": "night",
+  "image_prompt": "Realistic watercolor illustration of a pristine golf course in the early morning, cloudless clear blue sky, bright morning sun with soft sunbeams from the top corner, dew sparkling on a well-kept fairway and tee ground, a golf ball on a tee and a golf bag leaning at the side edge, refreshing and energetic mood before a round. Color palette of bluish white and sky blue with navy and blue accents, fresh green grass and warm sunlight. Clean, crisp design appealing to both men and women. Keep the center bright, pale and mostly empty for overlaying a headline; place motifs like sky, grass, sunlight and golf equipment toward the corners and left and right edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "palette": "noon",
   "images": [
-    "posts/20261011-night-1.jpg",
-    "posts/20261011-night-2.jpg",
-    "posts/20261011-night-3.jpg",
-    "posts/20261011-night-4.jpg",
-    "posts/20261011-night-5.jpg"
+    "posts/20261011-noon-1.jpg",
+    "posts/20261011-noon-2.jpg",
+    "posts/20261011-noon-3.jpg",
+    "posts/20261011-noon-4.jpg",
+    "posts/20261011-noon-5.jpg"
   ],
   "published": false
 }
