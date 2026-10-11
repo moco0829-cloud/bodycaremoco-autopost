@@ -14,6 +14,7 @@ GitHub Actions（毎日 昼12時半・夜19時33分の投稿に向けて起動�
   ├─ 同じ背景の上に、表紙・中身（番号付きの手順やチェックリスト）・締めの文字をゴシック体で重ねる
   ├─ 画像をリポジトリに保存（Instagram が読める公開URLにするため）
   ├─ Instagram API で投稿
+  ├─ 同じ画像と文章を Facebook ページにも投稿（Secrets に FB_PAGE_ID と FB_PAGE_TOKEN があるときだけ）
   └─ 履歴を history.json に記録
 ```
 
@@ -27,6 +28,7 @@ GitHub Actions（毎日 昼12時半・夜19時33分の投稿に向けて起動�
 | `posts/` | 生成した画像の保存先 |
 | `.github/workflows/autopost.yml` | 毎日 昼12時半・夜19時33分の自動実行 |
 | `.github/workflows/refresh-token.yml` | Instagram トークンの自動延長（週1回） |
+| `.github/workflows/facebook-retry.yml` | Facebook だけ失敗した日に、最新の投稿を Facebook にもう一度出す（手動実行） |
 
 ## 色合い
 
@@ -81,6 +83,8 @@ Instagram API はインターネット上で公開されている画像URLしか
 | `IG_ACCESS_TOKEN` | 手順2-5 のアクセストークン（@bodycaremoco_narita のもの） |
 | `IG_USER_ID` | 手順2-6 の `user_id` |
 | `GH_PAT` | トークン自動延長用。下記参照 |
+| `FB_PAGE_ID` | Facebook ページ「Body Care moco｜ゴルファーのためのボディケア」のID |
+| `FB_PAGE_TOKEN` | Facebook ページのアクセストークン（期限なしのもの） |
 
 **`GH_PAT` の作り方**: [新しいトークンの作成画面（classic）](https://github.com/settings/tokens/new) を開き、
 Note に `bodycaremoco-autopost-secrets`、Expiration に「No expiration」、Select scopes で「**repo**」にチェックを入れて作成します。
@@ -111,7 +115,7 @@ Note に `bodycaremoco-autopost-secrets`、Expiration に「No expiration」、S
 - **画像の色を変えたい** → `autopost.py` の `PALETTES`
 - **画像下のサロン名を変えたい** → workflow の生成ステップの `env` に `IMAGE_SIGNATURE` / `IMAGE_SIGNATURE_SUB` を追加
 - **画像の品質・料金を変えたい** → workflow の生成ステップの `env` に `IMAGE_QUALITY: low` などを追加
-- **Facebook ページにも投稿したくなった** → Salon de moco の `autopost.yml` にある「Facebook ページにも投稿」のステップを戻し、Secrets に `FB_PAGE_ID` と `FB_PAGE_TOKEN` を登録（プログラム側の機能は残してある）
+- **Facebook だけ投稿に失敗した日** → Actions の「Facebook に投稿（最新の投稿をもう一度）」を手動実行
 - **一時停止したい** → Variables の `AUTOPOST_ENABLED` を `false` にする
 
 ## 注意点
