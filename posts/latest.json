@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-11",
+  "slot": "night",
+  "theme": "ゴルフのラウンド後の疲労ケア",
+  "caption": "ラウンドの翌朝、腰や背中が重くて「年のせいかな」と感じていませんか？\n\n今日はゴルフを楽しまれた方も多いのではないでしょうか。\nたくさん歩いて、何度もスイングして、身体は思っている以上にがんばっています。\n\n同じ方向へのひねりをくり返すと、筋膜がこわばりやすくなります。\nその疲れを翌日に残さないために、今夜はご自身の身体をいたわる時間をつくってみてくださいね🌿\n\n帰宅後の水分補給、ぬるめのお風呂、やさしいストレッチ。\nどれも今日からできる小さなケアです。\n今夜のケアと、こわばりのサインを画像にまとめましたので、あわせてご覧ください。\n\nBody Care mocoでは、メディセルで皮膚と筋膜をやさしく吸い上げ、こわばりをほぐしてめぐりを整えます。強く揉まないので、揉み返しが苦手な方にもおすすめです。\nオーナーのmocoもゴルフが大好き。心も身体もゴルフも、もっと楽に、もっと楽しく⛳\n\n※強い痛みや腫れ、しびれが続く場合は、整形外科などの医療機関にご相談ください。\n\nご予約・ご相談は、お気軽にDMへどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #成田市サロン #ゴルフ #ゴルフ好き #ラウンド後 #ゴルフケア #腰痛ケア #肩こりケア #疲労回復 #セルフケア #プライベートサロン",
+  "cover": {
+    "lead": "日曜ゴルファーのみなさんへ",
+    "headline": "ラウンド後の\n【疲れ】を\n翌日に残さない"
+  },
+  "slides": [
+    {
+      "title": "ラウンド後の\n【夜のセルフケア】",
+      "numbered": true,
+      "items": [
+        "帰宅したら、まずは水分補給をこまめに",
+        "ぬるめのお湯にゆっくり浸かって温める",
+        "太ももの前後とお尻をやさしく伸ばす",
+        "胸を開いて、肩甲骨まわりを大きく回す",
+        "いつもより少し早めに布団へ"
+      ]
+    },
+    {
+      "title": "こんなサインは\n【筋膜のこわばり】かも",
+      "numbered": false,
+      "items": [
+        "翌朝、腰や背中がこわばって重い",
+        "振り返る動きで、片側だけつっぱる",
+        "肩が上がりにくく、腕が回しにくい",
+        "歩くと膝や太ももが重だるい",
+        "ストレッチしても、すぐ元に戻ってしまう"
+      ]
+    },
+    {
+      "title": "メディセルで\n【ラウンド後ケア】",
+      "numbered": false,
+      "items": [
+        "揉まずに吸い上げて、筋膜のこわばりをほぐす",
+        "揉み返しが苦手な方にもおすすめ",
+        "めぐりを整え、身体が軽く感じる方も多い",
+        "強い痛みや腫れは、まず医療機関へご相談を"
+      ]
+    }
+  ],
+  "closing": {
+    "lead": "次のラウンドも笑顔で",
+    "headline": "DMで気軽に\n【ご相談】\nください"
+  },
+  "image_prompt": "Calm watercolor-style background illustration, bluish white to pale blue-gray base, gentle evening sky transitioning from soft dusk to deep twilight blue in the upper corners, a hint of a quiet golf course green and a single golf ball resting on soft grass at the bottom left edge, potted green houseplants on the right edge, warm soft indirect lamp light glowing gently from one corner, soothing atmosphere of caring for the day's fatigue, clean and calm design appealing to both men and women, the center left bright, light-colored and mostly empty for overlaying a headline later, motifs placed only at the corners and edges, no people, no faces, no body parts, no text, no letters, no numbers, no logos",
+  "palette": "night",
+  "images": [
+    "posts/20261011-night-1.jpg",
+    "posts/20261011-night-2.jpg",
+    "posts/20261011-night-3.jpg",
+    "posts/20261011-night-4.jpg",
+    "posts/20261011-night-5.jpg"
+  ],
+  "published": false
+}
