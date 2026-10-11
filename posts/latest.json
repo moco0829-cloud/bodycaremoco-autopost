@@ -1,57 +1,58 @@
 {
   "date": "2026-10-11",
-  "slot": "noon",
-  "theme": "ラウンド前の肩と股関節の準備",
-  "caption": "「1番ホール、なんだか身体が回らない…」そんな経験はありませんか？⛳\n\n秋晴れのゴルフシーズン。\nせっかくのラウンドも、スタート直後は肩や股関節がこわばったまま、という方は少なくありません。\n\nデスクワークや車移動が続くと、筋膜がこわばって動きにくくなりがちです。\nだからこそ、ラウンド前・練習前のちょっとした準備がポイントです。\n\n今回は、ティーグラウンドに向かう前にできる肩まわり・股関節の準備と、明日からの仕事の合間にできるセルフケアをまとめました。\nお昼休みにもすぐ試せる内容なので、画像もあわせてご覧ください。保存しておくと、ラウンド当日に便利です。\n\nBody Care mocoでは、メディセルで筋膜にやさしくアプローチする「ラウンド前ケア」にも力を入れています。\n強く揉まないので、プレー前でも身体が軽く感じる方が多いです☀️\n\n今週末のゴルフも、明日からのお仕事も、動ける身体で楽しみましょう。\nご予約・ご相談はDMからお気軽にどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフ #ゴルフ好き #ラウンド前 #ゴルフストレッチ #ゴルフケア #肩こり #股関節 #セルフケア #デスクワーク #成田ゴルフ",
+  "slot": "night",
+  "theme": "後半に崩れる原因と、ラウンド後の疲労ケア",
+  "caption": "「前半は良かったのに、後半で崩れた…」そんな日はありませんか？\n\n今日のラウンド、本当にお疲れさまでした⛳\n\nスコアを振り返ると、スイングや技術ばかり気になりますよね。\nでも実は、後半の崩れや飛距離の低下には、身体のこわばりが関係していることもあるんです。\n\n同じスイングをくり返したり、前傾姿勢で長く歩いたりするうちに、筋膜はこわばりやすくなります。\nすると、捻りが浅くなったり、脚でふんばりにくくなったりすることも。\n\n画像では、後半崩れのサインと、今夜からできる「疲れを残さない工夫」をまとめました。保存して、ラウンドのあとに見返してみてください。\n\nBody Care mocoでは、メディセルで筋膜をやさしく吸い上げ、こわばりにしっかりアプローチします。強く揉まないので、揉み返しが苦手な方も安心です。\n\nがんばった身体を整えて、次のラウンドをもっと楽しく☀️\nご予約・ご相談は、お気軽にDMへどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア #ラウンド後ケア #ゴルフ好きな人と繋がりたい #ゴルフ女子 #ゴルフ男子 #腰痛ケア #肩こりケア #疲労ケア #成田市サロン #プライベートサロン",
   "cover": {
-    "lead": "ラウンド前のひと工夫",
-    "headline": "スタート前\n【5分】で\n動ける身体に"
+    "lead": "今日のラウンド、お疲れさま",
+    "headline": "後半の【崩れ】、\n身体のこわばり\nかもしれません"
   },
   "slides": [
     {
-      "title": "ラウンド前の\n【肩まわり】準備",
-      "numbered": true,
-      "items": [
-        "両肩をすくめて、ストンと下ろす×5回",
-        "肘で大きな円を描くように肩を回す",
-        "クラブを両手で持ち、頭の上へ伸ばす",
-        "胸を開いて、深呼吸をゆっくり3回"
-      ]
-    },
-    {
-      "title": "【股関節】を\n動かしやすく",
-      "numbered": true,
-      "items": [
-        "足を肩幅に開き、腰をゆっくり回す",
-        "クラブを杖にして、脚を前後に軽く振る",
-        "軽く前屈して、もも裏をじんわり伸ばす",
-        "痛みが出たら無理せず中止しましょう"
-      ]
-    },
-    {
-      "title": "仕事の合間に\nできる【セルフケア】",
+      "title": "後半崩れの\n【こわばりサイン】",
       "numbered": false,
       "items": [
-        "1時間に1度は立ち上がって大きく伸び",
-        "画面は目の高さに、あごを軽く引いて座る",
-        "肩甲骨を寄せて5秒キープ×3回",
-        "こまめな水分補給で、めぐりをサポート"
+        "後半になると、スイングが小さくなる",
+        "前半より飛距離が落ちてくる",
+        "腰や肩がはって、身体を捻りにくい",
+        "脚が重く、傾斜でふんばりにくい",
+        "疲れてくると手打ちになりやすい"
+      ]
+    },
+    {
+      "title": "なぜ後半に\n【崩れやすい】の？",
+      "numbered": false,
+      "items": [
+        "同じ動きの反復で、筋膜がこわばりやすい",
+        "歩行と前傾姿勢で、腰や背中に負担がたまる",
+        "筋膜が固まると、捻りがスムーズにいきにくい",
+        "技術だけでなく、身体の状態も振り返ってみて"
+      ]
+    },
+    {
+      "title": "今夜できる\n【疲れを残さない】工夫",
+      "numbered": true,
+      "items": [
+        "水分をこまめにとり、汗で失った分を補う",
+        "ぬるめのお湯にゆっくりつかって温まる",
+        "腰・お尻・ふくらはぎを反動をつけずに伸ばす",
+        "いつもより早めに休み、睡眠をしっかりとる",
+        "強い痛みや腫れが続く時は医療機関へ相談を"
       ]
     }
   ],
   "closing": {
-    "lead": "週末のゴルフを笑顔で",
-    "headline": "動ける身体へ\nお気軽に\n【ご相談】を"
+    "lead": "次のラウンドをもっと楽しく",
+    "headline": "お気軽に\n【DMで】\nご相談ください"
   },
-  "image_prompt": "Realistic watercolor illustration of a pristine golf course in the early morning, cloudless clear blue sky, bright morning sun with soft sunbeams from the top corner, dew sparkling on a well-kept fairway and tee ground, a golf ball on a tee and a golf bag leaning at the side edge, refreshing and energetic mood before a round. Color palette of bluish white and sky blue with navy and blue accents, fresh green grass and warm sunlight. Clean, crisp design appealing to both men and women. Keep the center bright, pale and mostly empty for overlaying a headline; place motifs like sky, grass, sunlight and golf equipment toward the corners and left and right edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
-  "palette": "noon",
+  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a round. Warm low sunset light casting long shadows across the fairway, sky transitioning from soft sunset glow to deep calm blue. An 18th green pin flag silhouetted at the far right edge, a well-used golf bag with a worn glove resting on it and slightly muddy golf shoes placed at the lower left corner. Calm, reflective, refined mood conveying a day of hard effort and tired body. Color palette of bluish white, blue-gray and navy with touches of warm golden sunlight. Clean, crisp design appealing to both men and women, not spa-like. Keep the center bright, pale and mostly empty with generous negative space for overlaying a headline; place motifs such as sky, grass, trees and light toward the corners and side edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "palette": "night",
   "images": [
-    "posts/20261011-noon-1.jpg",
-    "posts/20261011-noon-2.jpg",
-    "posts/20261011-noon-3.jpg",
-    "posts/20261011-noon-4.jpg",
-    "posts/20261011-noon-5.jpg"
+    "posts/20261011-night-1.jpg",
+    "posts/20261011-night-2.jpg",
+    "posts/20261011-night-3.jpg",
+    "posts/20261011-night-4.jpg",
+    "posts/20261011-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "17906739627659804"
+  "published": false
 }
