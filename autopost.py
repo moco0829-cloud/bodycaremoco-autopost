@@ -35,6 +35,8 @@ HISTORY_FILE = ROOT / "history.json"
 LATEST_FILE = POSTS_DIR / "latest.json"
 BRAND_FILE = ROOT / "brand.md"
 LOGO_FILE = ROOT / "assets" / "logo.png"  # 背景を透明にしたロゴ。表紙と締めの画像に入れる
+MACHINE_FILE = ROOT / "assets" / "medicell.png"  # 背景を透明にしたメディセル HYBRID の写真（使用許可あり）
+MACHINE_LABEL = "本格筋膜ケアマシン導入"
 
 JST = timezone(timedelta(hours=9), "JST")
 IG_API = "https://graph.instagram.com/v23.0"
@@ -313,17 +315,34 @@ def draw_signature(draw: ImageDraw.ImageDraw, y: int, size: int = 46) -> None:
     draw.text((540, y + int(size * 0.5) + sub_size), SIGNATURE_SUB, font=load_font(sub_size), fill=COLOR_TEXT, anchor="ms")
 
 
-def draw_logo_signature(layer: Image.Image, y: int, width: int = 300) -> None:
-    """ロゴと、その下にキャッチコピー。ロゴのファイルがなければ文字の署名にする。"""
+def fit_width(path: Path, width: int = 0, height: int = 0) -> Image.Image:
+    image = Image.open(path).convert("RGBA")
+    if width:
+        return image.resize((width, image.height * width // image.width), Image.LANCZOS)
+    return image.resize((image.width * height // image.height, height), Image.LANCZOS)
+
+
+def draw_logo_signature(layer: Image.Image, y: int) -> None:
+    """ロゴ（左）とメディセルの写真（右）を並べ、その下の中央にキャッチコピー。
+    写真がなければロゴだけを中央に、ロゴもなければ文字の署名にする。"""
     draw = ImageDraw.Draw(layer)
     if not LOGO_FILE.exists():
         draw_signature(draw, y + 76)
         return
-    logo = Image.open(LOGO_FILE).convert("RGBA")
-    logo = logo.resize((width, logo.height * width // logo.width), Image.LANCZOS)
-    top = y + 24
-    layer.alpha_composite(logo, ((1080 - width) // 2, top))
-    draw.text((540, top + logo.height + 44), SIGNATURE_SUB, font=load_font(28), fill=COLOR_TEXT, anchor="ms")
+    top = y + 30
+    logo = fit_width(LOGO_FILE, width=280)
+    bottom = top + logo.height
+    logo_center = 540
+    if MACHINE_FILE.exists():
+        logo_center = 390
+        machine_center = 720
+        machine = fit_width(MACHINE_FILE, height=220)
+        layer.alpha_composite(machine, (machine_center - machine.width // 2, top))
+        label_y = top + machine.height + 32
+        draw.text((machine_center, label_y), MACHINE_LABEL, font=load_font(24), fill=COLOR_TEXT, anchor="ms")
+        bottom = max(bottom, label_y)
+    layer.alpha_composite(logo, (logo_center - logo.width // 2, top + 4))
+    draw.text((540, bottom + 56), SIGNATURE_SUB, font=load_font(30), fill=COLOR_TEXT, anchor="ms")
 
 
 def with_panel(image: Image.Image, text_layer: Image.Image) -> Image.Image:
