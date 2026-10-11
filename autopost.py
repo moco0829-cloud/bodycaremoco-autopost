@@ -400,9 +400,66 @@ def render_cover(image: Image.Image, lead: str, headline: str, note: str = "") -
 NO_LINE_START = "、。，．・：；？！ー」』）】ぁぃぅぇぉっゃゅょァィゥェォッャュョ"
 
 
+def char_kind(char: str) -> str:
+    if "぀" <= char <= "ゟ":
+        return "hiragana"
+    if "゠" <= char <= "ヿ":
+        return "katakana"
+    if "一" <= char <= "鿿":
+        return "kanji"
+    return "other"
+
+
+def break_penalty(before: str, after: str) -> int:
+    """before と after のあいだで改行したときの不自然さ。小さいほど自然。"""
+    if after in NO_LINE_START:
+        return 1000  # 句読点や小さい「っ」などは行頭に置かない
+    if before in "、。！？」』）":
+        return 0  # 読点・句点のあと
+    kind_before, kind_after = char_kind(before), char_kind(after)
+    if kind_before == "hiragana" and kind_after != "hiragana":
+        return 1  # 「〜を｜肩」のように、ひらがなのあとに次の言葉が始まるところ
+    if kind_after == "hiragana" and kind_before in ("kanji", "katakana"):
+        return 6  # 「裏｜を」「伸｜ばす」のように、送りがなや助詞が行頭に来る
+    if kind_before != kind_after:
+        return 2
+    return 8  # 「ス｜トン」のような言葉の途中
+
+
 def wrap_text(text: str, font: ImageFont.FreeTypeFont, width: float) -> list[str]:
-    """日本語を、行の幅いっぱいまで1文字ずつ詰めて折り返す。"""
-    return wrap_greedy(text, font, width)
+    """日本語を折り返す。行数はできるだけ少なくしたまま、読点や言葉の区切りで改行し、
+    行の長さもそろえる（最後の1〜2文字だけが次の行に回るのを防ぐ）。"""
+    lines = wrap_greedy(text, font, width)
+    if len(lines) < 2:
+        return lines
+    n = len(text)
+    # best[i] = text[:i] を len 行で折り返したときの（行数, 不自然さ）と、直前の改行位置
+    best: dict[int, tuple[tuple[int, float], int]] = {0: ((0, 0.0), -1)}
+    for end in range(1, n + 1):
+        candidates = []
+        for start in range(end - 1, -1, -1):
+            line_width = font.getlength(text[start:end])
+            if line_width > width:
+                break
+            if start not in best:
+                continue
+            (count, cost), _ = best[start]
+            penalty = 0 if end == n else break_penalty(text[end - 1], text[end])
+            slack = (width - line_width) / width
+            cost_here = penalty * 10 + slack * slack * 10
+            if end == n and end - start <= 2:
+                cost_here += 50  # 最後の行が1〜2文字だけになるのを避ける
+            candidates.append(((count + 1, cost + cost_here), start))
+        if candidates:
+            best[end] = min(candidates)
+    if n not in best or best[n][0][0] > len(lines):
+        return lines
+    breaks, end = [], n
+    while end > 0:
+        start = best[end][1]
+        breaks.append(text[start:end])
+        end = start
+    return breaks[::-1]
 
 
 def wrap_greedy(text: str, font: ImageFont.FreeTypeFont, width: float) -> list[str]:
@@ -424,13 +481,16 @@ def render_list(image: Image.Image, title: str, items: list[str], numbered: bool
     title_size, title_fonts = fit_heading(title_lines, 68, 44)
     items = [re.sub(r"[【】]", "", item).strip() for item in items[:6]]
 
-    # 本文が画像に収まるまで文字を小さくする（パネルの内側は幅 760px。うち印の列が 60px）
+    # 本文が画像に収まるまで文字を小さくする（パネルの内側は幅 760px。うち印の列が 60px）。
+    # 使える高さは、画像の高さから、パネルの余白・見出し・区切り線・署名の分を引いたもの
     text_width = 700
-    for size in range(42, 27, -2):
+    title_height = title_size * 1.15 + title_size * 1.45 * (len(title_lines) - 1) + 60
+    available = 1350 - 260 - title_height - 170
+    for size in range(42, 25, -2):
         font = load_font(size)
         wrapped = [wrap_text(item, font, text_width) for item in items]
         height = sum(len(lines) * size * 1.55 + size * 0.7 for lines in wrapped)
-        if height <= 760:
+        if height <= available:
             break
 
     # 箇条書きのかたまりを、いちばん長い行に合わせて左右の中央に置く（右だけ余白が空かないように）
