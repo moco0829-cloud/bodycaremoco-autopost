@@ -1,60 +1,58 @@
 {
   "date": "2026-10-12",
-  "slot": "noon",
-  "theme": "デスクワークと捻転のお昼ケア",
-  "caption": "週末のゴルフ、月曜の座りっぱなしから準備が始まっています☀️\n\nこんにちは、Body Care mocoです。\nお昼休み、ずっと同じ姿勢でパソコンに向かっていませんか？\n\n前かがみの姿勢が続くと、胸や背中まわりの筋膜がこわばりやすくなります。\n背中が丸まったままだと、体をひねる動きが小さくなりがち。\nスイングで肩だけを回そうとして、腰や肘に負担がかかることもあります。\n\nだからこそ、平日のちょっとした積み重ねが大切です。\nお昼休みにできる1分セルフケアと、週末ゴルフまでの過ごし方を画像にまとめました。\n保存して、仕事の合間に試してみてくださいね。\n\nセルフケアでも固さが抜けにくいときは、メディセルで筋膜からしっかりアプローチします。\n強く揉まないので、揉み返しが苦手な方にもおすすめです。\nなお、強い痛みやしびれが続く場合は、医療機関へご相談ください。\n\n動ける身体で、週末のラウンドを思いきり楽しみましょう⛳\nご予約・ご相談はDMからお気軽にどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア #ゴルフ好きな人と繋がりたい #デスクワーク #肩こり #背中のはり #セルフケア #ゴルフスイング #成田市サロン #プライベートサロン",
+  "slot": "night",
+  "theme": "飛距離低下と身体のこわばり",
+  "caption": "「最近、飛距離が落ちたな…」それ、年齢のせいだけではないかもしれません。\n\n今日のラウンド、お疲れさまでした⛳\nスコアカードを見返しながら、ドライバーの距離が気になった方もいらっしゃるのではないでしょうか。\n\n実は、飛距離の変化には「身体のこわばり」が関わっていることがあります。\n全身をつつむ筋膜が固まると、胸まわりや股関節の回旋が小さくなり、捻転が浅くなりがちです。その結果、手打ちになったり、ほかの場所に負担がかかったりします。\n\n今夜のうちにできるセルフチェックと、翌日に疲れを残さないラウンド後ケアを画像にまとめました。ぜひあわせてご覧ください。\n\nBody Care mocoでは、メディセルで筋膜をやさしく吸い上げ、こわばりにしっかりアプローチします。強く揉まないので、揉み返しが苦手な方にもおすすめです。\n\n※強い痛みやしびれ、腫れが続く場合は、整形外科などの医療機関にご相談ください。\n\n「年齢だから」とあきらめず、動ける身体で次のラウンドへ☀️\nご予約・ご相談はDMからお気軽にどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア #ゴルフ好き #飛距離アップ #ラウンド後ケア #ゴルフスイング #肩こり #腰痛 #プライベートサロン #成田ゴルフ",
   "cover": {
-    "lead": "お昼休みに1分ケア",
-    "headline": "座りっぱなしが\n【スイング】を\n重くする？"
+    "lead": "ラウンドお疲れさまでした",
+    "headline": "最近【飛距離】が\n落ちたのは\n年齢のせい？"
   },
   "slides": [
     {
-      "title": "座りっぱなしで\n【背中】が固まるわけ",
+      "title": "飛距離が落ちたかも？\n【からだチェック】",
       "numbered": false,
       "items": [
-        "前かがみが続くと胸まわりの筋膜がこわばりやすい",
-        "背中が丸まると、体をひねる動きが小さくなりがち",
-        "肩だけで回そうとして、腰や肘に負担がかかることも",
-        "週末だけ急に動くと、身体がついてきにくい"
+        "テークバックで肩が回りにくい",
+        "以前より振り切った感覚がない",
+        "前傾姿勢を保つと腰がはってくる",
+        "ラウンド翌日、背中や脚が重い",
+        "朝起きたとき、首や肩がこわばる"
       ]
     },
     {
-      "title": "お昼休みの\n【1分セルフケア】",
+      "title": "こわばりが\n【飛距離】に響く理由",
+      "numbered": false,
+      "items": [
+        "筋膜は全身をつなぐボディスーツのような膜",
+        "固まると胸や股関節の回旋が小さくなる",
+        "捻転が浅いと手打ちになりやすい",
+        "かばう動きで、別の場所に負担がかかる"
+      ]
+    },
+    {
+      "title": "今夜できる\n【ラウンド後ケア】",
       "numbered": true,
       "items": [
-        "椅子に浅く座り、背すじをすっと伸ばす",
-        "両手を胸の前で組み、ゆっくり左右にひねる",
-        "肩甲骨を寄せて下ろす動きを5回くり返す",
-        "立ち上がって、かかとの上げ下げを10回",
-        "呼吸は止めず、痛みが出ない範囲で行う"
-      ]
-    },
-    {
-      "title": "週末ゴルフまでの\n【過ごし方】",
-      "numbered": false,
-      "items": [
-        "1時間に1回は立ち上がって少し歩く",
-        "画面は目の高さに合わせ、前かがみを防ぐ",
-        "湯船で身体を温めて、めぐりを整える",
-        "固さが抜けにくい時は筋膜からしっかりケア",
-        "強い痛みやしびれが続く時は医療機関へ相談を"
+        "ぬるめの湯船で全身をあたためる",
+        "水分をこまめにとって、めぐりを意識",
+        "胸を開いて深呼吸を、ゆっくり5回",
+        "お尻と太ももを反動なしで伸ばす",
+        "早めに休んで、翌日に疲れを残さない"
       ]
     }
   ],
   "closing": {
-    "lead": "週末のラウンドに向けて",
-    "headline": "動ける身体へ\n【ご相談】\nお待ちしています"
+    "lead": "年齢のせいとあきらめないで",
+    "headline": "次のラウンドへ\n【お気軽に】\nDMください"
   },
-  "image_prompt": "Semi-realistic watercolor illustration of a bright morning golf course under a cloudless clear blue sky, dazzling morning sunlight with soft lens glow from the upper corner, a well-kept fairway and tee ground glistening with morning dew, a golf ball resting on a tee and a golf bag leaning at the edge of the frame, fresh and energetic mood of heading out for a round. Bluish white to sky blue palette with touches of navy and blue, green grass accents, clean, crisp, sophisticated design appealing to both men and women. The center of the image is bright, pale and mostly empty with plenty of negative space for overlaying a headline; motifs of sky, grass, trees and sunlight are placed at the corners and left and right edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
-  "palette": "noon",
+  "image_prompt": "Realistic watercolor painting of a golf course at dusk after a finished round. The sky transitions from soft sunset orange to deep calm blue. Long shadows stretch across the 18th green under warm low western sunlight, a pin flag gently placed near the right edge. In the lower left corner, a well-used golf bag leaning on a bench with a worn golf glove and slightly muddy golf shoes resting beside it. Trees and grass framing the left and right edges. Clean, crisp, composed mood conveying a day of hard effort, tired body, and quiet reflection on today's play. Color palette of bluish white, blue gray and navy accented with warm sunset light, refined and appealing to both men and women. The center of the image is bright, pale and mostly empty with generous negative space for overlaying a headline later; all motifs pushed to the corners and edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "palette": "night",
   "images": [
-    "posts/20261012-noon-1.jpg",
-    "posts/20261012-noon-2.jpg",
-    "posts/20261012-noon-3.jpg",
-    "posts/20261012-noon-4.jpg",
-    "posts/20261012-noon-5.jpg"
+    "posts/20261012-night-1.jpg",
+    "posts/20261012-night-2.jpg",
+    "posts/20261012-night-3.jpg",
+    "posts/20261012-night-4.jpg",
+    "posts/20261012-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18188146111404681",
-  "fb_post_id": "1336197019582610_122104724613501764"
+  "published": false
 }
