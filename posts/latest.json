@@ -1,59 +1,56 @@
 {
   "date": "2026-10-13",
-  "slot": "noon",
-  "theme": "マウスとグリップ、前腕の昼ケア",
-  "caption": "午前中、マウスをずっと握りっぱなしではありませんか？☀️\n\nパソコン作業で手首や指を使い続けると、前腕の筋膜はこわばりやすくなります。\n実はこれ、ゴルフのグリップとも深く関係しているんです。\n\n前腕が固まったままだと、つい力んでグリップを強く握りがち。\nその力みが肩や肘にまで伝わって、スイングが窮屈に感じる方も少なくありません。\n\nそこで今日は、お昼休みにデスクでできる1分前腕ケアをまとめました。\n画像もあわせてご覧ください。\n\n午後の仕事も、週末のラウンドも、軽やかな腕で迎えましょう⛳\n\nなお、肘の痛みやしびれ、腫れが続く場合は、無理をせず整形外科などの医療機関にご相談くださいね。\n\nBody Care mocoでは、メディセルで筋膜をやさしく吸い上げ、前腕から肩までのこわばりにしっかりアプローチします。強く揉まないので、揉み返しが苦手な方にもおすすめです。\n\nご予約・ご相談はお気軽にDMへ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #前腕ケア #手首の疲れ #デスクワーク #セルフケア #ゴルフケア #ゴルフ好き #ラウンド前 #成田市サロン #プライベートサロン",
+  "slot": "night",
+  "theme": "18ホール歩いた脚と膝の夜ケア",
+  "caption": "ラウンドのあと、脚がずっしり重くなっていませんか？\n\n今日もお疲れさまでした⛳\n18ホールを歩き切った脚は、思っている以上にがんばっています。\n\n傾斜やバンカーでの踏ん張り、アドレスの前傾姿勢、フィニッシュで膝にかかる体重。\nふくらはぎや太もも裏の筋膜は、1日中ずっと働き続けています。\n\n「年齢のせいかな」「いつものことだから」とあきらめず、まずは今夜のケアから始めてみませんか。\n水分補給、ぬるめのお湯、足首まわし、脚を少し高くして眠る。\nどれも今日からできることばかりです。画像もあわせてご覧ください。\n\nなお、膝の痛みや腫れが続く場合は、無理をせず整形外科などの医療機関にご相談くださいね。\n\nBody Care mocoでは、メディセルで皮膚と筋膜をやさしく吸い上げ、こわばりにしっかりアプローチします。強く揉まないので、揉み返しが苦手な方にもおすすめです。\n次のラウンドを軽い脚で迎えたい方は、お気軽にDMへどうぞ☀️\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア #ラウンド後のケア #ゴルフ好きな人と繋がりたい #脚の疲れ #膝の痛み #むくみ #ふくらはぎ #ゴルフ #プライベートサロン",
   "cover": {
-    "lead": "パソコンとゴルフの共通点",
-    "headline": "その【前腕】、\n固まって\nいませんか？"
+    "lead": "18ホール、お疲れさまでした",
+    "headline": "その【脚の重さ】、\n明日まで\n持ち越さないで"
   },
   "slides": [
     {
-      "title": "前腕こわばり\n【セルフチェック】",
+      "title": "脚が重いのは\n【傾斜】と踏ん張りのせい？",
       "numbered": false,
       "items": [
-        "マウスやスマホを長時間握っている",
-        "指を反らすと前腕が突っ張る感じがする",
-        "ゴルフでグリップを強く握りがち",
-        "練習後、肘まわりが重だるい"
+        "傾斜やバンカーで、ふくらはぎが踏ん張り続ける",
+        "アドレスの前傾で、太もも裏が張りやすい",
+        "フィニッシュで、膝に体重がかかり続ける",
+        "歩きが多い日は、夕方に脚がむくみやすい"
       ]
     },
     {
-      "title": "デスクでできる\n【1分前腕ケア】",
+      "title": "今夜できる\n【脚の疲労ケア】",
       "numbered": true,
       "items": [
-        "腕を前に伸ばし、手のひらを前に向ける",
-        "反対の手で指先を手前に引き、10秒キープ",
-        "手の甲側も同じように10秒伸ばす",
-        "前腕を軽くさすり、手首をゆっくり回す",
-        "痛みのない範囲で、呼吸は止めずに"
+        "まずは水分補給。汗で失った分を補う",
+        "ぬるめのお湯にゆっくり浸かり、脚を温める",
+        "足首を回し、ふくらはぎをやさしく動かす",
+        "寝る前は、クッションで脚を少し高くする"
       ]
     },
     {
-      "title": "週末ラウンドに向けて\n【握りすぎ】を防ぐ",
+      "title": "翌日に残さない\n【ひと工夫】",
       "numbered": false,
       "items": [
-        "アドレス前に指をグー・パーと5回",
-        "グリップは力を抜いて包む意識で",
-        "肩をすくめてストンと落とし、力みを抜く",
-        "肘の痛みやしびれが続く時は医療機関へ"
+        "疲れのくせが残る前に、筋膜からケアする",
+        "メディセルは揉まずに吸い上げてほぐすケア",
+        "膝の痛みや腫れが続くときは整形外科へ相談を",
+        "次のラウンドを、軽い脚で迎えるために"
       ]
     }
   ],
   "closing": {
-    "lead": "腕が軽いと、毎日が動き出す",
+    "lead": "次のラウンドも軽い脚で",
     "headline": "お気軽に\n【ご相談】\nください"
   },
-  "image_prompt": "Realistic watercolor illustration, bright morning on a well-kept golf course under a cloudless clear sky. Dazzling morning sunlight from the upper corner, dewdrops sparkling on the fresh green fairway and tee ground. A golf ball on a tee and a leaning golf bag with a white golf glove placed neatly on top, positioned at the lower left and right edges. Color palette of bluish white and sky blue with navy and blue accents, touches of grass green and warm sunlight. Clean, crisp, refreshing and energetic mood, appealing to both men and women. The center of the image is bright, soft and pale with lots of empty space for overlaying a headline later; motifs pushed to the corners and sides. No people, no faces, no body parts, no hands. No text, no letters, no numbers, no logos.",
-  "palette": "noon",
+  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a finished round. Warm low sunset light casting long shadows across the 18th green, a pin flag gently standing at the far edge, sky transitioning from soft sunset orange to deep calm blue. In the lower corners, a well-used golf bag leaning on a bench, a worn golf glove, and a pair of muddy golf shoes resting on the grass, suggesting a long day of walking and the tiredness of the legs. Motifs of sky, trees, grass and light are placed toward the corners and left and right edges, leaving the center bright, airy and mostly empty in pale bluish-white for overlaying text. Color palette of bluish white, blue-gray, navy accents with touches of warm sunset glow. Clean, crisp, calm and refined mood, appealing to both men and women. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "palette": "night",
   "images": [
-    "posts/20261013-noon-1.jpg",
-    "posts/20261013-noon-2.jpg",
-    "posts/20261013-noon-3.jpg",
-    "posts/20261013-noon-4.jpg",
-    "posts/20261013-noon-5.jpg"
+    "posts/20261013-night-1.jpg",
+    "posts/20261013-night-2.jpg",
+    "posts/20261013-night-3.jpg",
+    "posts/20261013-night-4.jpg",
+    "posts/20261013-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18118831910051262",
-  "fb_post_id": "1336197019582610_122105736939501764"
+  "published": false
 }
