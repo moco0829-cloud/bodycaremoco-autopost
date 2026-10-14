@@ -1,58 +1,56 @@
 {
-  "date": "2026-10-13",
-  "slot": "night",
-  "theme": "18ホール歩いた脚と膝の夜ケア",
-  "caption": "ラウンドのあと、脚がずっしり重くなっていませんか？\n\n今日もお疲れさまでした⛳\n18ホールを歩き切った脚は、思っている以上にがんばっています。\n\n傾斜やバンカーでの踏ん張り、アドレスの前傾姿勢、フィニッシュで膝にかかる体重。\nふくらはぎや太もも裏の筋膜は、1日中ずっと働き続けています。\n\n「年齢のせいかな」「いつものことだから」とあきらめず、まずは今夜のケアから始めてみませんか。\n水分補給、ぬるめのお湯、足首まわし、脚を少し高くして眠る。\nどれも今日からできることばかりです。画像もあわせてご覧ください。\n\nなお、膝の痛みや腫れが続く場合は、無理をせず整形外科などの医療機関にご相談くださいね。\n\nBody Care mocoでは、メディセルで皮膚と筋膜をやさしく吸い上げ、こわばりにしっかりアプローチします。強く揉まないので、揉み返しが苦手な方にもおすすめです。\n次のラウンドを軽い脚で迎えたい方は、お気軽にDMへどうぞ☀️\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア #ラウンド後のケア #ゴルフ好きな人と繋がりたい #脚の疲れ #膝の痛み #むくみ #ふくらはぎ #ゴルフ #プライベートサロン",
+  "date": "2026-10-14",
+  "slot": "noon",
+  "theme": "全身つながる筋膜とスイング",
+  "caption": "肩がつらいのに、原因は足の裏にあるかもしれません。\n\nこんにちは、Body Care mocoです☀️\nお昼休み、少しひと息つけていますか？\n\n今日は「筋膜」のお話です。\n筋膜は、筋肉や骨を包む薄い膜。\n全身タイツのように、頭から足先までひとつながりになっています。\n\nだからこそ、一か所のこわばりが離れた場所に影響することも。\nゴルフのスイングも、足裏で踏ん張った力が股関節、背中、腕へと伝わる「全身の連動」です。\n胸まわりが固いと、つい腕だけで振ってしまう…そんな経験はありませんか？\n\n画像では、お仕事の合間に座ったままできる1分セルフケアもご紹介しています。\n週末のラウンドや午後のお仕事に向けて、あわせてご覧ください⛳\n\nメディセルは、皮膚と筋膜をやさしく吸い上げて、こわばりにアプローチします。\n強く揉まないので、揉み返しが苦手な方にもおすすめです。\n「ずっとこうだから」とあきらめず、動ける身体を一緒に整えていきましょう。\n\n成田市のプライベートサロン、男女どなたでもOKです。\nご予約・ご相談はDMからお気軽にどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #筋膜ケア #ゴルフケア #ゴルフ好きな人と繋がりたい #ラウンド前 #肩こり #デスクワーク #セルフケア #成田ゴルフ #ボディケア",
   "cover": {
-    "lead": "18ホール、お疲れさまでした",
-    "headline": "その【脚の重さ】、\n明日まで\n持ち越さないで"
+    "lead": "お昼の1分で知る筋膜のこと",
+    "headline": "その肩こり、\n原因は【足裏】\nかも？"
   },
   "slides": [
     {
-      "title": "脚が重いのは\n【傾斜】と踏ん張りのせい？",
+      "title": "【筋膜】ってなに？",
       "numbered": false,
       "items": [
-        "傾斜やバンカーで、ふくらはぎが踏ん張り続ける",
-        "アドレスの前傾で、太もも裏が張りやすい",
-        "フィニッシュで、膝に体重がかかり続ける",
-        "歩きが多い日は、夕方に脚がむくみやすい"
+        "筋肉や骨を包む、薄い膜のこと",
+        "全身タイツのように頭から足先までつながる",
+        "同じ姿勢が続くと、こわばり・癒着しやすい",
+        "一か所の固さが、離れた場所に響くことも"
       ]
     },
     {
-      "title": "今夜できる\n【脚の疲労ケア】",
+      "title": "スイングも\n【全身の連動】",
+      "numbered": false,
+      "items": [
+        "足裏で踏ん張る力が、股関節から腕へ伝わる",
+        "胸まわりが固いと、腕だけで振りがちに",
+        "全身がスムーズだと、動きが軽く感じる方も",
+        "ラウンド前は、部分より全体を整えるのがコツ"
+      ]
+    },
+    {
+      "title": "座ったままできる\n【お昼の1分ケア】",
       "numbered": true,
       "items": [
-        "まずは水分補給。汗で失った分を補う",
-        "ぬるめのお湯にゆっくり浸かり、脚を温める",
-        "足首を回し、ふくらはぎをやさしく動かす",
-        "寝る前は、クッションで脚を少し高くする"
-      ]
-    },
-    {
-      "title": "翌日に残さない\n【ひと工夫】",
-      "numbered": false,
-      "items": [
-        "疲れのくせが残る前に、筋膜からケアする",
-        "メディセルは揉まずに吸い上げてほぐすケア",
-        "膝の痛みや腫れが続くときは整形外科へ相談を",
-        "次のラウンドを、軽い脚で迎えるために"
+        "靴を脱ぎ、ゴルフボールで足裏をコロコロ30秒",
+        "両手を後ろで組み、胸を開いて深呼吸3回",
+        "首をゆっくり前に倒し、首の後ろを10秒のばす",
+        "痛みが出たら無理せず、すぐ中止しましょう"
       ]
     }
   ],
   "closing": {
-    "lead": "次のラウンドも軽い脚で",
-    "headline": "お気軽に\n【ご相談】\nください"
+    "lead": "動ける身体で、人生を楽しく",
+    "headline": "つながりから\n【整える】ケアを\nDMでご相談を"
   },
-  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a finished round. Warm low sunset light casting long shadows across the 18th green, a pin flag gently standing at the far edge, sky transitioning from soft sunset orange to deep calm blue. In the lower corners, a well-used golf bag leaning on a bench, a worn golf glove, and a pair of muddy golf shoes resting on the grass, suggesting a long day of walking and the tiredness of the legs. Motifs of sky, trees, grass and light are placed toward the corners and left and right edges, leaving the center bright, airy and mostly empty in pale bluish-white for overlaying text. Color palette of bluish white, blue-gray, navy accents with touches of warm sunset glow. Clean, crisp, calm and refined mood, appealing to both men and women. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
-  "palette": "night",
+  "image_prompt": "Realistic watercolor illustration of a bright golf course in the morning before a round. Cloudless clear sky blue, dazzling morning sunlight with soft sun rays from the upper corner. A well-kept fairway and tee ground glistening with morning dew, a golf ball on a tee and a navy golf bag standing at the lower edges, fresh green grass and a few leaves framing the left and right sides. Color palette of bluish white to sky blue with navy and blue accents, green turf and warm sunlight. Clean, crisp, refreshing and energetic mood, appealing to both men and women. The center is bright, pale and mostly empty with plenty of space for overlaying a headline; motifs placed only at the corners and edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "palette": "noon",
   "images": [
-    "posts/20261013-night-1.jpg",
-    "posts/20261013-night-2.jpg",
-    "posts/20261013-night-3.jpg",
-    "posts/20261013-night-4.jpg",
-    "posts/20261013-night-5.jpg"
+    "posts/20261014-noon-1.jpg",
+    "posts/20261014-noon-2.jpg",
+    "posts/20261014-noon-3.jpg",
+    "posts/20261014-noon-4.jpg",
+    "posts/20261014-noon-5.jpg"
   ],
-  "published": true,
-  "media_id": "17915285295525892",
-  "fb_post_id": "1336197019582610_122105999331501764"
+  "published": false
 }
