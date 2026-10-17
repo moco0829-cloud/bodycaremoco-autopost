@@ -1,58 +1,57 @@
 {
   "date": "2026-10-17",
-  "slot": "noon",
-  "theme": "足裏・足首を整えるラウンド前",
-  "caption": "ナイスショットの土台、足元にあるかもしれません☀️\n\n土曜のお昼、いかがお過ごしですか？\n今日・明日ラウンドの方も多いのではないでしょうか。\n\nスイングというと肩や腰に意識が向きがちですが、実は地面と唯一つながっているのが「足裏」と「足首」。\nここがこわばっていると、体重移動がぎこちなくなったり、傾斜地で踏ん張りにくくなったりしがちです。\n\n筋膜は全身つながっているので、足元のこわばりが膝や腰の負担につながることも。\n\n今回は、ティーオフ前にカートや椅子でできる足元ケアと、平日のデスク下でできるケアをまとめました。\n画像もあわせてご覧いただき、保存してラウンド前に見返してみてくださいね⛳\n\n※痛みや腫れが続くときは、無理をせず整形外科などの医療機関へご相談ください。\n\nBody Care mocoでは、メディセルで足裏から全身の筋膜にしっかりアプローチし、動ける身体づくりをサポートしています。\n「最近、足元が不安定かも」と感じたら、どうぞお気軽に。\nご予約・ご相談はDMへ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア #ラウンド前 #ゴルフ好きな人と繋がりたい #足首ケア #足裏ケア #セルフケア #動ける身体 #成田市ボディケア #週末ゴルフ",
+  "slot": "night",
+  "theme": "秋ラウンド後の冷えとこわばり夜ケア",
+  "caption": "今日のラウンド、帰りの車で肩がすくんでいませんでしたか？\n\n秋のゴルフは、日中は気持ちよくても、夕方になると一気に冷え込みますよね。\n汗をかいたまま風に当たると、身体は思った以上に冷えています。\n\n冷えた身体は筋膜もこわばりやすく、翌朝の「首が重い」「腰が伸びにくい」につながることも。\nせっかくのナイスショットの余韻、疲れと一緒に持ち越したくないですよね。\n\n今夜は、すぐ着替える・温かい飲み物をとる・ぬるめのお湯につかるなど、身体を内側と外側から温めてあげてください。\n画像に、冷えのサインと寝る前の温めケアをまとめました。保存して次のラウンド後にもどうぞ⛳\n\nそれでもこわばりが続くときは、メディセルで筋膜にしっかりアプローチして整えるのもひとつの方法です。\n強く揉まないので、疲れた身体にもやさしくケアできます。\n※強い痛みや腫れ、しびれがある場合は、整形外科などの医療機関にご相談ください。\n\n心も身体もゴルフも、もっと楽しく。\nご予約・ご相談はDMからお気軽にどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア #ラウンド後ケア #秋ゴルフ #冷え対策 #からだのこわばり #ゴルフ好きな人と繋がりたい #ゴルフ男子 #ゴルフ女子 #疲労ケア #成田ゴルフ",
   "cover": {
-    "lead": "今日・明日ラウンドの方へ",
-    "headline": "スイングの\n【土台】は\n足元から"
+    "lead": "今日もラウンドお疲れさま",
+    "headline": "秋ラウンドの\n【冷え】、\n残っていませんか？"
   },
   "slides": [
     {
-      "title": "足元がこわばると\n【スイング】にも影響",
+      "title": "ラウンド後の\n【冷えサイン】チェック",
       "numbered": false,
       "items": [
-        "足裏が固いと、体重移動がぎこちなくなりがち",
-        "足首が動きにくいと、下半身の踏ん張りが不安定に",
-        "傾斜地のショットでバランスを崩しやすくなる",
-        "筋膜は全身つながり、膝や腰の負担につながることも"
+        "帰りの車で、肩が上がったまま固まっている",
+        "手足の先がなかなか温まらない",
+        "汗が乾いたあと、背中がひんやりする",
+        "翌朝、首や腰が重く動き出しにくい"
       ]
     },
     {
-      "title": "ティーオフ前の\n【足元ケア】",
+      "title": "帰宅後〜寝る前の\n【温めケア】",
       "numbered": true,
       "items": [
-        "座ったまま、足の指をグー・パー10回",
-        "かかとの上げ下げ10回で、ふくらはぎを動かす",
-        "足首を内回し・外回し各5回。呼吸は止めずに",
-        "軽く足踏みして、足裏で地面をしっかり感じる"
+        "汗をかいたウェアは、帰ったらすぐ着替える",
+        "温かい飲み物で、身体を内側から温める",
+        "ぬるめのお湯に、ゆっくり肩までつかる",
+        "首・お腹・足首を冷やさない服装で過ごす",
+        "深い呼吸を数回してから布団に入る"
       ]
     },
     {
-      "title": "お昼休みは\n【デスク下】でケア",
+      "title": "こわばりが\n【続くとき】は",
       "numbered": false,
       "items": [
-        "靴を脱ぎ、足裏でペットボトルをころころ転がす",
-        "つま先を上げ下げして、すねとふくらはぎを交互に",
-        "1時間に1回は立ち上がり、数歩でも歩いてみる",
-        "痛みや腫れが続くときは、医療機関へ相談を"
+        "冷えで固まった筋膜は、戻りにくいことも",
+        "メディセルで筋膜をやさしく吸い上げて整える",
+        "強く揉まないので、疲れた身体にもおすすめ",
+        "強い痛みや腫れが続くときは医療機関へ"
       ]
     }
   ],
   "closing": {
-    "lead": "足元から、軽やかに",
+    "lead": "その疲れ、ためこまずに",
     "headline": "お気軽に\n【ご相談】\nください"
   },
-  "image_prompt": "Realistic watercolor-style illustration of a well-kept golf course tee ground on a bright, cloudless morning. Clear sky-blue sky with dazzling morning sunlight and soft sun rays from the upper corner. Fresh green fairway grass glistening with morning dew, a white golf ball on a tee and a pair of clean golf shoes resting on the grass placed at the lower left edge, a golf bag leaning at the right edge. Bluish-white to sky-blue palette with navy and blue accents, fresh green grass and warm sunlight, clean, crisp, energetic and uplifting mood, appealing to both men and women. The center of the image is bright, pale and mostly empty space for overlaying a headline later; motifs are kept to the corners and side edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
-  "palette": "noon",
+  "image_prompt": "Realistic watercolor illustration of an autumn golf course at dusk after a round. The sky transitions from soft sunset orange near the horizon to deep calm blue above. Long shadows stretch across the fairway in the warm low western light. In the lower corners and side edges: a well-used golf bag leaning on a bench, a folded windbreaker jacket, a steaming thermos cup, a worn golf glove, and a 18th green pin flag in the distance, with a few autumn-tinted leaves and grass at the edges. Mood: calm, crisp, slightly chilly autumn evening, reflecting on the day's play and a tired body. Color palette of bluish white, blue-gray and navy with accents of warm sunset light, clean and refined, appealing to both men and women. The center of the image is bright, pale and mostly empty with generous negative space for overlaying a Japanese headline later. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "palette": "night",
   "images": [
-    "posts/20261017-noon-1.jpg",
-    "posts/20261017-noon-2.jpg",
-    "posts/20261017-noon-3.jpg",
-    "posts/20261017-noon-4.jpg",
-    "posts/20261017-noon-5.jpg"
+    "posts/20261017-night-1.jpg",
+    "posts/20261017-night-2.jpg",
+    "posts/20261017-night-3.jpg",
+    "posts/20261017-night-4.jpg",
+    "posts/20261017-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18492332836107681",
-  "fb_post_id": "1336197019582610_122109093657501764"
+  "published": false
 }
