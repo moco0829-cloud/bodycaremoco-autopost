@@ -1,50 +1,51 @@
 {
   "date": "2026-10-17",
   "slot": "night",
-  "theme": "秋ラウンド後の冷えとこわばり夜ケア",
-  "caption": "今日のラウンド、帰りの車で肩がすくんでいませんでしたか？\n\n秋のゴルフは、日中は気持ちよくても、夕方になると一気に冷え込みますよね。\n汗をかいたまま風に当たると、身体は思った以上に冷えています。\n\n冷えた身体は筋膜もこわばりやすく、翌朝の「首が重い」「腰が伸びにくい」につながることも。\nせっかくのナイスショットの余韻、疲れと一緒に持ち越したくないですよね。\n\n今夜は、すぐ着替える・温かい飲み物をとる・ぬるめのお湯につかるなど、身体を内側と外側から温めてあげてください。\n画像に、冷えのサインと寝る前の温めケアをまとめました。保存して次のラウンド後にもどうぞ⛳\n\nそれでもこわばりが続くときは、メディセルで筋膜にしっかりアプローチして整えるのもひとつの方法です。\n強く揉まないので、疲れた身体にもやさしくケアできます。\n※強い痛みや腫れ、しびれがある場合は、整形外科などの医療機関にご相談ください。\n\n心も身体もゴルフも、もっと楽しく。\nご予約・ご相談はDMからお気軽にどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア #ラウンド後ケア #秋ゴルフ #冷え対策 #からだのこわばり #ゴルフ好きな人と繋がりたい #ゴルフ男子 #ゴルフ女子 #疲労ケア #成田ゴルフ",
+  "theme": "片側スイングの左右差と夜ケア",
+  "caption": "今日のラウンド、身体の「左右」で疲れ方が違いませんか？\n\n今日もゴルフに、お仕事に、本当にお疲れさまでした⛳\n\nゴルフのスイングは、いつも同じ方向へ身体をひねる動き。\nよく使う側の筋膜はこわばりやすく、反対側は動きが小さいまま固まりがちです。\n\n筋膜は全身でつながっているので、この小さな左右差が、肩の高さや骨盤の傾き、スイングの再現性にあらわれることもあります。\n「なぜか今日は球がばらついた」という日は、身体のバランスを振り返るサインかもしれません。\n\n今夜できる左右差のセルフチェックと、1日の終わりのケアを画像にまとめました。あわせてご覧ください。\n強い痛みやしびれ、腫れが続くときは、無理をせず整形外科などの医療機関にご相談くださいね。\n\nBody Care mocoでは、メディセルで皮膚と筋膜をやさしく吸い上げ、こわばった側にしっかりアプローチして全身のバランスを整えていきます。強く揉まないので、揉み返しが苦手な方にもおすすめです。\n\n身体が軽くなると、人生も、次のラウンドも動き出します☀️\nご予約・ご相談はDMからお気軽にどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #成田市プライベートサロン #ゴルフケア #ゴルフ好きな人と繋がりたい #ラウンド後ケア #左右差 #姿勢改善 #ボディケア #ゴルフ女子 #ゴルフ男子",
   "cover": {
-    "lead": "今日もラウンドお疲れさま",
-    "headline": "秋ラウンドの\n【冷え】、\n残っていませんか？"
+    "lead": "今日もお疲れさまでした",
+    "headline": "その疲れ、\n【左右】で\n違いませんか？"
   },
   "slides": [
     {
-      "title": "ラウンド後の\n【冷えサイン】チェック",
+      "title": "片側スイングで\n【左右差】が生まれる理由",
       "numbered": false,
       "items": [
-        "帰りの車で、肩が上がったまま固まっている",
-        "手足の先がなかなか温まらない",
-        "汗が乾いたあと、背中がひんやりする",
-        "翌朝、首や腰が重く動き出しにくい"
+        "スイングは、いつも同じ方向へひねる動き",
+        "よく使う側の筋膜は、こわばりやすい",
+        "反対側は動きが小さく、固まりがち",
+        "筋膜は全身でつながり、差が姿勢にも出やすい",
+        "左右差が、スイングの再現性に影響することも"
       ]
     },
     {
-      "title": "帰宅後〜寝る前の\n【温めケア】",
+      "title": "今夜の【左右差】\nセルフチェック",
+      "numbered": false,
+      "items": [
+        "鏡の前で、左右の肩の高さに差はないか",
+        "首を左右に回して、回りにくい側はないか",
+        "体を左右にひねって、ひねりにくい側はないか",
+        "片脚立ちで、ふらつきやすい側はないか"
+      ]
+    },
+    {
+      "title": "1日の終わりの\n【左右をそろえる】ケア",
       "numbered": true,
       "items": [
-        "汗をかいたウェアは、帰ったらすぐ着替える",
-        "温かい飲み物で、身体を内側から温める",
-        "ぬるめのお湯に、ゆっくり肩までつかる",
-        "首・お腹・足首を冷やさない服装で過ごす",
-        "深い呼吸を数回してから布団に入る"
-      ]
-    },
-    {
-      "title": "こわばりが\n【続くとき】は",
-      "numbered": false,
-      "items": [
-        "冷えで固まった筋膜は、戻りにくいことも",
-        "メディセルで筋膜をやさしく吸い上げて整える",
-        "強く揉まないので、疲れた身体にもおすすめ",
-        "強い痛みや腫れが続くときは医療機関へ"
+        "お風呂で全身を温め、筋膜をゆるめる準備",
+        "いつもと反対向きの素振りを、ゆっくり軽く",
+        "固い側を中心に、深呼吸しながら伸ばす",
+        "水分をとり、早めに休んで翌日に残さない",
+        "強い痛みやしびれが続く時は医療機関へ"
       ]
     }
   ],
   "closing": {
-    "lead": "その疲れ、ためこまずに",
-    "headline": "お気軽に\n【ご相談】\nください"
+    "lead": "左右差、ひとりで抱えないで",
+    "headline": "身体を整えて\n【次のラウンド】\nもっと楽しく"
   },
-  "image_prompt": "Realistic watercolor illustration of an autumn golf course at dusk after a round. The sky transitions from soft sunset orange near the horizon to deep calm blue above. Long shadows stretch across the fairway in the warm low western light. In the lower corners and side edges: a well-used golf bag leaning on a bench, a folded windbreaker jacket, a steaming thermos cup, a worn golf glove, and a 18th green pin flag in the distance, with a few autumn-tinted leaves and grass at the edges. Mood: calm, crisp, slightly chilly autumn evening, reflecting on the day's play and a tired body. Color palette of bluish white, blue-gray and navy with accents of warm sunset light, clean and refined, appealing to both men and women. The center of the image is bright, pale and mostly empty with generous negative space for overlaying a Japanese headline later. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "image_prompt": "Realistic watercolor painting of a golf course just after a round at dusk. Long shadows stretching across the fairway under low warm western sunlight, sky gradually shifting from soft sunset orange to deep calm blue. An 18th green pin flag on the far right edge, a well-used golf bag leaning to one side with a worn golf glove resting on it and slightly muddy golf shoes placed in the lower left corner, conveying the effort of the day, gentle fatigue, and reflection on today's play. Subtle sense of asymmetry and balance in the composition. Color palette of bluish white, blue-gray, navy accents, with touches of warm sunset light. Clean, crisp, calm and refined mood appealing to both men and women, not spa-like. Motifs of sky, grass, light and equipment placed toward the corners and left and right edges; the center is bright, pale and left with generous empty space for overlaying a headline later. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
   "palette": "night",
   "images": [
     "posts/20261017-night-1.jpg",
