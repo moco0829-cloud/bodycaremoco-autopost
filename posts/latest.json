@@ -1,59 +1,56 @@
 {
-  "date": "2026-10-16",
-  "slot": "night",
-  "theme": "母の介護から生まれた想いと初回の流れ",
-  "caption": "「ずっとこうだから」と、痛みにふたをしていませんか？\n\n今週もおつかれさまでした。\n金曜の夜は、がんばった身体の声を聞いてあげる時間にしてみてください。\n\nオーナーのmocoは、リウマチの母を20年以上介護してきました。\nすぐそばで痛みに苦しむ姿を見てきたからこそ、\n「目の前の人の痛みを少しでも軽くしたい」\nその想いでこのプライベートサロンを開きました☀️\n\n長年の肩や腰のつらさも、ゴルフのあとの身体の重さも、\nメディセルで筋膜にしっかりアプローチして、動ける身体へ整えていきます。\n強く揉まないので、揉み返しが苦手な方も安心です。\n\n初めての方へ、当日の流れと、医療機関へのご相談をおすすめするケースを画像にまとめました。あわせてご覧ください。\n\n初回お試し10,000円（所要時間90分・施術60分）、お得な回数券もございます。\n男女どなたでもOK。詳しい場所はご予約時にお知らせします。\n\nご予約・ご相談はDMへ、お気軽にどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #成田市サロン #プライベートサロン #肩こり #腰痛 #慢性的な痛み #ゴルフケア #ゴルフ好きな人と繋がりたい #揉み返しなし #ボディケア",
+  "date": "2026-10-17",
+  "slot": "noon",
+  "theme": "足裏・足首を整えるラウンド前",
+  "caption": "ナイスショットの土台、足元にあるかもしれません☀️\n\n土曜のお昼、いかがお過ごしですか？\n今日・明日ラウンドの方も多いのではないでしょうか。\n\nスイングというと肩や腰に意識が向きがちですが、実は地面と唯一つながっているのが「足裏」と「足首」。\nここがこわばっていると、体重移動がぎこちなくなったり、傾斜地で踏ん張りにくくなったりしがちです。\n\n筋膜は全身つながっているので、足元のこわばりが膝や腰の負担につながることも。\n\n今回は、ティーオフ前にカートや椅子でできる足元ケアと、平日のデスク下でできるケアをまとめました。\n画像もあわせてご覧いただき、保存してラウンド前に見返してみてくださいね⛳\n\n※痛みや腫れが続くときは、無理をせず整形外科などの医療機関へご相談ください。\n\nBody Care mocoでは、メディセルで足裏から全身の筋膜にしっかりアプローチし、動ける身体づくりをサポートしています。\n「最近、足元が不安定かも」と感じたら、どうぞお気軽に。\nご予約・ご相談はDMへ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア #ラウンド前 #ゴルフ好きな人と繋がりたい #足首ケア #足裏ケア #セルフケア #動ける身体 #成田市ボディケア #週末ゴルフ",
   "cover": {
-    "lead": "今週もおつかれさまでした",
-    "headline": "「ずっとこう」\nだからと、\n【あきらめないで】"
+    "lead": "今日・明日ラウンドの方へ",
+    "headline": "スイングの\n【土台】は\n足元から"
   },
   "slides": [
     {
-      "title": "mocoが\n【大切にしていること】",
+      "title": "足元がこわばると\n【スイング】にも影響",
       "numbered": false,
       "items": [
-        "「ずっとこうだから」の声にしっかり耳を傾ける",
-        "強く揉まず、筋膜にやさしくしっかりアプローチ",
-        "痛みの背景にある毎日の過ごし方まで一緒に考える",
-        "23年培ったおもてなしで、おひとりおひとりに寄り添う",
-        "身体だけでなく、心も軽くなる時間に"
+        "足裏が固いと、体重移動がぎこちなくなりがち",
+        "足首が動きにくいと、下半身の踏ん張りが不安定に",
+        "傾斜地のショットでバランスを崩しやすくなる",
+        "筋膜は全身つながり、膝や腰の負担につながることも"
       ]
     },
     {
-      "title": "初めての方へ\n【当日の流れ】",
+      "title": "ティーオフ前の\n【足元ケア】",
       "numbered": true,
       "items": [
-        "DMでご予約・お悩みをご相談",
-        "カウンセリングで痛みや生活、ゴルフのお話を伺う",
-        "メディセルで筋膜をしっかりケア（施術60分）",
-        "身体の変化を一緒に確認し、セルフケアをお伝え"
+        "座ったまま、足の指をグー・パー10回",
+        "かかとの上げ下げ10回で、ふくらはぎを動かす",
+        "足首を内回し・外回し各5回。呼吸は止めずに",
+        "軽く足踏みして、足裏で地面をしっかり感じる"
       ]
     },
     {
-      "title": "【こんなとき】は\nまず医療機関へ",
+      "title": "お昼休みは\n【デスク下】でケア",
       "numbered": false,
       "items": [
-        "強い痛みやしびれが続くとき",
-        "腫れや熱っぽさがあるとき",
-        "ラウンド中の転倒など、けがをした直後",
-        "整形外科などにご相談のうえ、ケアをご検討ください"
+        "靴を脱ぎ、足裏でペットボトルをころころ転がす",
+        "つま先を上げ下げして、すねとふくらはぎを交互に",
+        "1時間に1回は立ち上がり、数歩でも歩いてみる",
+        "痛みや腫れが続くときは、医療機関へ相談を"
       ]
     }
   ],
   "closing": {
-    "lead": "身体が軽くなると人生が動き出す",
-    "headline": "まずは\n【DMで】\nお話ください"
+    "lead": "足元から、軽やかに",
+    "headline": "お気軽に\n【ご相談】\nください"
   },
-  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a finished round. The sky transitions from soft warm sunset glow near the horizon to deep calm blue above. Long shadows stretch across the fairway under the low western sun. In the lower left corner, a well-used navy golf bag leaning on a bench with a worn golf glove resting on top; in the lower right corner, the 18th green with a pin flag gently lit by the evening light and a few blades of grass and leaves at the edge. The center of the image is bright, airy and mostly empty with pale bluish-white and soft blue-gray tones, leaving plenty of clean space for a headline to be added later. Calm, composed, clean and refined atmosphere that feels like reflecting on a hard-fought day, appealing to both men and women. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
-  "palette": "night",
+  "image_prompt": "Realistic watercolor-style illustration of a well-kept golf course tee ground on a bright, cloudless morning. Clear sky-blue sky with dazzling morning sunlight and soft sun rays from the upper corner. Fresh green fairway grass glistening with morning dew, a white golf ball on a tee and a pair of clean golf shoes resting on the grass placed at the lower left edge, a golf bag leaning at the right edge. Bluish-white to sky-blue palette with navy and blue accents, fresh green grass and warm sunlight, clean, crisp, energetic and uplifting mood, appealing to both men and women. The center of the image is bright, pale and mostly empty space for overlaying a headline later; motifs are kept to the corners and side edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "palette": "noon",
   "images": [
-    "posts/20261016-night-1.jpg",
-    "posts/20261016-night-2.jpg",
-    "posts/20261016-night-3.jpg",
-    "posts/20261016-night-4.jpg",
-    "posts/20261016-night-5.jpg"
+    "posts/20261017-noon-1.jpg",
+    "posts/20261017-noon-2.jpg",
+    "posts/20261017-noon-3.jpg",
+    "posts/20261017-noon-4.jpg",
+    "posts/20261017-noon-5.jpg"
   ],
-  "published": true,
-  "media_id": "18115205999043673",
-  "fb_post_id": "1336197019582610_122108685999501764"
+  "published": false
 }
