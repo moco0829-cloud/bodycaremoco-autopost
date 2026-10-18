@@ -1,6 +1,6 @@
 # Instagram 自動投稿（Body Care moco）
 
-Body Care moco（@bodycaremoco_narita）の Instagram に、毎日 **昼12時半・夜19時33分** に、AIが作った画像と文章を自動投稿する仕組みです。
+Body Care moco（@bodycaremoco_narita）の Instagram に、毎日 **夜19時33分** に（アカウントが育ったら昼12時半も）、AIが作った画像と文章を自動投稿する仕組みです。
 投稿は、横にスワイプして見るカルーセル形式（表紙・中身1〜3枚・締めの3〜5枚）です。
 GitHub Actions（クラウド）で動くので、パソコンの電源が切れていても投稿されます。
 
@@ -119,6 +119,12 @@ Note に `bodycaremoco-autopost-secrets`、Expiration に「No expiration」、S
 - **一時停止したい** → Variables の `AUTOPOST_ENABLED` を `false` にする
 
 ## 注意点
+
+- **2026-10-17 に Instagram に操作を制限されました**（「Application request limit reached」「action is blocked」、コード 4／2207051）。
+  新しいアカウントで毎日決まった時刻に何度も自動投稿し、ハッシュタグも多かったため、機械的な投稿と疑われたと考えられます。
+  そのため、今は **1日1回（夜19:33）・ハッシュタグ5個まで** にし、失敗した枠は作り直さないようにしています。
+  フォロワーが増えて2〜3週間たったら、`autopost.yml` の昼の枠の「#」を外して1日2回に戻せます。
+- 失敗した枠は、`history.json` に `"failed": true` として残ります。止まった理由は、Actions の画面の「Annotations」にも出ます。
 
 - **このリポジトリは Public（公開）のままにしてください。** 非公開にすると次の2つの理由で投稿が止まります。
   1. Instagram は、ここに置いた画像を公開URL（raw.githubusercontent.com）から取りに来るため、非公開だと画像を取得できない

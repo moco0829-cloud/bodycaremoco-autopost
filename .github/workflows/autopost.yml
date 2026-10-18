@@ -2,13 +2,14 @@ name: Instagram 自動投稿
 
 on:
   schedule:
-    # 投稿は1日2回（昼 12:30・夜 19:33）。ほかの投稿が集中する毎時ちょうどを避けている。
+    # 投稿は今は1日1回（夜 19:33）。2026-10-17 に Instagram に操作を制限されたため、アカウントが育つまで減らしている。
+    # 昼 12:30 の枠に戻すときは、下の3行の「#」を外す。ほかの投稿が集中する毎時ちょうどは避けている。
     # GitHub Actions の cron は UTC（日本時間 = UTC + 9 時間）で、混雑すると数時間遅れることがある。
     # そこで投稿時刻より前に3回ずつ仕掛け、最初に動いた回が画像と文章を作り、投稿時刻まで待ってから投稿する。
     # 区切りのいい時刻（毎時0分）は混みやすいので避ける。
-    - cron: "23 0 * * *"   # 昼の枠 09:23 JST
-    - cron: "23 1 * * *"   # 昼の枠 10:23 JST
-    - cron: "7 2 * * *"    # 昼の枠 11:07 JST
+    # - cron: "23 0 * * *"   # 昼の枠 09:23 JST
+    # - cron: "23 1 * * *"   # 昼の枠 10:23 JST
+    # - cron: "7 2 * * *"    # 昼の枠 11:07 JST
     - cron: "23 7 * * *"   # 夜の枠 16:23 JST
     - cron: "23 8 * * *"   # 夜の枠 17:23 JST
     - cron: "7 9 * * *"    # 夜の枠 18:07 JST
@@ -158,4 +159,21 @@ jobs:
         run: |
           git add history.json posts/latest.json
           git commit -m "history: $(jq -r '.media_id' posts/latest.json)"
+          git push
+
+      - name: 失敗を記録（同じ枠で作り直して投稿し直さないため）
+        # Instagram に断られたあと、予備の回が何度も投稿し直すと、制限が強まったり画像生成代がむだになったりする。
+        # 失敗した枠も「済み」として履歴に残し、その枠の残りの回は何もしないようにする
+        if: ${{ failure() && steps.push.outcome == 'success' && !inputs.dry_run }}
+        run: |
+          python3 - <<'PY'
+          import json
+          latest = json.load(open("posts/latest.json", encoding="utf-8"))
+          history = json.load(open("history.json", encoding="utf-8"))
+          history.append({k: latest[k] for k in ("date", "slot", "theme", "images")} | {"failed": True})
+          json.dump(history, open("history.json", "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+          PY
+          git add history.json
+          git commit -m "failed: $(jq -r '.date + " " + .slot + " " + .theme' posts/latest.json)"
+          git pull --rebase
           git push
