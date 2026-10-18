@@ -649,4 +649,11 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except SystemExit as error:
+        # GitHub Actions では、止まった理由を Annotations にも出す（ログインしなくても見られるように）
+        if isinstance(error.code, str) and os.environ.get("GITHUB_ACTIONS"):
+            message = error.code.replace("%", "%25").replace(chr(13), "").replace(chr(10), "%0A")
+            print(f"::error::{message}", flush=True)
+        raise
