@@ -1,59 +1,57 @@
 {
-  "date": "2026-10-25",
-  "slot": "night",
-  "theme": "パター前傾で固まる首・背中の夜ケア",
-  "caption": "最後のショートパット、手が思うように動かなかった…そんな日曜日でしたか？\n\n日曜ラウンド、本当におつかれさまでした⛳\n\nグリーン上では、ラインを読むために何度もしゃがみ、前かがみのままカップを見つめる時間が続きます。\nその積み重ねで、首の後ろや背中、肩甲骨まわりがこわばってしまうことがあります。\n\n首や背中が固まると肩の動きが小さくなり、ストロークのリズムが乱れる一因になることも。\n「後半のパットが決まらない」のは、技術だけでなく身体の状態も関係しているかもしれません。\n\n今夜できるセルフケアと、早めにケアしたいサインを画像にまとめました。あわせてご覧ください。\n\nBody Care mocoでは、メディセルで皮膚と筋膜をやさしく吸い上げ、揉まずに首・背中のこわばりにしっかりアプローチします。\n動ける身体を取り戻して、次のラウンドを楽しみましょう。\n\n※強い痛みやしびれ、腫れが続く場合は、整形外科などの医療機関にご相談ください。\n\nご予約・ご相談はDMからお気軽にどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア #ゴルフ好きな人と繋がりたい #パター #首こり #背中のはり #ラウンド後 #ゴルフのあと #セルフケア #成田市プライベートサロン",
+  "date": "2026-10-26",
+  "slot": "noon",
+  "theme": "座り疲れの股関節前側を伸ばす",
+  "caption": "午前中、ほとんど座りっぱなしではありませんでしたか？☀️\n\n月曜日はデスクワークや運転で、つい座る時間が長くなりがち。\n座った姿勢が続くと、股関節の前側の筋膜が縮こまったまま固まりやすくなります。\n\n立ち上がったときに腰がすっと伸びにくい、歩幅が小さくなった気がする。\nゴルフをされる方なら、アドレスで腰が反りやすい、バックスイングで腰が回りにくい。\nそんなサインを感じていたら、股関節の前側がこわばっているのかもしれません。\n\nお昼休みに、デスクの横で1分だけ伸ばしてみませんか？\nこわばりのチェックと、すぐできるストレッチを画像にまとめました。保存して、午後の合間にもぜひ。\n\n週末のラウンドに向けて、平日から「動ける身体」を少しずつ整えておくと、スタートホールの一打もきっと気持ちよく振り抜けます⛳\n\n伸ばしても腰の重さが続く方は、メディセルで筋膜にしっかりアプローチしてみてください。\n※強い痛みやしびれがある場合は、医療機関にご相談くださいね。\n\nご予約・ご相談はDMからお気軽にどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #成田市サロン #股関節ストレッチ #デスクワーク #腰痛ケア #ゴルフケア #ゴルフ好きな人と繋がりたい #ラウンド前 #セルフケア #ゴルフ女子 #ゴルフ男子",
   "cover": {
-    "lead": "日曜ラウンドおつかれさまでした",
-    "headline": "外したパット、\n原因は\n【首と背中】？"
+    "lead": "月曜のお昼にひと伸び",
+    "headline": "座りっぱなしの\n【股関節】、\n縮んでいませんか？"
   },
   "slides": [
     {
-      "title": "後半パットが\n【決まらない】のは？",
+      "title": "【股関節の前側】\nこわばりチェック",
       "numbered": false,
       "items": [
-        "ライン読みで何度もしゃがみ、前かがみが続く",
-        "カップを見つめ続け、目と首に力が入りやすい",
-        "首・背中がこわばると、肩の動きが小さくなりがち",
-        "ストロークのリズムが乱れる一因になることも"
+        "立ち上がった直後、腰がすっと伸びにくい",
+        "仰向けで片膝を抱えると、反対の脚が浮く",
+        "最近、歩幅が小さくなった気がする",
+        "アドレスで腰が反りやすい",
+        "バックスイングで腰が回りにくい"
       ]
     },
     {
-      "title": "今夜の【セルフケア】",
+      "title": "お昼に1分\n【デスク横ストレッチ】",
       "numbered": true,
       "items": [
-        "蒸しタオルで首の後ろを5分ほど温める",
-        "肩甲骨を大きく回す。前後10回ずつ",
-        "胸の前を開いて、ゆっくり深呼吸を3回",
-        "スマホは目の高さで。下を向く時間を減らす",
-        "いつもより早めに休み、目と首を休ませる"
+        "椅子の横に立ち、片足を一歩うしろに引く",
+        "お尻を軽く締め、骨盤を前へ押し出す",
+        "両腕を上に伸ばし、ゆっくり5呼吸",
+        "反対側も同様に。痛みが出たら中止"
       ]
     },
     {
-      "title": "こんなサインは\n【早めのケア】を",
+      "title": "週末ラウンドへ\n【動ける身体】の習慣",
       "numbered": false,
       "items": [
-        "上を向くと首の後ろが突っ張る",
-        "肩を回すと重さや引っかかりを感じる",
-        "翌朝、首がまわしにくい",
-        "強い痛みやしびれ、腫れが続く時は医療機関へ"
+        "1時間に一度は立ち上がって少し歩く",
+        "座るときは浅く腰かけ、骨盤を立てる",
+        "階段を使って、脚を大きく動かす",
+        "残るこわばりはメディセルでしっかりケア"
       ]
     }
   ],
   "closing": {
-    "lead": "今日もナイスラウンド",
-    "headline": "疲れを残さず\n【次のラウンド】へ\nDMでご相談を"
+    "lead": "身体が軽いと週末が楽しみ",
+    "headline": "お気軽に\n【ご相談】\nください"
   },
-  "image_prompt": "Realistic watercolor-style illustration of a golf course at dusk after a finished round. A putting green on the 18th hole with a pin flag, long shadows stretching across the grass from the low western sun, a sky transitioning from warm sunset orange to deep calm blue. A well-used golf bag with a putter and a worn glove resting near the bottom corner, slightly muddy golf shoes on the side. Calm, composed, reflective mood evoking a day of hard effort and tired body. Bluish white to blue-gray palette with touches of warm sunset light, clean and refined, appealing to both men and women. Keep the center bright, pale and mostly empty for overlaying a headline; place sky, trees, and objects toward the corners and left and right edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
-  "palette": "night",
+  "image_prompt": "Realistic watercolor illustration of a bright, fresh morning at a well-kept golf course. Cloudless clear blue sky with dazzling morning sunlight streaming in from the upper corner. Dew-glistening green fairway and tee ground placed along the bottom and side edges, a golf ball sitting on a tee and a golf bag leaning at the right edge. Uplifting, energetic, clean and crisp mood that appeals to both men and women. Color palette of bluish white to sky blue, with navy and blue accents, touches of grass green and warm sunlight. The center of the image is bright, pale and mostly empty with generous negative space for overlaying a headline later; motifs are pushed to the corners and left and right edges. No people, no faces, no body parts. Not spa-like, no candles, no flowers. No text, no letters, no numbers, no logos.",
+  "palette": "noon",
   "images": [
-    "posts/20261025-night-1.jpg",
-    "posts/20261025-night-2.jpg",
-    "posts/20261025-night-3.jpg",
-    "posts/20261025-night-4.jpg",
-    "posts/20261025-night-5.jpg"
+    "posts/20261026-noon-1.jpg",
+    "posts/20261026-noon-2.jpg",
+    "posts/20261026-noon-3.jpg",
+    "posts/20261026-noon-4.jpg",
+    "posts/20261026-noon-5.jpg"
   ],
-  "published": true,
-  "media_id": "17971242273171347",
-  "fb_post_id": "1336197019582610_122112960117501764"
+  "published": false
 }
