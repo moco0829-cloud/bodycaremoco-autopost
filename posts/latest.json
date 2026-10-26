@@ -1,59 +1,58 @@
 {
   "date": "2026-10-26",
-  "slot": "noon",
-  "theme": "座り疲れの股関節前側を伸ばす",
-  "caption": "午前中、ほとんど座りっぱなしではありませんでしたか？☀️\n\n月曜日はデスクワークや運転で、つい座る時間が長くなりがち。\n座った姿勢が続くと、股関節の前側の筋膜が縮こまったまま固まりやすくなります。\n\n立ち上がったときに腰がすっと伸びにくい、歩幅が小さくなった気がする。\nゴルフをされる方なら、アドレスで腰が反りやすい、バックスイングで腰が回りにくい。\nそんなサインを感じていたら、股関節の前側がこわばっているのかもしれません。\n\nお昼休みに、デスクの横で1分だけ伸ばしてみませんか？\nこわばりのチェックと、すぐできるストレッチを画像にまとめました。保存して、午後の合間にもぜひ。\n\n週末のラウンドに向けて、平日から「動ける身体」を少しずつ整えておくと、スタートホールの一打もきっと気持ちよく振り抜けます⛳\n\n伸ばしても腰の重さが続く方は、メディセルで筋膜にしっかりアプローチしてみてください。\n※強い痛みやしびれがある場合は、医療機関にご相談くださいね。\n\nご予約・ご相談はDMからお気軽にどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #成田市サロン #股関節ストレッチ #デスクワーク #腰痛ケア #ゴルフケア #ゴルフ好きな人と繋がりたい #ラウンド前 #セルフケア #ゴルフ女子 #ゴルフ男子",
+  "slot": "night",
+  "theme": "秋の夜、脚のむくみと冷えのケア",
+  "caption": "夕方、靴がきつく感じたり、靴下の跡がくっきり残っていたりしませんか？\n\n今日もおつかれさまでした☀️\nデスクワークや立ち仕事、家事、そして18ホールを歩いたゴルフのあと。1日の終わりに脚が重だるいのは、それだけ身体をがんばって使った証拠です。\n\n同じ姿勢が続くと、ふくらはぎが動きにくくなります。そこに筋膜のこわばりや秋の冷えが重なると、めぐりが滞り、むくみや冷えを感じやすくなります。\n\n「いつものことだから」とそのままにせず、今夜のうちに軽くケアしておくと、翌朝の脚が軽く感じる方も多いです。\n今夜のセルフチェックと夜のケアを画像にまとめました。保存して、お風呂上がりにお試しください。\n\nゴルフをされる方は、ラウンド後の脚のケアが次のプレーにもつながります⛳\n\n※急な腫れや強い痛み、しびれが続く場合は、医療機関にご相談くださいね。\n\n重だるさがなかなか抜けないときは、メディセルで筋膜からしっかりケアしていきましょう。\nご予約・ご相談はDMからお気軽にどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #成田市サロン #むくみケア #冷え対策 #脚の疲れ #ゴルフケア #ゴルフ好き #立ち仕事 #デスクワーク #セルフケア #プライベートサロン",
   "cover": {
-    "lead": "月曜のお昼にひと伸び",
-    "headline": "座りっぱなしの\n【股関節】、\n縮んでいませんか？"
+    "lead": "1日の終わりに足元チェック",
+    "headline": "夕方の【むくみ】、\nそのままに\nしていませんか？"
   },
   "slides": [
     {
-      "title": "【股関節の前側】\nこわばりチェック",
+      "title": "【むくみ・冷え】\n今夜のセルフチェック",
       "numbered": false,
       "items": [
-        "立ち上がった直後、腰がすっと伸びにくい",
-        "仰向けで片膝を抱えると、反対の脚が浮く",
-        "最近、歩幅が小さくなった気がする",
-        "アドレスで腰が反りやすい",
-        "バックスイングで腰が回りにくい"
+        "靴下のゴムの跡がくっきり残っている",
+        "夕方になると靴がきつく感じる",
+        "ふくらはぎが張って重だるい",
+        "足先が冷えて、寝つきにくい",
+        "ラウンドや立ち仕事のあと脚がパンパン"
       ]
     },
     {
-      "title": "お昼に1分\n【デスク横ストレッチ】",
+      "title": "なぜ夕方に\n【むくみ】やすい？",
+      "numbered": false,
+      "items": [
+        "同じ姿勢が続き、ふくらはぎが動きにくい",
+        "筋膜がこわばると、めぐりが滞りやすい",
+        "秋の冷えで、身体が縮こまりがち",
+        "水分不足も、めぐりの滞りにつながる"
+      ]
+    },
+    {
+      "title": "翌日に残さない\n【夜のケア】",
       "numbered": true,
       "items": [
-        "椅子の横に立ち、片足を一歩うしろに引く",
-        "お尻を軽く締め、骨盤を前へ押し出す",
-        "両腕を上に伸ばし、ゆっくり5呼吸",
-        "反対側も同様に。痛みが出たら中止"
-      ]
-    },
-    {
-      "title": "週末ラウンドへ\n【動ける身体】の習慣",
-      "numbered": false,
-      "items": [
-        "1時間に一度は立ち上がって少し歩く",
-        "座るときは浅く腰かけ、骨盤を立てる",
-        "階段を使って、脚を大きく動かす",
-        "残るこわばりはメディセルでしっかりケア"
+        "ぬるめのお湯に、ゆっくり肩までつかる",
+        "足首回しとつま先の上げ下げを20回",
+        "寝る前は足元を少し高くして休む",
+        "白湯などで、こまめに水分をとる",
+        "重だるさが続くなら、筋膜からしっかりケア"
       ]
     }
   ],
   "closing": {
-    "lead": "身体が軽いと週末が楽しみ",
-    "headline": "お気軽に\n【ご相談】\nください"
+    "lead": "脚の重だるさ、DMでご相談を",
+    "headline": "軽い身体で\n【明日】へ\n踏み出そう"
   },
-  "image_prompt": "Realistic watercolor illustration of a bright, fresh morning at a well-kept golf course. Cloudless clear blue sky with dazzling morning sunlight streaming in from the upper corner. Dew-glistening green fairway and tee ground placed along the bottom and side edges, a golf ball sitting on a tee and a golf bag leaning at the right edge. Uplifting, energetic, clean and crisp mood that appeals to both men and women. Color palette of bluish white to sky blue, with navy and blue accents, touches of grass green and warm sunlight. The center of the image is bright, pale and mostly empty with generous negative space for overlaying a headline later; motifs are pushed to the corners and left and right edges. No people, no faces, no body parts. Not spa-like, no candles, no flowers. No text, no letters, no numbers, no logos.",
-  "palette": "noon",
+  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a finished round. The sky transitions from soft sunset orange near the horizon to deep calm blue above. Warm low western sunlight casts long shadows across the fairway. In the lower left corner, a well-used golf bag leaning on a bench with a worn glove and muddy golf shoes beside it; in the far right edge, the 18th green with a pin flag silhouetted against the evening light, and a few autumn trees framing the sides. Calm, composed, slightly tired but satisfied mood of reflecting on the day. Color palette of bluish white, blue-gray and navy with accents of warm sunset light, clean and gender-neutral design. Keep the center of the image bright, pale and mostly empty with generous negative space for a Japanese headline overlay; place all motifs at the corners and side edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "palette": "night",
   "images": [
-    "posts/20261026-noon-1.jpg",
-    "posts/20261026-noon-2.jpg",
-    "posts/20261026-noon-3.jpg",
-    "posts/20261026-noon-4.jpg",
-    "posts/20261026-noon-5.jpg"
+    "posts/20261026-night-1.jpg",
+    "posts/20261026-night-2.jpg",
+    "posts/20261026-night-3.jpg",
+    "posts/20261026-night-4.jpg",
+    "posts/20261026-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "17908735998578348",
-  "fb_post_id": "1336197019582610_122113296165501764"
+  "published": false
 }
