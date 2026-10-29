@@ -1,59 +1,59 @@
 {
   "date": "2026-10-29",
-  "slot": "noon",
-  "theme": "木曜昼、食いしばりと力みを抜く",
-  "caption": "気づくと、奥歯をぎゅっとかみしめていませんか？\n\n木曜日のお昼、おつかれさまです☀️\n週の後半は、集中が続くぶん、知らず知らずのうちに身体に力が入りやすいタイミングです。\n\n奥歯のかみしめや肩の力みは、首・肩まわりのこわばりにつながりやすく、呼吸も浅くなりがち。\nゴルフでも、力みはグリップやスイングに表れやすいといわれています⛳\n\n今日は、デスクで1分でできる「力み抜きケア」と、ラウンド前に取り入れたい脱力のコツをまとめました。\n画像もあわせてご覧ください。\n\nポイントは「歯を離す」「長く吐く」の2つだけ。\nお昼休みに一度試すと、午後の身体が少し軽く感じられるかもしれません。\n今週末のラウンドに向けた準備にもぴったりです。\n\n力みが続いて首や肩がつらいときは、筋膜からしっかりケアするのもひとつの方法です。\nあごの痛みや違和感が続く場合は、歯科などの専門機関にご相談くださいね。\n\nご予約・ご相談はDMからお気軽にどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #食いしばり #肩こり #首こり #デスクワーク #ゴルフ #ゴルフ好き #ラウンド前 #セルフケア #ゴルフケア #プライベートサロン",
+  "slot": "night",
+  "theme": "ラウンドの夜、眠りで疲れを残さない",
+  "caption": "ラウンドの夜、ぐっすり眠れていますか？\n\n18ホールを回った日は、身体はクタクタなのに、なぜか寝つけない。\n寝返りのたびに腰や背中が突っ張る。\nそんな経験はありませんか？\n\nがんばった日の身体は、筋膜がこわばり、めぐりも滞りがち。\nそのまま眠ると、同じ姿勢で固まりやすく、翌朝に疲れを持ち越してしまうことがあります。\n\n今日は、ラウンドの夜にできる「眠る前の5分ケア」と「寝姿勢の工夫」をまとめました。\n画像もあわせてご覧ください。保存して、次のラウンドの夜にもどうぞ⛳\n\n強い痛みやしびれ、腫れが続く場合は、無理をせず整形外科などの医療機関にご相談くださいね。\n\n毎回ラウンド後に疲れが抜けにくい方は、長年のこわばりが積み重なっているのかもしれません。\nBody Care mocoでは、メディセルで筋膜にやさしくしっかりアプローチし、動ける身体へと整えていきます。\n\n今日も1日、本当にお疲れさまでした☀️\nご予約・ご相談はDMからお気軽にどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフ #ゴルフ好きな人と繋がりたい #ゴルフケア #ラウンド後 #疲労回復 #睡眠 #寝姿勢 #腰痛 #プライベートサロン",
   "cover": {
-    "lead": "木曜のお昼に1分ケア",
-    "headline": "その【力み】、\n気づいて\nいますか？"
+    "lead": "ラウンドお疲れさまでした",
+    "headline": "その疲れ、\n【眠り】で\n残さない"
   },
   "slides": [
     {
-      "title": "力みのサイン\n【チェック】",
+      "title": "眠る前の\n【身体チェック】",
       "numbered": false,
       "items": [
-        "気づくと奥歯をかみしめている",
-        "肩が上がり、首まわりがこわばっている",
-        "呼吸が浅く、胸が詰まった感じがする",
-        "クラブを強く握りしめがち",
-        "夕方になると、こめかみや首が重い"
+        "寝返りで腰や背中が突っ張る",
+        "横向きになると肩がつらい",
+        "足先が冷えて寝つけない",
+        "ふくらはぎがつりそうになる",
+        "身体は疲れているのに頭が冴える"
       ]
     },
     {
-      "title": "デスクで1分\n【力み抜きケア】",
+      "title": "眠る前の\n【5分ケア】",
       "numbered": true,
       "items": [
-        "上下の歯を離し、舌先を上あごに軽く添える",
-        "肩をすくめて3秒キープ、ストンと下ろす",
-        "鼻から吸って、口から長く吐くを3回",
-        "頬やこめかみを、手のひらでやさしくさする"
+        "ぬるめのお湯でゆっくり全身を温める",
+        "画面から離れて、深くゆっくり呼吸する",
+        "仰向けで膝を立て、左右にゆっくり倒す",
+        "足首を回して、脚のめぐりを促す",
+        "コップ1杯の水分を少しずつ補う"
       ]
     },
     {
-      "title": "ラウンド前の\n【脱力ルーティン】",
+      "title": "疲れを残さない\n【寝姿勢】の工夫",
       "numbered": false,
       "items": [
-        "アドレス前に歯を離し、ひと息長く吐く",
-        "グリップは包み込むくらいのやさしい力で",
-        "素振りは肩の力を抜き、腕の重さで振る",
-        "あごの痛みが続くときは歯科などに相談を"
+        "仰向けは膝の下にクッションを",
+        "横向きは抱き枕で肩と腰をラクに",
+        "枕は首のすき間を埋める高さに",
+        "寝返りしやすい寝具でこわばり予防",
+        "強い痛み・しびれが続くなら医療機関へ"
       ]
     }
   ],
   "closing": {
-    "lead": "心も身体も、軽やかに",
-    "headline": "お気軽に\n【DM】で\nご相談を"
+    "lead": "今夜もお疲れさまでした",
+    "headline": "身体のこと\nお気軽に\n【ご相談】を"
   },
-  "image_prompt": "Realistic watercolor style illustration of a bright, fresh morning at a well-kept golf course before a round. Clear cloudless sky-blue sky, dazzling morning sunlight with soft lens flare in the upper corner, dew sparkling on a neatly mowed tee ground. A single white golf ball resting on a tee and a golf bag leaning to one side, placed near the lower left and right edges. Palette of bluish white, sky blue, navy and blue accents, with touches of fresh green grass and warm golden sunlight. Clean, crisp, refreshing and energetic mood suitable for both men and women. The center of the image is bright, pale and open with plenty of empty space for overlaying a Japanese headline; motifs of sky, grass and light are placed toward the corners and edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
-  "palette": "noon",
+  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a round. The sky transitions from a soft sunset glow to deep blue twilight, with warm low western sunlight casting long shadows across the fairway. A pin flag on the 18th green stands in the distance on one side, a well-used golf bag with a worn glove resting on it and slightly muddy golf shoes placed near the lower corner. Calm, composed, refined mood evoking a day of hard effort, tired body, and reflecting on today's play, with a gentle sense of winding down for a restful night. Color palette of bluish white, blue-gray, navy accents and touches of warm sunset light; clean, crisp design appealing to both men and women. Keep the center bright, pale and open with plenty of empty space for overlaying a headline; place sky, trees, grass, and golf items toward the corners and left and right edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "palette": "night",
   "images": [
-    "posts/20261029-noon-1.jpg",
-    "posts/20261029-noon-2.jpg",
-    "posts/20261029-noon-3.jpg",
-    "posts/20261029-noon-4.jpg",
-    "posts/20261029-noon-5.jpg"
+    "posts/20261029-night-1.jpg",
+    "posts/20261029-night-2.jpg",
+    "posts/20261029-night-3.jpg",
+    "posts/20261029-night-4.jpg",
+    "posts/20261029-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18636912481065189",
-  "fb_post_id": "1336197019582610_122114491143501764"
+  "published": false
 }
