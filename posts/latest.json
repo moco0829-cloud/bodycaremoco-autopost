@@ -1,58 +1,57 @@
 {
-  "date": "2026-10-28",
-  "slot": "night",
-  "theme": "ミスの傾向から読む身体のクセ",
-  "caption": "今日のミス、スイングだけのせいにしていませんか？⛳\n\nラウンドお疲れさまでした。\nスコアカードを見返して「また右に行った」「後半はダフリばかり」と、反省している方も多いのではないでしょうか。\n\nじつは、同じミスが続くとき、身体のどこかがこわばって、動ける幅がせまくなっていることもあります。\n胸や肩甲骨まわり、股関節、太もも裏、首や背中。\nミスの傾向は、身体からのサインかもしれません。\n\n今夜は、スコアだけでなく身体の状態も振り返ってみませんか。\nミスの傾向と身体のサイン、今夜できるケアを画像にまとめました。保存して、次のラウンドの振り返りにもお役立てください。\n\nBody Care mocoでは、メディセルで皮膚と筋膜をやさしく吸い上げ、強く揉まずにこわばりにしっかりアプローチします。\n「動ける身体」に整えて、ゴルフをもっと楽しく。\n\nなお、強い痛みや腫れ、しびれが続くときは、整形外科などの医療機関にご相談くださいね。\n\nご予約・ご相談はDMからお気軽にどうぞ☀️\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア #ゴルフ好きな人と繋がりたい #ラウンド後ケア #ゴルフ上達 #スコアアップ #肩甲骨 #股関節 #ボディケア #成田市サロン",
+  "date": "2026-10-29",
+  "slot": "noon",
+  "theme": "木曜昼、食いしばりと力みを抜く",
+  "caption": "気づくと、奥歯をぎゅっとかみしめていませんか？\n\n木曜日のお昼、おつかれさまです☀️\n週の後半は、集中が続くぶん、知らず知らずのうちに身体に力が入りやすいタイミングです。\n\n奥歯のかみしめや肩の力みは、首・肩まわりのこわばりにつながりやすく、呼吸も浅くなりがち。\nゴルフでも、力みはグリップやスイングに表れやすいといわれています⛳\n\n今日は、デスクで1分でできる「力み抜きケア」と、ラウンド前に取り入れたい脱力のコツをまとめました。\n画像もあわせてご覧ください。\n\nポイントは「歯を離す」「長く吐く」の2つだけ。\nお昼休みに一度試すと、午後の身体が少し軽く感じられるかもしれません。\n今週末のラウンドに向けた準備にもぴったりです。\n\n力みが続いて首や肩がつらいときは、筋膜からしっかりケアするのもひとつの方法です。\nあごの痛みや違和感が続く場合は、歯科などの専門機関にご相談くださいね。\n\nご予約・ご相談はDMからお気軽にどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #食いしばり #肩こり #首こり #デスクワーク #ゴルフ #ゴルフ好き #ラウンド前 #セルフケア #ゴルフケア #プライベートサロン",
   "cover": {
-    "lead": "今日のミス、振り返る夜に",
-    "headline": "そのミス、\n【身体のクセ】\nかも？"
+    "lead": "木曜のお昼に1分ケア",
+    "headline": "その【力み】、\n気づいて\nいますか？"
   },
   "slides": [
     {
-      "title": "ミスの傾向と\n【身体のサイン】",
+      "title": "力みのサイン\n【チェック】",
       "numbered": false,
       "items": [
-        "右へのミスが続く→胸・肩甲骨まわりが回りにくいかも",
-        "引っかけが増える→股関節が回らず手打ちになっているかも",
-        "ダフリ・トップ→前傾を支える太もも裏やお尻のこわばりかも",
-        "後半パットが合わない→首や背中の疲れがたまっているかも"
+        "気づくと奥歯をかみしめている",
+        "肩が上がり、首まわりがこわばっている",
+        "呼吸が浅く、胸が詰まった感じがする",
+        "クラブを強く握りしめがち",
+        "夕方になると、こめかみや首が重い"
       ]
     },
     {
-      "title": "今夜できる\n【振り返りケア】",
+      "title": "デスクで1分\n【力み抜きケア】",
       "numbered": true,
       "items": [
-        "スコアカードにミスの傾向をひとことメモ",
-        "ぬるめのお湯で、固まった身体をじっくり温める",
-        "胸を開いて深呼吸し、肩甲骨を大きく回す",
-        "水分をとり、伸ばしすぎず早めに休む"
+        "上下の歯を離し、舌先を上あごに軽く添える",
+        "肩をすくめて3秒キープ、ストンと下ろす",
+        "鼻から吸って、口から長く吐くを3回",
+        "頬やこめかみを、手のひらでやさしくさする"
       ]
     },
     {
-      "title": "技術だけじゃない\n【身体を整える】視点",
+      "title": "ラウンド前の\n【脱力ルーティン】",
       "numbered": false,
       "items": [
-        "同じミスの原因が、技術だけとは限りません",
-        "筋膜がこわばると、動ける幅がせまくなることも",
-        "メディセルは揉まずに吸い上げ、筋膜にアプローチ",
-        "強い痛みや腫れが続くときは整形外科へ相談を"
+        "アドレス前に歯を離し、ひと息長く吐く",
+        "グリップは包み込むくらいのやさしい力で",
+        "素振りは肩の力を抜き、腕の重さで振る",
+        "あごの痛みが続くときは歯科などに相談を"
       ]
     }
   ],
   "closing": {
-    "lead": "スイングも身体も、一緒に",
-    "headline": "お気軽に\n【DMで相談】\nください"
+    "lead": "心も身体も、軽やかに",
+    "headline": "お気軽に\n【DM】で\nご相談を"
   },
-  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a round. Evening sunlight casting long shadows across the 18th green, a pin flag gently standing near the edge, sky shifting from soft sunset orange to deep calm blue. In the lower corners, a well-used golf bag, a worn golf glove, and a blank scorecard with a small pencil resting on a bench, muddy golf shoes beside it, conveying reflection on the day's play and pleasant fatigue. Bluish white and blue-gray palette with warm golden sunset accents, clean, crisp, calm and composed mood, appealing to both men and women. Motifs placed at the four corners and left and right edges; the center is bright, pale, and mostly empty soft space for overlaying a headline. No people, no faces, no body parts. No text, no letters, no numbers, no logos, no writing on the scorecard.",
-  "palette": "night",
+  "image_prompt": "Realistic watercolor style illustration of a bright, fresh morning at a well-kept golf course before a round. Clear cloudless sky-blue sky, dazzling morning sunlight with soft lens flare in the upper corner, dew sparkling on a neatly mowed tee ground. A single white golf ball resting on a tee and a golf bag leaning to one side, placed near the lower left and right edges. Palette of bluish white, sky blue, navy and blue accents, with touches of fresh green grass and warm golden sunlight. Clean, crisp, refreshing and energetic mood suitable for both men and women. The center of the image is bright, pale and open with plenty of empty space for overlaying a Japanese headline; motifs of sky, grass and light are placed toward the corners and edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "palette": "noon",
   "images": [
-    "posts/20261028-night-1.jpg",
-    "posts/20261028-night-2.jpg",
-    "posts/20261028-night-3.jpg",
-    "posts/20261028-night-4.jpg",
-    "posts/20261028-night-5.jpg"
+    "posts/20261029-noon-1.jpg",
+    "posts/20261029-noon-2.jpg",
+    "posts/20261029-noon-3.jpg",
+    "posts/20261029-noon-4.jpg",
+    "posts/20261029-noon-5.jpg"
   ],
-  "published": true,
-  "media_id": "18142630273619569",
-  "fb_post_id": "1336197019582610_122114212641501764"
+  "published": false
 }
