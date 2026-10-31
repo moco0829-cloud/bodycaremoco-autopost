@@ -1,60 +1,56 @@
 {
-  "date": "2026-10-30",
-  "slot": "night",
-  "theme": "金曜夜、1週間の疲れを週末に残さない",
-  "caption": "「やっと金曜日。でも、身体はもうクタクタ…」そんな夜を迎えていませんか？\n\n今週もおつかれさまでした☀️\nデスクワーク、立ち仕事、家事や介護。5日間がんばった身体には、自分でも気づかないうちにこわばりがたまっています。\n\n明日ラウンドの方は特に、この疲れを抱えたままティーグラウンドに立つと、肩が回りにくかったり、後半に踏ん張りがきかなかったりすることも。\n\nそこで今夜は、\n・1週間の疲れの身体チェック\n・寝る前にできるリセットの流れ\n・明日ゴルフの方への前夜のひと工夫\nを画像にまとめました。保存して、金曜の夜の習慣にしてみてください。\n\n「ずっと同じところが重い」「休んでも抜けない」という長年の不調は、筋膜のこわばりが関わっていることもあります。\nメディセルは揉まずに吸い上げて、筋膜にしっかりアプローチするケア。強い刺激が苦手な方にもおすすめです。\n\nなお、強い痛みやしびれ、腫れが続くときは、医療機関へのご相談を。\n\n軽い身体で、週末を思いきり楽しみましょう⛳\nご予約・ご相談はDMからお気軽にどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #成田市サロン #ゴルフケア #ゴルフ好きな人と繋がりたい #週末ゴルフ #疲労回復 #肩こり #腰痛 #デスクワーク #身体のメンテナンス",
+  "date": "2026-10-31",
+  "slot": "noon",
+  "theme": "ラウンド前に腰を守る準備",
+  "caption": "「ラウンドの後半、なんだか腰が重い…」そんな経験はありませんか？\n\n土曜のお昼、これからゴルフの方も、明日ラウンドの方もいらっしゃるかもしれませんね☀️\n\nスイングでは身体を大きくひねりますが、腰はもともと大きくねじるのが得意な部位ではありません。\n股関節や胸まわりが固いと、そのぶん腰ががんばってしまい、張りやすくなります。\nデスクワークや運転で座る時間が長い方は、お尻や太もも前の筋膜もこわばりがちです。\n\n今回は、ラウンド前やお昼休みにできる「腰を守る3ステップ」を画像にまとめました。\n大切なのは、腰だけでなく股関節と胸から動かすこと。最初の素振りは半分の力から、ゆっくり身体を目覚めさせてあげてください。\n\nケアしてもいつも同じ場所が張る方は、筋膜のこわばりが積み重なっているのかもしれません。メディセルなら強く揉まずに、筋膜にしっかりアプローチできます。\n※強い痛みやしびれが続くときは、整形外科などの医療機関にご相談くださいね。\n\n画像もあわせてご覧ください。\n腰を気にせず、気持ちよく振りきれる身体へ⛳\nご予約・ご相談はDMからお気軽にどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフ #ゴルフケア #腰痛 #腰の張り #ラウンド前 #ゴルフ好きな人と繋がりたい #セルフケア #筋膜ケア #プライベートサロン #成田ゴルフ",
   "cover": {
-    "lead": "今週もおつかれさまでした",
-    "headline": "1週間の疲れ、\n【週末】まで\n残していませんか"
+    "lead": "土曜のお昼、ゴルフ前に☀️",
+    "headline": "ラウンド前に\n【腰を守る】\n準備を"
   },
   "slides": [
     {
-      "title": "金曜夜の\n【身体チェック】",
+      "title": "腰が張りやすい\n【理由】を知る",
       "numbered": false,
       "items": [
-        "肩が上がったまま、なかなか下りない",
-        "首を回すと左右で動きが違う",
-        "腰を反らすと重く、張りを感じる",
-        "脚がむくんで靴下のあとが残る",
-        "深呼吸しても胸が広がりにくい"
+        "腰は本来、大きくねじるのが得意ではない",
+        "股関節と胸まわりが固いと、腰が代わりにがんばりがち",
+        "座る時間が長いと、お尻や太もも前の筋膜がこわばる",
+        "力みや急なフルスイングも、腰の負担のもとに"
       ]
     },
     {
-      "title": "寝る前の\n【リセット】の流れ",
+      "title": "ラウンド前の\n【腰ケア3ステップ】",
       "numbered": true,
       "items": [
-        "ぬるめのお湯で、ゆっくり身体を温める",
-        "湯上がりに、深呼吸を数回くり返す",
-        "両手を後ろで組み、胸をやさしく開く",
-        "お尻と太もも裏を、反動をつけず伸ばす",
-        "画面は早めに閉じて、眠りを優先する"
+        "骨盤に手を当て、ゆっくり左右に5回まわす",
+        "椅子で片脚を組み、胸を前へ倒してお尻を伸ばす",
+        "腕を胸の前で組み、腰でなく胸から左右へひねる",
+        "最初の素振りは半分の力から、少しずつ大きく"
       ]
     },
     {
-      "title": "明日ラウンドの方へ\n【前夜のひと工夫】",
+      "title": "こんなときは\n【無理しないで】",
       "numbered": false,
       "items": [
-        "道具の準備は今夜のうちに済ませておく",
-        "お酒と夜ふかしは、ほどほどに",
-        "伸ばして痛む所は、無理に動かさない",
-        "強い痛みやしびれが続くときは医療機関へ"
+        "朝起きると腰が重く、前かがみがつらい",
+        "ケアしても、いつも同じ場所に張りが残る",
+        "強い痛みやしびれが続くときは医療機関へ",
+        "慢性的なこわばりは、筋膜からしっかりケアを"
       ]
     }
   ],
   "closing": {
-    "lead": "その疲れ、あきらめないで",
-    "headline": "お気軽に\n【DM】で\nご相談ください"
+    "lead": "腰を気にせず振りきろう",
+    "headline": "動ける身体へ\nまずは【DM】で\nご相談を"
   },
-  "image_prompt": "Realistic watercolor painting of a golf course at dusk after a round, Friday evening atmosphere. Sky transitioning from soft sunset glow to deep calm blue, warm low western sunlight casting long shadows across the fairway. Near the edges: an 18th green pin flag on the right side, a well-used golf bag leaning with a worn glove resting on it and slightly dirty golf shoes at the lower left corner, a few trees and grasses at the corners. The center of the image is bright, airy, with lots of empty pale bluish-white space for a Japanese headline overlay. Color palette of bluish white, blue-gray, sky blue and navy with touches of warm sunset light. Clean, crisp, calm and composed mood that reflects on a hard-working day and tired body, appealing to both men and women. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
-  "palette": "night",
+  "image_prompt": "Realistic watercolor-style illustration of a bright autumn morning at a well-kept golf course. Cloudless clear sky-blue sky with a dazzling morning sun shining from the upper corner, soft sun rays. A pristine tee ground with morning dew sparkling on the green grass, a white golf ball on a tee and a navy golf bag leaning at the right edge, a few trees at the left edge. Fresh, energetic, optimistic mood before a round. Color palette of bluish white to sky blue with navy and blue accents, touches of grass green and warm sunlight. Clean, crisp, sophisticated design appealing to both men and women. Keep the center bright, pale and mostly empty with plenty of negative space for overlaying text later; place motifs toward the corners and edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "palette": "noon",
   "images": [
-    "posts/20261030-night-1.jpg",
-    "posts/20261030-night-2.jpg",
-    "posts/20261030-night-3.jpg",
-    "posts/20261030-night-4.jpg",
-    "posts/20261030-night-5.jpg"
+    "posts/20261031-noon-1.jpg",
+    "posts/20261031-noon-2.jpg",
+    "posts/20261031-noon-3.jpg",
+    "posts/20261031-noon-4.jpg",
+    "posts/20261031-noon-5.jpg"
   ],
-  "published": true,
-  "media_id": "18122268494066694",
-  "fb_post_id": "1336197019582610_122114969751501764"
+  "published": false
 }
