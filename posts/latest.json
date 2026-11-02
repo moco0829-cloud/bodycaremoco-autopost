@@ -1,58 +1,57 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "slot": "night",
-  "theme": "ラウンド後の入浴とお風呂上がりケア",
-  "caption": "今日のラウンド、シャワーだけで済ませていませんか？\n\n11月に入り、夕方のコースはぐっと冷えるようになりました。\n18ホールを歩き、何十回もスイングした身体は、寒さも加わって思った以上にこわばっています。\n\n日曜の夜は、湯船につかって身体をほどく時間をつくってみてください。\n入浴前の水分補給、ぬるめのお湯、湯船の中で足首や手首をゆっくり回す。\nそれだけでも、翌朝の身体が軽く感じる方は多いんです。\nお風呂上がりの、反動をつけないやさしいほぐしもおすすめです。\n\nただし、腫れや熱っぽさがある部分、ひねったりぶつけたりした覚えがあるときは、温めずに様子を見て、整形外科などの医療機関へご相談ください。\n\nポイントは画像にまとめましたので、あわせてご覧ください。保存しておくと、次のラウンド後にも使えます⛳\n\nそれでも抜けないこわばりや、長年続く痛みは、筋膜からしっかりアプローチするメディセルでケアしていきます。\n今週もお疲れさまでした。ご予約・ご相談はDMへどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
+  "theme": "寒さで肩がすくんだラウンド後ケア",
+  "caption": "寒い日のラウンド、気づけば肩がすくんだままではありませんか？\n\n11月に入り、朝晩の冷え込みがぐっと増してきました。今日もお仕事やゴルフ、お疲れさまでした。\n\n寒さの中でプレーすると、身体は無意識に縮こまります。肩が上がり、首が詰まり、厚着も重なってトップが浅くなる。後半「手打ちになっていたかも」と感じたら、スイングだけでなく身体のこわばりにも目を向けてみてください。\n\nこの縮こまりをそのままにすると、翌日に首や背中の重さとして残りやすくなります。今夜は首元を温めて、肩をストンと落とし、胸を開く深呼吸から始めてみましょう。画像に、寒さで縮こまった身体のサインと、今夜できるケアの流れをまとめました。あわせてご覧ください⛳\n\nMedicell（メディセル）は、強く揉まずに皮膚と筋膜をやさしく吸い上げて、こわばりにアプローチします。「冬はゴルフがつらい」とあきらめず、動ける身体を整えていきましょう。\n\nご予約・ご相談はDMからお気軽にどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
   "cover": {
-    "lead": "ラウンドお疲れさまでした",
-    "headline": "今夜は\n【湯船】で\n身体をほどく"
+    "lead": "冷えた1日、お疲れさまでした",
+    "headline": "寒さで【縮こまった】\n身体、そのままに\nしていませんか？"
   },
   "slides": [
     {
-      "title": "ラウンド後の\n【入浴のコツ】",
+      "title": "寒さで縮こまった\n【身体のサイン】",
+      "numbered": false,
+      "items": [
+        "肩が上がったまま、首が詰まる感じがする",
+        "厚着もあって、トップが浅く振り切れない",
+        "後半、手先だけで打っていた気がする",
+        "背中から腰にかけて、重だるさが残る"
+      ]
+    },
+    {
+      "title": "今夜できる\n【ほぐしの流れ】",
       "numbered": true,
       "items": [
-        "入浴前に、コップ1杯の水分補給",
-        "ぬるめのお湯に、肩までゆっくりつかる",
-        "湯船の中で、足首と手首をゆっくり回す",
-        "長湯はせず、のぼせる前に上がる"
+        "帰宅したら、まず首元と腰まわりを温める",
+        "肩を大きくすくめて、ストンと落とすを5回",
+        "両手を後ろで組み、胸を開いて深呼吸",
+        "背中を丸めて伸ばす、を呼吸に合わせて",
+        "首元を冷やさず、いつもより早めに休む"
       ]
     },
     {
-      "title": "お風呂上がりの\n【やさしいほぐし】",
+      "title": "冬ゴルフは\n【前後のケア】を大切に",
       "numbered": false,
       "items": [
-        "太もも裏を軽く伸ばして、深呼吸",
-        "両肩を後ろへ、ゆっくり大きく回す",
-        "左右にゆっくり身体をひねる",
-        "反動はつけず「気持ちいい」で止める"
-      ]
-    },
-    {
-      "title": "温める前に\n【確認したいこと】",
-      "numbered": false,
-      "items": [
-        "腫れや熱っぽさがある部分はないか",
-        "ひねった・ぶつけた覚えはないか",
-        "しびれや強い痛みが続いていないか",
-        "気になるときは整形外科などへ相談を"
+        "縮こまりが重なると、筋膜もこわばりやすい",
+        "ラウンド中はネックウォーマーで首元を守る",
+        "痛みやしびれが続く時は医療機関へ相談を",
+        "メディセルは揉まずに吸い上げてアプローチ"
       ]
     }
   ],
   "closing": {
-    "lead": "その疲れ、ためこまないで",
-    "headline": "身体のこと\nお気軽に\n【ご相談】ください"
+    "lead": "冬もゴルフを楽しめる身体に",
+    "headline": "お気軽に\n【ご相談】\nください"
   },
-  "image_prompt": "Realistic watercolor painting of a golf course at dusk after a finished round, late November feeling. Low warm sunset light casting long shadows across the 18th green, a pin flag gently standing at the far right edge, the sky shifting from soft sunset orange to deep calm blue. A well-used golf bag and a worn golf glove resting on the grass in the lower left corner, with a faint wisp of rising steam suggesting warmth and rest at the end of the day. Clean, crisp, composed mood conveying a day of hard effort and tired body, reflecting on today's play. Palette of bluish white, blue-gray and navy with accents of warm evening sunlight. Motifs placed at the corners and left and right edges; the center is bright, pale and largely empty with generous negative space for overlaying a headline later. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "image_prompt": "Realistic watercolor painting of a golf course at dusk in late autumn after a round, crisp cold air feeling. Sky transitioning from soft sunset glow to deep blue, long shadows stretching across the fairway under low western sunlight. A pin flag on the 18th green at the far edge, a well-used golf bag with a knitted club cover, a pair of worn golf gloves and a navy neck warmer resting on a bench, slightly muddy golf shoes, a few fallen autumn leaves on the grass. Calm, composed, and refined mood reflecting the day's effort and tired body. Bluish white to blue-gray palette with navy accents and touches of warm sunset light. Clean design appealing to both men and women, not spa-like. Keep the center bright, pale, and open with plenty of empty space for overlaying text; place motifs such as sky, plants, light, and golf equipment toward the corners and left and right edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
   "palette": "night",
   "images": [
-    "posts/20261101-night-1.jpg",
-    "posts/20261101-night-2.jpg",
-    "posts/20261101-night-3.jpg",
-    "posts/20261101-night-4.jpg",
-    "posts/20261101-night-5.jpg"
+    "posts/20261102-night-1.jpg",
+    "posts/20261102-night-2.jpg",
+    "posts/20261102-night-3.jpg",
+    "posts/20261102-night-4.jpg",
+    "posts/20261102-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "17977730198935761",
-  "fb_post_id": "1336197019582610_122115701607501764"
+  "published": false
 }
