@@ -1,56 +1,58 @@
 {
   "date": "2026-11-05",
-  "slot": "noon",
-  "theme": "昼休みの歩き方で週末ゴルフ準備",
-  "caption": "お昼休みの「歩き方」、少しだけ変えてみませんか？☀️\n\n18ホールを回るゴルフは、実はよく歩くスポーツ。\nそして毎日の通勤やお昼休みの数分も、歩き方しだいで週末に向けた身体の準備になります。\n\nデスクワークが続くと、肩はすくみ、股関節は縮こまりがち。\nそのまま週末を迎えると、スイングの回転や踏ん張りにも響きやすくなります。\n\nポイントは、腕を「前」より「後ろ」に引く意識と、いつもより少し広い歩幅。\n肩甲骨と股関節が自然に動いて、身体がほどけていくのを感じられるはずです。\nお昼休みにできる5分のルーティンを画像にまとめました。保存して、ぜひ試してみてください。\n\nただ、膝や腰に痛みが出るときは無理をせず休んでくださいね。強い痛みやしびれ、腫れが続く場合は、整形外科などの医療機関へご相談ください。\n\n「歩いてもすぐ固まってしまう」という方は、こわばりの奥にある筋膜を、メディセルでしっかりケアするのもひとつの方法です。\n動ける身体で、晴れやかな週末ラウンドを迎えましょう⛳\n\nご予約・ご相談はDMからお気軽にどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
+  "slot": "night",
+  "theme": "ラウンド2日後に出る遅れた疲れ",
+  "caption": "祝日のラウンドから2日。今日になって「なんだか身体が重い」と感じていませんか？\n\nラウンドの翌日は平気だったのに、2日ほどたってから腰や背中、太ももに張りを感じる。そんな声をよくお聞きします。18ホール歩いて、何十回もスイングした身体は、思っている以上にがんばってくれていたのかもしれません。\n\n今夜は、遅れてくる疲れのサインと、寝る前にできるやさしいケアを画像にまとめました。\n無理に伸ばさず、「気持ちいい」と感じる範囲で行ってみてくださいね。\n\n疲れがたまると、筋膜はこわばりやすくなります。そのままにしておくと、次のラウンドでの捻転や前傾姿勢にも影響しやすいもの。メディセルは強く揉まず、皮膚と筋膜をやさしく吸い上げて、こわばりにしっかりアプローチしていきます。\n\nなお、強い痛みやしびれ、腫れが続く場合は、整形外科などの医療機関にご相談ください。\n\n今日も1日、本当にお疲れさまでした☀️\n画像もあわせてご覧いただき、次のラウンドに向けた身体づくりの参考にしてください。\nご予約・ご相談は、お気軽にDMへ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
   "cover": {
-    "lead": "お昼休みの5分で",
-    "headline": "歩き方ひとつで\n【週末ゴルフ】が\n変わる？"
+    "lead": "祝日ラウンドから2日",
+    "headline": "今ごろ\n【身体が重い】\nと感じたら"
   },
   "slides": [
     {
-      "title": "ラウンドにつながる\n【歩き方】のコツ",
+      "title": "【遅れてくる疲れ】の\nサインをチェック",
       "numbered": false,
       "items": [
-        "目線は少し遠くへ、あごを軽く引く",
-        "腕は前より【後ろ】へ引き、肩甲骨を動かす",
-        "かかとから着いて、足指で地面を送り出す",
-        "歩幅を少し広げて、股関節を大きく使う"
+        "朝起きると、腰や背中が重く感じる",
+        "振り向くと、首や肩まわりが張る",
+        "階段で太ももやふくらはぎが重い",
+        "左右どちらかだけ張りが強い",
+        "寝ても疲れが抜けた気がしない"
       ]
     },
     {
-      "title": "お昼休みの\n【5分お散歩】ルーティン",
+      "title": "寝る前の【今夜ケア】",
       "numbered": true,
       "items": [
-        "まず1分、ゆっくり歩いて呼吸を整える",
-        "次の2分は、歩幅を広げて股関節を前後に",
-        "1分間、腕を後ろに振って胸を開く",
-        "最後に立ち止まり、大きく背伸びと深呼吸"
+        "ぬるめのお湯で全身をじっくり温める",
+        "体側を左右ゆっくり伸ばし、わき腹をゆるめる",
+        "太もも裏を痛くない範囲で伸ばす",
+        "深呼吸を5回、肩の力をすっと抜く",
+        "水分をとって、いつもより早めに休む"
       ]
     },
     {
-      "title": "こんなときは\n【無理をしない】",
+      "title": "長引くこわばりは\n【筋膜】にも目を向けて",
       "numbered": false,
       "items": [
-        "膝や腰に痛みが出たら、すぐに休む",
-        "強い痛み・しびれ・腫れが続くときは医療機関へ",
-        "歩いてもすぐ固まるなら、筋膜ケアで整える選択も",
-        "ラウンド前のケアもお気軽にご相談ください"
+        "疲れがたまると、筋膜はこわばりやすい",
+        "こわばりは次のスイングの捻転にも影響しやすい",
+        "メディセルは揉まずに吸い上げてアプローチ",
+        "強い痛みや腫れが続くときは医療機関へ"
       ]
     }
   ],
   "closing": {
-    "lead": "動ける身体で週末へ",
-    "headline": "気になる不調は\n【DM】で\nご相談ください"
+    "lead": "その疲れ、ため込まないで",
+    "headline": "次のラウンドへ\n【DM】で\nご相談ください"
   },
-  "image_prompt": "Realistic watercolor-style illustration of a bright, crisp morning at a well-kept golf course. Cloudless clear sky-blue sky with dazzling morning sunlight and soft lens flare from the upper corner. Neatly mown fairway glistening with morning dew, a gentle walking path curving along the edge of the course, a golf ball on a tee and a golf bag leaning at the side. Fresh green grass and a few leaves placed toward the corners and left and right edges. Color palette of bluish white to sky blue with navy and blue accents, touches of turf green and warm sunlight. Clean, sharp, refreshing and energetic mood suitable for both men and women, not spa-like. The center of the image is bright, pale and mostly empty space for overlaying Japanese headline text later. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
-  "palette": "noon",
+  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a round. Long shadows stretching across the fairway in the low evening sun, sky transitioning from soft sunset glow to deep blue. An 18th green pin flag in the distance, a well-used golf bag resting at the edge, a worn golf glove and slightly muddy golf shoes on the grass, evoking a day of hard effort, tired body, and quiet reflection on today's play. Calm, crisp, clean atmosphere with bluish white to blue-gray tones accented by warm sunset light, appealing to both men and women. Keep the center bright, pale and mostly empty with generous negative space for Japanese headline text; place sky, grass, light and golf equipment motifs toward the corners and left and right edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "palette": "night",
   "images": [
-    "posts/20261105-noon-1.jpg",
-    "posts/20261105-noon-2.jpg",
-    "posts/20261105-noon-3.jpg",
-    "posts/20261105-noon-4.jpg",
-    "posts/20261105-noon-5.jpg"
+    "posts/20261105-night-1.jpg",
+    "posts/20261105-night-2.jpg",
+    "posts/20261105-night-3.jpg",
+    "posts/20261105-night-4.jpg",
+    "posts/20261105-night-5.jpg"
   ],
   "published": false
 }
