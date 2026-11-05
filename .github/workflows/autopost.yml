@@ -57,6 +57,8 @@ jobs:
         env:
           EVENT: ${{ github.event_name }}
           INPUT_SLOT: ${{ inputs.slot }}
+          # 定期実行で投稿する枠（昼の枠を戻すときは "noon night" にし、上の cron の「#」も外す）
+          ACTIVE_SLOTS: night
         run: |
           python3 - <<'PY'
           import json, os
@@ -78,6 +80,15 @@ jobs:
               elif now.hour >= give_up:
                   # 実行が大きく遅れたときは、時間外に投稿しないよう見送る
                   skip, reason = True, f"開始が {now:%H:%M} と遅すぎるので、今日の{name}の投稿は見送ります"
+              elif slot not in os.environ["ACTIVE_SLOTS"].split():
+                  # 前の日の夜の回が真夜中過ぎまで遅れると、止めている昼の枠の回とみなされてしまう。
+                  # そのまま作ると、画像生成代がかかったうえに、待ち時間の上限（4時間）で止まるので見送る
+                  skip, reason = True, f"{now:%H:%M} 開始。今は{name}の枠は止めているので、何もしません"
+              else:
+                  target = now.replace(hour=int(post_at[:2]), minute=int(post_at[3:]), second=0, microsecond=0)
+                  if (target - now).total_seconds() > 3.5 * 3600:
+                      # 投稿時刻まで待ちきれない（上限4時間）ほど早く始まったときは、作らずに後の回にまかせる
+                      skip, reason = True, f"開始が {now:%H:%M} と早すぎるので、後の回にまかせます"
           print(reason or f"{now:%H:%M} 開始。{name}（{post_at}）の投稿を作ります")
           with open(os.environ["GITHUB_OUTPUT"], "a") as f:
               f.write(f"skip={'true' if skip else 'false'}\nslot={slot}\npost_at={post_at}\n")
