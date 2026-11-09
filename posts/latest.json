@@ -1,60 +1,59 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-09",
   "slot": "night",
-  "theme": "ラウンド2日後に出る遅れた疲れ",
-  "caption": "祝日のラウンドから2日。今日になって「なんだか身体が重い」と感じていませんか？\n\nラウンドの翌日は平気だったのに、2日ほどたってから腰や背中、太ももに張りを感じる。そんな声をよくお聞きします。18ホール歩いて、何十回もスイングした身体は、思っている以上にがんばってくれていたのかもしれません。\n\n今夜は、遅れてくる疲れのサインと、寝る前にできるやさしいケアを画像にまとめました。\n無理に伸ばさず、「気持ちいい」と感じる範囲で行ってみてくださいね。\n\n疲れがたまると、筋膜はこわばりやすくなります。そのままにしておくと、次のラウンドでの捻転や前傾姿勢にも影響しやすいもの。メディセルは強く揉まず、皮膚と筋膜をやさしく吸い上げて、こわばりにしっかりアプローチしていきます。\n\nなお、強い痛みやしびれ、腫れが続く場合は、整形外科などの医療機関にご相談ください。\n\n今日も1日、本当にお疲れさまでした☀️\n画像もあわせてご覧いただき、次のラウンドに向けた身体づくりの参考にしてください。\nご予約・ご相談は、お気軽にDMへ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
+  "theme": "強風ラウンド後、踏ん張った体幹ケア",
+  "caption": "風の強い日のラウンド、本当にお疲れさまでした。\n\n晩秋は北風が吹く日も増えてきますね。\n風に負けないよう、アドレスで足裏に力を入れ続け、腕で振りにいき、肩もすくみがち。\n気づかないうちに、身体はずっと踏ん張っていたはずです。\n\n「後半トップが浅くなった」「なんだか芯に当たらなかった」\nそんな日は、風だけでなく、身体のこわばりも影響しているかもしれません。\n\n今夜は、踏ん張った足裏・わき腹・お腹まわりをゆるめて、明日に疲れを残さないケアを。\n身体のサインのチェックと夜の体幹リセットを画像にまとめたので、あわせてご覧ください⛳\n\nケアしても抜けないこわばりは、筋膜が固まっていることも。\nBody Care mocoでは、Medicell（メディセル）で皮膚と筋膜をやさしく吸い上げ、強く揉まずにしっかりアプローチします。\n※痛みやしびれ、腫れが続く場合は、整形外科など医療機関へご相談ください。\n\n成田市の完全予約制プライベートサロンです。\nご予約・ご相談はDMからお気軽にどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
   "cover": {
-    "lead": "祝日ラウンドから2日",
-    "headline": "今ごろ\n【身体が重い】\nと感じたら"
+    "lead": "風の中のラウンド、お疲れさま",
+    "headline": "【風】と戦った日、\n身体も\n踏ん張ってます"
   },
   "slides": [
     {
-      "title": "【遅れてくる疲れ】の\nサインをチェック",
+      "title": "風の日のあとの\n【身体サイン】",
       "numbered": false,
       "items": [
-        "朝起きると、腰や背中が重く感じる",
-        "振り向くと、首や肩まわりが張る",
-        "階段で太ももやふくらはぎが重い",
-        "左右どちらかだけ張りが強い",
-        "寝ても疲れが抜けた気がしない"
+        "アドレスで足裏に力が入りっぱなしだった",
+        "風に負けまいと、腕で振りにいった",
+        "寒さや風で、肩がすくみがちだった",
+        "わき腹やお腹まわりが重だるい",
+        "後半、トップが浅くなった気がする"
       ]
     },
     {
-      "title": "寝る前の【今夜ケア】",
+      "title": "今夜の【体幹リセット】",
       "numbered": true,
       "items": [
-        "ぬるめのお湯で全身をじっくり温める",
-        "体側を左右ゆっくり伸ばし、わき腹をゆるめる",
-        "太もも裏を痛くない範囲で伸ばす",
-        "深呼吸を5回、肩の力をすっと抜く",
-        "水分をとって、いつもより早めに休む"
+        "湯船でしっかり温まり、ゆるめる準備を",
+        "仰向けで膝を立て、ゆっくり左右に倒す",
+        "両手を上に伸ばし、体側を長く伸ばす",
+        "足裏を手やボールでやさしくほぐす",
+        "お腹までふくらむ深い呼吸をゆっくり5回"
       ]
     },
     {
-      "title": "長引くこわばりは\n【筋膜】にも目を向けて",
+      "title": "明日に\n【疲れを残さない】",
       "numbered": false,
       "items": [
-        "疲れがたまると、筋膜はこわばりやすい",
-        "こわばりは次のスイングの捻転にも影響しやすい",
-        "メディセルは揉まずに吸い上げてアプローチ",
-        "強い痛みや腫れが続くときは医療機関へ"
+        "汗で冷えた身体に温かい飲み物で水分補給",
+        "帰りの運転はこまめに休憩をとる",
+        "今日のミスは身体のこわばりも疑ってみる",
+        "痛みやしびれが続くときは医療機関へ",
+        "抜けないこわばりは筋膜からしっかりケア"
       ]
     }
   ],
   "closing": {
-    "lead": "その疲れ、ため込まないで",
-    "headline": "次のラウンドへ\n【DM】で\nご相談ください"
+    "lead": "今日もよく頑張りました",
+    "headline": "こわばりは\n【DM】で\nご相談ください"
   },
-  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a round. Long shadows stretching across the fairway in the low evening sun, sky transitioning from soft sunset glow to deep blue. An 18th green pin flag in the distance, a well-used golf bag resting at the edge, a worn golf glove and slightly muddy golf shoes on the grass, evoking a day of hard effort, tired body, and quiet reflection on today's play. Calm, crisp, clean atmosphere with bluish white to blue-gray tones accented by warm sunset light, appealing to both men and women. Keep the center bright, pale and mostly empty with generous negative space for Japanese headline text; place sky, grass, light and golf equipment motifs toward the corners and left and right edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a windy late-autumn round. Sky transitioning from soft sunset glow to deep blue, with wispy wind-swept clouds. On the far left edge, a well-used navy golf bag with a worn glove resting on it, and muddy golf shoes on the grass, casting long shadows in the warm western light. On the far right edge, the 18th green pin flag fluttering in the wind and a few autumn leaves blowing across. Bluish white and blue-gray palette with touches of warm sunset light, clean, calm and crisp atmosphere, gender-neutral design. The center of the image is bright, pale and mostly empty with generous negative space for overlaying a headline. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
   "palette": "night",
   "images": [
-    "posts/20261105-night-1.jpg",
-    "posts/20261105-night-2.jpg",
-    "posts/20261105-night-3.jpg",
-    "posts/20261105-night-4.jpg",
-    "posts/20261105-night-5.jpg"
+    "posts/20261109-night-1.jpg",
+    "posts/20261109-night-2.jpg",
+    "posts/20261109-night-3.jpg",
+    "posts/20261109-night-4.jpg",
+    "posts/20261109-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18101131031542564",
-  "fb_post_id": "1336197019582610_122117051583501764"
+  "published": false
 }
