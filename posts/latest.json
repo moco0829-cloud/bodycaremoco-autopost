@@ -1,61 +1,59 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "slot": "night",
-  "theme": "強風ラウンド後、踏ん張った体幹ケア",
-  "caption": "風の強い日のラウンド、本当にお疲れさまでした。\n\n晩秋は北風が吹く日も増えてきますね。\n風に負けないよう、アドレスで足裏に力を入れ続け、腕で振りにいき、肩もすくみがち。\n気づかないうちに、身体はずっと踏ん張っていたはずです。\n\n「後半トップが浅くなった」「なんだか芯に当たらなかった」\nそんな日は、風だけでなく、身体のこわばりも影響しているかもしれません。\n\n今夜は、踏ん張った足裏・わき腹・お腹まわりをゆるめて、明日に疲れを残さないケアを。\n身体のサインのチェックと夜の体幹リセットを画像にまとめたので、あわせてご覧ください⛳\n\nケアしても抜けないこわばりは、筋膜が固まっていることも。\nBody Care mocoでは、Medicell（メディセル）で皮膚と筋膜をやさしく吸い上げ、強く揉まずにしっかりアプローチします。\n※痛みやしびれ、腫れが続く場合は、整形外科など医療機関へご相談ください。\n\n成田市の完全予約制プライベートサロンです。\nご予約・ご相談はDMからお気軽にどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
+  "theme": "傾斜ショット後の足首・すねの夜ケア",
+  "caption": "今日のラウンド、つま先上がりや左足下がりに苦戦しませんでしたか？\n\nアップダウンのあるコースでは、傾斜に立つたびに足首とすねが踏ん張り続けています。\n「後半、なぜか当たりが乱れた」「階段を下りるとき脚が重い」\nそれは足元の筋膜がこわばってきたサインかもしれません。\n\n今夜は、がんばった足首とすねをいたわる時間に。\n画像では、傾斜疲れのチェックと、座ったままできるセルフケア、翌日に疲れを残さない工夫をまとめました。\n保存して、ラウンド後の習慣にしてみてくださいね。\n\nなお、腫れや強い痛みがあるときは無理をせず、整形外科などの医療機関へご相談ください。\n\nBody Care mocoでは、メディセルで皮膚と筋膜をやさしく吸い上げ、強く揉まずに足元からしっかり身体を整えていきます。\n土台が軽くなると、次のラウンドの一歩も変わってきます⛳\n\nご予約・ご相談はDMからお気軽にどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
   "cover": {
-    "lead": "風の中のラウンド、お疲れさま",
-    "headline": "【風】と戦った日、\n身体も\n踏ん張ってます"
+    "lead": "アップダウンのラウンド後に",
+    "headline": "傾斜ショットの\n【足首】、\nお疲れですか？"
   },
   "slides": [
     {
-      "title": "風の日のあとの\n【身体サイン】",
+      "title": "【傾斜疲れ】のサイン\nチェック",
       "numbered": false,
       "items": [
-        "アドレスで足裏に力が入りっぱなしだった",
-        "風に負けまいと、腕で振りにいった",
-        "寒さや風で、肩がすくみがちだった",
-        "わき腹やお腹まわりが重だるい",
-        "後半、トップが浅くなった気がする"
+        "すねの前側がだるく張っている",
+        "足首がまわしにくく、硬い感じがする",
+        "土踏まずや足の甲がじんわり重い",
+        "後半、傾斜からの当たりが乱れた",
+        "階段を下りるとき脚が踏ん張りにくい"
       ]
     },
     {
-      "title": "今夜の【体幹リセット】",
+      "title": "夜の【足首・すね】\nセルフケア",
       "numbered": true,
       "items": [
-        "湯船でしっかり温まり、ゆるめる準備を",
-        "仰向けで膝を立て、ゆっくり左右に倒す",
-        "両手を上に伸ばし、体側を長く伸ばす",
-        "足裏を手やボールでやさしくほぐす",
-        "お腹までふくらむ深い呼吸をゆっくり5回"
+        "座って足首をゆっくり左右10回ずつ回す",
+        "足指でグー・パーを数回くり返す",
+        "すねの外側を手のひらでやさしくさする",
+        "かかとを床につけ、つま先を上げ下げする",
+        "痛みが出たら無理せず、そこで止める"
       ]
     },
     {
-      "title": "明日に\n【疲れを残さない】",
+      "title": "翌日に【残さない】\nための工夫",
       "numbered": false,
       "items": [
-        "汗で冷えた身体に温かい飲み物で水分補給",
-        "帰りの運転はこまめに休憩をとる",
-        "今日のミスは身体のこわばりも疑ってみる",
-        "痛みやしびれが続くときは医療機関へ",
-        "抜けないこわばりは筋膜からしっかりケア"
+        "ぬるめのお湯で足首までしっかり温める",
+        "寝る前にコップ1杯の水分補給",
+        "足裏でボールや床をころころ転がす",
+        "腫れや強い痛みは整形外科へ相談を",
+        "こわばりが続くならメディセルで筋膜ケア"
       ]
     }
   ],
   "closing": {
-    "lead": "今日もよく頑張りました",
-    "headline": "こわばりは\n【DM】で\nご相談ください"
+    "lead": "足元から、次の一打へ",
+    "headline": "お気軽に\n【ご相談】\nください"
   },
-  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a windy late-autumn round. Sky transitioning from soft sunset glow to deep blue, with wispy wind-swept clouds. On the far left edge, a well-used navy golf bag with a worn glove resting on it, and muddy golf shoes on the grass, casting long shadows in the warm western light. On the far right edge, the 18th green pin flag fluttering in the wind and a few autumn leaves blowing across. Bluish white and blue-gray palette with touches of warm sunset light, clean, calm and crisp atmosphere, gender-neutral design. The center of the image is bright, pale and mostly empty with generous negative space for overlaying a headline. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "image_prompt": "Realistic watercolor painting of a golf course at dusk after a round, gently rolling undulating fairway slopes catching the warm low western sunlight, long shadows stretching across the grass, sky transitioning from soft sunset glow to deep blue, the 18th green pin flag in the distance on one side, a well-used golf bag and a pair of muddy golf shoes resting on a grassy slope in the lower corner, mood of a hard-fought day and tired body, calm and crisp atmosphere, bluish white and blue-gray palette with warm sunset accents, clean design appealing to both men and women, motifs placed toward the corners and edges, center left bright, pale and mostly empty for overlaying a headline, no people, no faces, no body parts, no text, no letters, no numbers, no logos",
   "palette": "night",
   "images": [
-    "posts/20261109-night-1.jpg",
-    "posts/20261109-night-2.jpg",
-    "posts/20261109-night-3.jpg",
-    "posts/20261109-night-4.jpg",
-    "posts/20261109-night-5.jpg"
+    "posts/20261110-night-1.jpg",
+    "posts/20261110-night-2.jpg",
+    "posts/20261110-night-3.jpg",
+    "posts/20261110-night-4.jpg",
+    "posts/20261110-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18091819217271840",
-  "fb_post_id": "1336197019582610_122118385473501764"
+  "published": false
 }
