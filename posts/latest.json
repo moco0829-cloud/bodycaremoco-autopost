@@ -1,61 +1,56 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "slot": "night",
-  "theme": "傾斜ショット後の足首・すねの夜ケア",
-  "caption": "今日のラウンド、つま先上がりや左足下がりに苦戦しませんでしたか？\n\nアップダウンのあるコースでは、傾斜に立つたびに足首とすねが踏ん張り続けています。\n「後半、なぜか当たりが乱れた」「階段を下りるとき脚が重い」\nそれは足元の筋膜がこわばってきたサインかもしれません。\n\n今夜は、がんばった足首とすねをいたわる時間に。\n画像では、傾斜疲れのチェックと、座ったままできるセルフケア、翌日に疲れを残さない工夫をまとめました。\n保存して、ラウンド後の習慣にしてみてくださいね。\n\nなお、腫れや強い痛みがあるときは無理をせず、整形外科などの医療機関へご相談ください。\n\nBody Care mocoでは、メディセルで皮膚と筋膜をやさしく吸い上げ、強く揉まずに足元からしっかり身体を整えていきます。\n土台が軽くなると、次のラウンドの一歩も変わってきます⛳\n\nご予約・ご相談はDMからお気軽にどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
+  "theme": "捻転で疲れたお尻と股関節の夜ケア",
+  "caption": "ラウンドの帰り道、車から降りるときに「お尻が重いな」と感じませんでしたか？\n\n今日の18ホール、本当にお疲れさまでした⛳\n\nスイングの捻転を下から支えているのは、お尻と股関節まわり。\n前傾姿勢をキープしながら何十回も回転するので、知らないうちに筋膜がこわばっていることがあります。\n\n「後半、腰が回りにくかった」\n「飛距離がいつもより出なかった」\nそんな日は、技術だけでなく、身体の土台が固まっていたのかもしれません。\n\n今夜は、お風呂でしっかり温まってから、お尻と股関節をゆっくり伸ばしてあげてください。\nセルフチェックと夜のケアの手順を、画像にまとめました。あわせてご覧ください。\n\nセルフケアをしても重さが続くときは、筋膜の癒着やこわばりが関係していることも。\nメディセルは揉まずに吸い上げて、深いところまでやさしくアプローチします。\n\nなお、強い痛みやしびれが続く場合は、整形外科などの医療機関にご相談くださいね。\n\n今日のがんばりを、次のラウンドにつなげましょう☀️\nご予約・ご相談はDMへどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
   "cover": {
-    "lead": "アップダウンのラウンド後に",
-    "headline": "傾斜ショットの\n【足首】、\nお疲れですか？"
+    "lead": "18ホールお疲れさまでした",
+    "headline": "立ち上がると\n【お尻】が重い\nラウンドの夜"
   },
   "slides": [
     {
-      "title": "【傾斜疲れ】のサイン\nチェック",
+      "title": "こんなサイン\n【ありませんか？】",
       "numbered": false,
       "items": [
-        "すねの前側がだるく張っている",
-        "足首がまわしにくく、硬い感じがする",
-        "土踏まずや足の甲がじんわり重い",
-        "後半、傾斜からの当たりが乱れた",
-        "階段を下りるとき脚が踏ん張りにくい"
+        "車や椅子から立つとき、お尻が重い",
+        "後半、腰の回転が浅く感じた",
+        "片脚で靴下をはくと股関節が窮屈",
+        "歩き始めに脚の付け根がつっぱる"
       ]
     },
     {
-      "title": "夜の【足首・すね】\nセルフケア",
+      "title": "夜のお尻・股関節\n【リセット】",
       "numbered": true,
       "items": [
-        "座って足首をゆっくり左右10回ずつ回す",
-        "足指でグー・パーを数回くり返す",
-        "すねの外側を手のひらでやさしくさする",
-        "かかとを床につけ、つま先を上げ下げする",
-        "痛みが出たら無理せず、そこで止める"
+        "湯船でしっかり温まり、お尻まわりをゆるめる",
+        "仰向けで片ひざを胸に抱え、ゆっくり呼吸",
+        "足首を反対のひざに乗せ、お尻の奥を伸ばす",
+        "左右それぞれ30秒ほど。痛みが出たら中止"
       ]
     },
     {
-      "title": "翌日に【残さない】\nための工夫",
+      "title": "翌日に残さない\n【ひと工夫】",
       "numbered": false,
       "items": [
-        "ぬるめのお湯で足首までしっかり温める",
-        "寝る前にコップ1杯の水分補給",
-        "足裏でボールや床をころころ転がす",
-        "腫れや強い痛みは整形外科へ相談を",
-        "こわばりが続くならメディセルで筋膜ケア"
+        "帰宅後すぐ座り込まず、少し歩いて動かす",
+        "寝る前にコップ1杯の水分をとる",
+        "長引くこわばりは筋膜からしっかりケア",
+        "強い痛みやしびれが続くときは医療機関へ"
       ]
     }
   ],
   "closing": {
-    "lead": "足元から、次の一打へ",
-    "headline": "お気軽に\n【ご相談】\nください"
+    "lead": "今日のがんばりを次へ",
+    "headline": "動ける身体へ\n【DM】で\nご相談ください"
   },
-  "image_prompt": "Realistic watercolor painting of a golf course at dusk after a round, gently rolling undulating fairway slopes catching the warm low western sunlight, long shadows stretching across the grass, sky transitioning from soft sunset glow to deep blue, the 18th green pin flag in the distance on one side, a well-used golf bag and a pair of muddy golf shoes resting on a grassy slope in the lower corner, mood of a hard-fought day and tired body, calm and crisp atmosphere, bluish white and blue-gray palette with warm sunset accents, clean design appealing to both men and women, motifs placed toward the corners and edges, center left bright, pale and mostly empty for overlaying a headline, no people, no faces, no body parts, no text, no letters, no numbers, no logos",
+  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a finished round. The sky transitions from soft sunset orange near the horizon to deep calm blue above. Long shadows stretch across the fairway in the warm evening sunlight. In the lower left corner, a well-used navy golf bag leaning on a stand with a worn glove draped over it and dusty golf shoes beside it; in the far right edge, the 18th green with a pin flag silhouetted against the sunset and a few trees. The center of the image is bright, airy and mostly empty, painted in pale bluish white and light blue-gray tones, leaving generous space for a Japanese headline to be overlaid later. Calm, crisp, clean and refined mood conveying a day of hard effort, tired body and reflection on today's play. Gender-neutral design, not spa-like. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
   "palette": "night",
   "images": [
-    "posts/20261110-night-1.jpg",
-    "posts/20261110-night-2.jpg",
-    "posts/20261110-night-3.jpg",
-    "posts/20261110-night-4.jpg",
-    "posts/20261110-night-5.jpg"
+    "posts/20261111-night-1.jpg",
+    "posts/20261111-night-2.jpg",
+    "posts/20261111-night-3.jpg",
+    "posts/20261111-night-4.jpg",
+    "posts/20261111-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18078655058742754",
-  "fb_post_id": "1336197019582610_122118716661501764"
+  "published": false
 }
