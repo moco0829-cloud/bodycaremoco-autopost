@@ -1,60 +1,57 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "slot": "night",
-  "theme": "飛距離が落ちた夜、脇と胸の回旋ケア",
-  "caption": "「最近、飛距離が落ちた気がする…」\n日曜のラウンド、そんなモヤモヤを抱えて帰ってきた方はいませんか？⛳\n\nクラブやスイングを見直す前に、ぜひ振り返ってほしいのが身体のこわばりです。\n\nスイングの捻転は、胸・背中・脇・お尻がつながって生まれる動き。全身を包む筋膜のどこかが固まると、回旋全体が小さくなり、思うように振り切れないことがあります。冷え込むこれからの季節は、なおさらです。\n\n今夜はお風呂上がりに、胸を開く「回旋リセット」を。やり方は画像にまとめたので、あわせてご覧ください。保存しておくと、ラウンドの夜に見返せて便利です。\n\nそれでも重さが抜けないときは、メディセルで筋膜にしっかりアプローチ。強く揉まずに吸い上げてほぐすので、揉み返しが苦手な方にもおすすめです。施術後に「腕が振りやすい」と感じる方も多いですよ。\n\n※強い痛みやしびれが続く場合は、整形外科などの医療機関にご相談ください。\n\n身体が軽くなると、ゴルフも人生も動き出す☀️\nご予約・ご相談はDMへどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
+  "theme": "月曜夜、前腕と手の使いすぎケア",
+  "caption": "今日1日、あなたの腕はどれだけ働いてくれたでしょうか。\n\n月曜日、おつかれさまでした☀️\nパソコンやスマホの操作、家事や育児、介護での抱える・支える動作、重い荷物を運ぶお仕事。\n私たちは毎日、思っている以上に前腕と手を使い続けています。\n\n指や手首を動かす筋肉の多くは前腕にあり、筋膜を通して肩・首・背中へとつながっています。\n「肩や首がずっと重い」という方も、実は腕のこわばりが関わっていることがあるんです。\n\nゴルフをされる方は、グリップの握りすぎにもご注意を⛳\n腕が固まったままだと、スイングの力みにつながることもあります。\n\n画像に、寝る前にできるやさしい腕のケアをまとめました。ぜひ保存して、今夜から試してみてくださいね。\nしびれや強い痛みが続くときは、整形外科などの医療機関へご相談ください。\n\nBody Care mocoでは、メディセルで皮膚と筋膜をやさしく吸い上げ、腕から肩・背中までのつながりにしっかりアプローチします。強く揉まないので、揉み返しが苦手な方も安心です。\n\nがんばった腕、そろそろしっかりケアしませんか。\nご予約・ご相談はDMへどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #肩こり",
   "cover": {
-    "lead": "今日のラウンド、どうでした？",
-    "headline": "【飛距離】が\n落ちたのは\nこわばりかも"
+    "lead": "月曜、おつかれさまでした",
+    "headline": "その腕、\n【使いすぎ】て\nいませんか？"
   },
   "slides": [
     {
-      "title": "飛距離が落ちたら\n【身体】のサインかも",
+      "title": "こんな日は\n【前腕】が張りやすい",
       "numbered": false,
       "items": [
-        "テークバックが浅くなった気がする",
-        "フィニッシュまで振り切れない",
-        "脇や背中がつっぱる感じがある",
-        "年々、肩が回りにくくなってきた",
-        "寒い日ほど飛ばないと感じる"
+        "パソコンやスマホの操作が長かった",
+        "家事や育児、介護で抱える・支える動作が多い",
+        "重い荷物や道具を持つ立ち仕事",
+        "練習やラウンドでグリップを強く握った"
       ]
     },
     {
-      "title": "回旋を支える\n【筋膜】のつながり",
+      "title": "腕のこわばりは\n【肩・首】ともつながる",
       "numbered": false,
       "items": [
-        "捻転は胸・背中・脇・お尻の連動で生まれる",
-        "筋膜は全身を包み、ひとつながりになっている",
-        "一部がこわばると、回旋全体が小さくなりやすい",
-        "冷えや同じ姿勢の積み重ねも、こわばりの一因に"
+        "指や手首を動かす筋肉の多くは前腕にある",
+        "筋膜は腕から肩・首・背中へとつながっている",
+        "前腕が固まると、肩や首のはりにつながることも",
+        "ゴルフでは握りすぎがスイングの力みのもとに"
       ]
     },
     {
-      "title": "今夜できる\n【回旋リセット】",
+      "title": "寝る前にできる\n【やさしい】腕ケア",
       "numbered": true,
       "items": [
-        "お風呂上がり、身体が温かいうちに行う",
-        "横向きに寝て膝を曲げ、両腕を前でそろえる",
-        "上の腕を天井から後ろへ、胸を開くように動かす",
-        "呼吸を止めず、左右5回ずつゆっくりと",
-        "痛みやしびれが出たら無理をせず中止する"
+        "手のひらを前に向け、反対の手で指をそっと反らす",
+        "手の甲側も同じように、ゆっくり呼吸して20秒",
+        "肘から手首へ、手のひらでやさしくさする",
+        "湯船で手をグーパーし、力を抜く感覚を思い出す",
+        "しびれや強い痛みが続くときは医療機関へ"
       ]
     }
   ],
   "closing": {
-    "lead": "その飛距離、あきらめないで",
-    "headline": "身体を整えて\nまた【飛ばそう】\nご相談はDMへ"
+    "lead": "その腕のはり、あきらめないで",
+    "headline": "がんばった腕を\n【しっかりケア】\nしませんか"
   },
-  "image_prompt": "Realistic watercolor painting of a golf course at dusk after a finished round. The sky transitions from soft sunset orange near the horizon to deep calm blue above. Long shadows stretch across the fairway in the warm low western sunlight. A well-used golf bag with a driver headcover leans in the lower left corner, a worn golf glove resting on it; in the lower right corner, the 18th green with a pin flag gently lit by the setting sun, and slightly muddy golf shoes on the grass. Mood: quiet reflection on the day's effort and tired body, calm and crisp, clean design pleasing to both men and women. Color palette of bluish white, blue-gray and navy with accents of warm sunset light. Keep the center of the image bright, pale and largely empty for overlaying a Japanese headline later; place sky, trees, grass and light motifs toward the corners and left and right edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a round. A well-worn leather golf glove resting on top of a used golf bag in the lower left corner, long shadows stretching across the fairway from the setting sun, the 18th green pin flag silhouetted at the far right edge, sky transitioning from soft warm sunset glow near the horizon to deep calm blue above. Calm, composed, refined mood reflecting a day of hard effort and tired arms, quietly looking back on today's play. Palette of bluish white, blue-grey, navy and sky blue with gentle accents of warm evening sunlight. Clean, crisp design appealing to both men and women, not spa-like. Keep the center of the image bright, pale and mostly empty with generous negative space for overlaid headline text; place grass, trees, light and golf gear motifs toward the corners and side edges. No people, no faces, no body parts, no hands. No text, no letters, no numbers, no logos.",
   "palette": "night",
   "images": [
-    "posts/20261115-night-1.jpg",
-    "posts/20261115-night-2.jpg",
-    "posts/20261115-night-3.jpg",
-    "posts/20261115-night-4.jpg",
-    "posts/20261115-night-5.jpg"
+    "posts/20261116-night-1.jpg",
+    "posts/20261116-night-2.jpg",
+    "posts/20261116-night-3.jpg",
+    "posts/20261116-night-4.jpg",
+    "posts/20261116-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18077166491584537",
-  "fb_post_id": "1336197019582610_122120219247501764"
+  "published": false
 }
