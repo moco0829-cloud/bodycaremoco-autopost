@@ -1,59 +1,57 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "slot": "night",
-  "theme": "月曜夜、前腕と手の使いすぎケア",
-  "caption": "今日1日、あなたの腕はどれだけ働いてくれたでしょうか。\n\n月曜日、おつかれさまでした☀️\nパソコンやスマホの操作、家事や育児、介護での抱える・支える動作、重い荷物を運ぶお仕事。\n私たちは毎日、思っている以上に前腕と手を使い続けています。\n\n指や手首を動かす筋肉の多くは前腕にあり、筋膜を通して肩・首・背中へとつながっています。\n「肩や首がずっと重い」という方も、実は腕のこわばりが関わっていることがあるんです。\n\nゴルフをされる方は、グリップの握りすぎにもご注意を⛳\n腕が固まったままだと、スイングの力みにつながることもあります。\n\n画像に、寝る前にできるやさしい腕のケアをまとめました。ぜひ保存して、今夜から試してみてくださいね。\nしびれや強い痛みが続くときは、整形外科などの医療機関へご相談ください。\n\nBody Care mocoでは、メディセルで皮膚と筋膜をやさしく吸い上げ、腕から肩・背中までのつながりにしっかりアプローチします。強く揉まないので、揉み返しが苦手な方も安心です。\n\nがんばった腕、そろそろしっかりケアしませんか。\nご予約・ご相談はDMへどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #肩こり",
+  "theme": "昔のけがと今のこわばり、筋膜の視点",
+  "caption": "「昔のけがだから、もう仕方ない」と思っていませんか？\n\n若いころに捻った足首、ずっと前に痛めた腰。\nけがそのものは落ち着いても、かばう動きがクセとして残り、周りの筋膜がこわばったままになっていることがあります。\n\n筋膜は全身でつながっているので、痛む場所と、こわばりの元が離れていることも少なくありません。\nゴルフでフィニッシュが片側だけ窮屈、スイングの左右差がなかなか取れない…という方も、身体の「昔のクセ」を振り返ってみるとヒントがあるかもしれません⛳\n\n今夜は、古傷と筋膜の関係、ご自身で振り返るチェック、夜にできるやさしいケアを画像にまとめました。あわせてご覧ください。\n\n母の痛みに20年以上寄り添ってきたからこそ、長年の痛みを「ずっとこうだから」で終わらせてほしくないと思っています。\nメディセルは強く揉まず、皮膚と筋膜をやさしく吸い上げてアプローチするので、揉み返しが苦手な方にも。\n\n※強い痛みやしびれ、腫れが続く場合は、まず整形外科などの医療機関へご相談ください。\n\nご予約・ご相談はDMからお気軽にどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
   "cover": {
-    "lead": "月曜、おつかれさまでした",
-    "headline": "その腕、\n【使いすぎ】て\nいませんか？"
+    "lead": "今夜、少し振り返ってみませんか",
+    "headline": "【古傷】のあとに\n残るこわばり\nありませんか？"
   },
   "slides": [
     {
-      "title": "こんな日は\n【前腕】が張りやすい",
+      "title": "古傷と【筋膜】の\n意外な関係",
       "numbered": false,
       "items": [
-        "パソコンやスマホの操作が長かった",
-        "家事や育児、介護で抱える・支える動作が多い",
-        "重い荷物や道具を持つ立ち仕事",
-        "練習やラウンドでグリップを強く握った"
+        "けがの後、かばう動きがクセとして残ることがある",
+        "かばう姿勢が続くと、周りの筋膜もこわばりやすい",
+        "筋膜は全身でつながり、離れた場所にも影響が広がる",
+        "痛む場所と、こわばりの元が違うことも"
       ]
     },
     {
-      "title": "腕のこわばりは\n【肩・首】ともつながる",
+      "title": "身体の【昔のクセ】\n振り返りチェック",
       "numbered": false,
       "items": [
-        "指や手首を動かす筋肉の多くは前腕にある",
-        "筋膜は腕から肩・首・背中へとつながっている",
-        "前腕が固まると、肩や首のはりにつながることも",
-        "ゴルフでは握りすぎがスイングの力みのもとに"
+        "昔、捻った足首や痛めた腰がある",
+        "立つとき、いつも同じ脚に体重をかけている",
+        "寒い日や天気の変わり目に古傷が気になる",
+        "スイングのフィニッシュが片側だけ窮屈",
+        "靴底のすり減り方に左右差がある"
       ]
     },
     {
-      "title": "寝る前にできる\n【やさしい】腕ケア",
+      "title": "1日の終わりの\n【やさしい夜ケア】",
       "numbered": true,
       "items": [
-        "手のひらを前に向け、反対の手で指をそっと反らす",
-        "手の甲側も同じように、ゆっくり呼吸して20秒",
-        "肘から手首へ、手のひらでやさしくさする",
-        "湯船で手をグーパーし、力を抜く感覚を思い出す",
-        "しびれや強い痛みが続くときは医療機関へ"
+        "湯船でしっかり温め、こわばりをゆるめる",
+        "古傷の周りを手のひらでやさしくさする（強く押さない）",
+        "反対側も同じように動かし、左右差を感じてみる",
+        "強い痛み・しびれ・腫れは医療機関へ相談を"
       ]
     }
   ],
   "closing": {
-    "lead": "その腕のはり、あきらめないで",
-    "headline": "がんばった腕を\n【しっかりケア】\nしませんか"
+    "lead": "長年の痛み、あきらめないで",
+    "headline": "お気軽に\n【ご相談】\nください"
   },
-  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a round. A well-worn leather golf glove resting on top of a used golf bag in the lower left corner, long shadows stretching across the fairway from the setting sun, the 18th green pin flag silhouetted at the far right edge, sky transitioning from soft warm sunset glow near the horizon to deep calm blue above. Calm, composed, refined mood reflecting a day of hard effort and tired arms, quietly looking back on today's play. Palette of bluish white, blue-grey, navy and sky blue with gentle accents of warm evening sunlight. Clean, crisp design appealing to both men and women, not spa-like. Keep the center of the image bright, pale and mostly empty with generous negative space for overlaid headline text; place grass, trees, light and golf gear motifs toward the corners and side edges. No people, no faces, no body parts, no hands. No text, no letters, no numbers, no logos.",
+  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a round. Warm low sunset light casting long shadows across the fairway, sky transitioning from soft orange near the horizon to deep calm blue. On the lower left edge, a well-used golf bag with a worn leather glove resting on it and slightly muddy golf shoes on the grass; on the right edge, the 18th green with a pin flag gently lit by the setting sun and a few blades of grass and leaves in the corner. Quiet, reflective, composed mood, conveying a full day's effort and tired body. Color palette of bluish white, blue-gray and navy with touches of warm sunset glow, clean and refined design appealing to both men and women. The center of the image is bright, pale and mostly empty with generous negative space for overlaying a headline later; motifs placed only at the corners and side edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
   "palette": "night",
   "images": [
-    "posts/20261116-night-1.jpg",
-    "posts/20261116-night-2.jpg",
-    "posts/20261116-night-3.jpg",
-    "posts/20261116-night-4.jpg",
-    "posts/20261116-night-5.jpg"
+    "posts/20261117-night-1.jpg",
+    "posts/20261117-night-2.jpg",
+    "posts/20261117-night-3.jpg",
+    "posts/20261117-night-4.jpg",
+    "posts/20261117-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18107665205575065",
-  "fb_post_id": "1336197019582610_122120481579501764"
+  "published": false
 }
