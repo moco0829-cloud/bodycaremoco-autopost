@@ -1,59 +1,56 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "slot": "night",
-  "theme": "昔のけがと今のこわばり、筋膜の視点",
-  "caption": "「昔のけがだから、もう仕方ない」と思っていませんか？\n\n若いころに捻った足首、ずっと前に痛めた腰。\nけがそのものは落ち着いても、かばう動きがクセとして残り、周りの筋膜がこわばったままになっていることがあります。\n\n筋膜は全身でつながっているので、痛む場所と、こわばりの元が離れていることも少なくありません。\nゴルフでフィニッシュが片側だけ窮屈、スイングの左右差がなかなか取れない…という方も、身体の「昔のクセ」を振り返ってみるとヒントがあるかもしれません⛳\n\n今夜は、古傷と筋膜の関係、ご自身で振り返るチェック、夜にできるやさしいケアを画像にまとめました。あわせてご覧ください。\n\n母の痛みに20年以上寄り添ってきたからこそ、長年の痛みを「ずっとこうだから」で終わらせてほしくないと思っています。\nメディセルは強く揉まず、皮膚と筋膜をやさしく吸い上げてアプローチするので、揉み返しが苦手な方にも。\n\n※強い痛みやしびれ、腫れが続く場合は、まず整形外科などの医療機関へご相談ください。\n\nご予約・ご相談はDMからお気軽にどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
+  "theme": "ラウンド後の膝の重さと太もも前の夜ケア",
+  "caption": "18ホールを歩き終えた夜、膝がなんだか重い…そんな感覚はありませんか？\n\n今日のラウンド、本当にお疲れさまでした⛳\n\n下り坂やバンカーで踏ん張り続けたり、アドレスで膝を曲げた姿勢を何度もくり返したり。ゴルフは思っている以上に、膝まわりに負担がかかるスポーツです。\n\n膝の重だるさは、膝そのものだけでなく、太もも前やふくらはぎのこわばりが関係していることも。まわりの筋膜が固まると、膝を引っぱるように動きが硬くなりやすいんです。\n\n今夜できるケアと、無理をしないためのポイントを画像にまとめました。あわせてご覧ください。\n\nただし、腫れや熱、強い痛みが続くときは、まず整形外科などの医療機関にご相談くださいね。\n\nBody Care mocoでは、メディセルで太もも・ふくらはぎ・膝まわりの筋膜にしっかりアプローチして、動ける身体に整えていきます。揉まないケアなので、揉み返しが苦手な方も安心です。\n\n「歳だから」とあきらめず、長くゴルフを楽しめる膝を一緒に目指しましょう☀️\nご予約・ご相談はDMからお気軽にどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
   "cover": {
-    "lead": "今夜、少し振り返ってみませんか",
-    "headline": "【古傷】のあとに\n残るこわばり\nありませんか？"
+    "lead": "ラウンドお疲れさまでした",
+    "headline": "その【膝の重さ】、\nそのままに\nしていませんか？"
   },
   "slides": [
     {
-      "title": "古傷と【筋膜】の\n意外な関係",
+      "title": "膝が重いのは\n【まわりのこわばり】かも",
       "numbered": false,
       "items": [
-        "けがの後、かばう動きがクセとして残ることがある",
-        "かばう姿勢が続くと、周りの筋膜もこわばりやすい",
-        "筋膜は全身でつながり、離れた場所にも影響が広がる",
-        "痛む場所と、こわばりの元が違うことも"
+        "下り坂やバンカーで踏ん張り続けた",
+        "アドレスの膝の曲げで太もも前が張りっぱなし",
+        "ふくらはぎ・すねの筋膜が膝まわりを引っぱる",
+        "秋の冷えで膝まわりの動きが硬くなりやすい"
       ]
     },
     {
-      "title": "身体の【昔のクセ】\n振り返りチェック",
-      "numbered": false,
-      "items": [
-        "昔、捻った足首や痛めた腰がある",
-        "立つとき、いつも同じ脚に体重をかけている",
-        "寒い日や天気の変わり目に古傷が気になる",
-        "スイングのフィニッシュが片側だけ窮屈",
-        "靴底のすり減り方に左右差がある"
-      ]
-    },
-    {
-      "title": "1日の終わりの\n【やさしい夜ケア】",
+      "title": "今夜の【膝まわりケア】",
       "numbered": true,
       "items": [
-        "湯船でしっかり温め、こわばりをゆるめる",
-        "古傷の周りを手のひらでやさしくさする（強く押さない）",
-        "反対側も同じように動かし、左右差を感じてみる",
-        "強い痛み・しびれ・腫れは医療機関へ相談を"
+        "湯船で膝から下をしっかり温める",
+        "横向きに寝て、太もも前をやさしく伸ばす",
+        "足首をゆっくり回して、ふくらはぎをゆるめる",
+        "膝下にタオルを入れて、脚を休ませて眠る"
+      ]
+    },
+    {
+      "title": "こんなときは\n【無理をしない】",
+      "numbered": false,
+      "items": [
+        "腫れや熱、強い痛みがある日は伸ばさない",
+        "痛みが続くときは整形外科へ相談を",
+        "深くしゃがむ動きは今夜は控えめに",
+        "違和感は次のラウンド前に整えておく"
       ]
     }
   ],
   "closing": {
-    "lead": "長年の痛み、あきらめないで",
-    "headline": "お気軽に\n【ご相談】\nください"
+    "lead": "膝の痛み、あきらめないで",
+    "headline": "まずは\n【DMで】\nご相談ください"
   },
-  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a round. Warm low sunset light casting long shadows across the fairway, sky transitioning from soft orange near the horizon to deep calm blue. On the lower left edge, a well-used golf bag with a worn leather glove resting on it and slightly muddy golf shoes on the grass; on the right edge, the 18th green with a pin flag gently lit by the setting sun and a few blades of grass and leaves in the corner. Quiet, reflective, composed mood, conveying a full day's effort and tired body. Color palette of bluish white, blue-gray and navy with touches of warm sunset glow, clean and refined design appealing to both men and women. The center of the image is bright, pale and mostly empty with generous negative space for overlaying a headline later; motifs placed only at the corners and side edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a round. Warm low evening sunlight casting long shadows across the fairway, sky fading from soft sunset orange to deep blue. An 18th green with a pin flag in the distance on the right edge, a well-used golf bag and worn golf shoes with a little grass on them resting near the lower left corner, gentle slope of the fairway suggesting a downhill walk. Calm, focused, reflective mood of a hard-fought day and tired body. Color palette of bluish white, blue-gray and navy with accents of warm sunset light, clean and crisp design appealing to both men and women. Keep the center bright, pale and mostly empty with plenty of negative space for Japanese headline text; place sky, plants and light motifs toward the corners and left and right edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
   "palette": "night",
   "images": [
-    "posts/20261117-night-1.jpg",
-    "posts/20261117-night-2.jpg",
-    "posts/20261117-night-3.jpg",
-    "posts/20261117-night-4.jpg",
-    "posts/20261117-night-5.jpg"
+    "posts/20261118-night-1.jpg",
+    "posts/20261118-night-2.jpg",
+    "posts/20261118-night-3.jpg",
+    "posts/20261118-night-4.jpg",
+    "posts/20261118-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "17919296883539841",
-  "fb_post_id": "1336197019582610_122120761569501764"
+  "published": false
 }
