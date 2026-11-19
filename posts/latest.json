@@ -1,58 +1,58 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "slot": "night",
-  "theme": "ラウンド後の膝の重さと太もも前の夜ケア",
-  "caption": "18ホールを歩き終えた夜、膝がなんだか重い…そんな感覚はありませんか？\n\n今日のラウンド、本当にお疲れさまでした⛳\n\n下り坂やバンカーで踏ん張り続けたり、アドレスで膝を曲げた姿勢を何度もくり返したり。ゴルフは思っている以上に、膝まわりに負担がかかるスポーツです。\n\n膝の重だるさは、膝そのものだけでなく、太もも前やふくらはぎのこわばりが関係していることも。まわりの筋膜が固まると、膝を引っぱるように動きが硬くなりやすいんです。\n\n今夜できるケアと、無理をしないためのポイントを画像にまとめました。あわせてご覧ください。\n\nただし、腫れや熱、強い痛みが続くときは、まず整形外科などの医療機関にご相談くださいね。\n\nBody Care mocoでは、メディセルで太もも・ふくらはぎ・膝まわりの筋膜にしっかりアプローチして、動ける身体に整えていきます。揉まないケアなので、揉み返しが苦手な方も安心です。\n\n「歳だから」とあきらめず、長くゴルフを楽しめる膝を一緒に目指しましょう☀️\nご予約・ご相談はDMからお気軽にどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
+  "theme": "夕方に重くなる腰と1日の振り返り",
+  "caption": "夕方になると、腰が重く感じませんか？\n\n今日も1日、おつかれさまでした☀️\nデスクワークや立ち仕事、家事や介護。朝は平気だったのに、夜になると腰がずっしり重い。そんな声をよくお聞きします。\n\n実は、腰の重さは腰だけが原因とは限りません。\n長く座っているとお尻や太もも裏、股関節の前側がこわばり、筋膜のつながりを通して骨盤や腰を引っぱることがあります。\n「年齢のせいかな」「ずっとこうだから」とあきらめる前に、まずは今日の身体を振り返ってみてください。\n\nゴルフをされる方は、後半に前傾がつらくなるのも同じサインかもしれません⛳\n\n夜にできるやさしいセルフケアを画像にまとめました。あわせてご覧ください。\n強い痛みやしびれが続くときは、無理をせず整形外科など医療機関へご相談くださいね。\n\nBody Care mocoでは、メディセルで皮膚と筋膜をやさしく吸い上げ、揉まずにこわばりへしっかりアプローチします。\n\nご予約・ご相談はDMからお気軽にどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #腰痛",
   "cover": {
-    "lead": "ラウンドお疲れさまでした",
-    "headline": "その【膝の重さ】、\nそのままに\nしていませんか？"
+    "lead": "今日もおつかれさまでした",
+    "headline": "夕方になると\n【腰が重い】\nのはなぜ？"
   },
   "slides": [
     {
-      "title": "膝が重いのは\n【まわりのこわばり】かも",
+      "title": "こんな【腰のサイン】\nありませんか？",
       "numbered": false,
       "items": [
-        "下り坂やバンカーで踏ん張り続けた",
-        "アドレスの膝の曲げで太もも前が張りっぱなし",
-        "ふくらはぎ・すねの筋膜が膝まわりを引っぱる",
-        "秋の冷えで膝まわりの動きが硬くなりやすい"
+        "立ち上がるとき、つい腰に手を当てる",
+        "長く座ったあと、腰がすっと伸びにくい",
+        "朝より夜のほうが腰のはりを強く感じる",
+        "お尻や太もも裏まで重だるい",
+        "ゴルフの後半、前傾姿勢がつらくなる"
       ]
     },
     {
-      "title": "今夜の【膝まわりケア】",
+      "title": "腰の重さは\n【腰だけ】が原因とは限らない",
+      "numbered": false,
+      "items": [
+        "お尻や太もも裏のこわばりが骨盤を引っぱる",
+        "座りっぱなしで股関節の前側が縮みやすい",
+        "背中から腰へ、筋膜は広くつながっている",
+        "呼吸が浅いとおなかまわりも固まりやすい"
+      ]
+    },
+    {
+      "title": "寝る前の\n【やさしい腰ケア】",
       "numbered": true,
       "items": [
-        "湯船で膝から下をしっかり温める",
-        "横向きに寝て、太もも前をやさしく伸ばす",
-        "足首をゆっくり回して、ふくらはぎをゆるめる",
-        "膝下にタオルを入れて、脚を休ませて眠る"
-      ]
-    },
-    {
-      "title": "こんなときは\n【無理をしない】",
-      "numbered": false,
-      "items": [
-        "腫れや熱、強い痛みがある日は伸ばさない",
-        "痛みが続くときは整形外科へ相談を",
-        "深くしゃがむ動きは今夜は控えめに",
-        "違和感は次のラウンド前に整えておく"
+        "湯船で腰とお尻をしっかり温める",
+        "仰向けで両膝を抱え、ゆっくり5呼吸",
+        "膝をそろえて左右にゆらし、腰まわりをほぐす",
+        "強く押したり揉んだりせず、心地よい範囲で",
+        "強い痛みやしびれが続くときは医療機関へ"
       ]
     }
   ],
   "closing": {
-    "lead": "膝の痛み、あきらめないで",
-    "headline": "まずは\n【DMで】\nご相談ください"
+    "lead": "その腰の重さ、あきらめないで",
+    "headline": "お気軽に\n【DM】で\nご相談ください"
   },
-  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a round. Warm low evening sunlight casting long shadows across the fairway, sky fading from soft sunset orange to deep blue. An 18th green with a pin flag in the distance on the right edge, a well-used golf bag and worn golf shoes with a little grass on them resting near the lower left corner, gentle slope of the fairway suggesting a downhill walk. Calm, focused, reflective mood of a hard-fought day and tired body. Color palette of bluish white, blue-gray and navy with accents of warm sunset light, clean and crisp design appealing to both men and women. Keep the center bright, pale and mostly empty with plenty of negative space for Japanese headline text; place sky, plants and light motifs toward the corners and left and right edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a long day. Warm evening sunlight casting long shadows across the fairway, sky fading from soft sunset orange to deep blue. A well-used golf bag leaning against a wooden bench at the edge of the frame, a worn golf glove resting on the bench, the 18th green pin flag small in the far distance. Calm, composed, refined mood reflecting a hard-working day and a tired body. Color palette of bluish white, blue-gray and navy with gentle warm sunset accents, clean and gender-neutral design. Keep the center of the image bright, pale and mostly empty with generous negative space for overlaid text; place sky, trees, grass and objects toward the corners and left and right edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
   "palette": "night",
   "images": [
-    "posts/20261118-night-1.jpg",
-    "posts/20261118-night-2.jpg",
-    "posts/20261118-night-3.jpg",
-    "posts/20261118-night-4.jpg",
-    "posts/20261118-night-5.jpg"
+    "posts/20261119-night-1.jpg",
+    "posts/20261119-night-2.jpg",
+    "posts/20261119-night-3.jpg",
+    "posts/20261119-night-4.jpg",
+    "posts/20261119-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18104623271065041",
-  "fb_post_id": "1336197019582610_122121155433501764"
+  "published": false
 }
