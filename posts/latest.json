@@ -1,60 +1,59 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "slot": "night",
-  "theme": "夕方に重くなる腰と1日の振り返り",
-  "caption": "夕方になると、腰が重く感じませんか？\n\n今日も1日、おつかれさまでした☀️\nデスクワークや立ち仕事、家事や介護。朝は平気だったのに、夜になると腰がずっしり重い。そんな声をよくお聞きします。\n\n実は、腰の重さは腰だけが原因とは限りません。\n長く座っているとお尻や太もも裏、股関節の前側がこわばり、筋膜のつながりを通して骨盤や腰を引っぱることがあります。\n「年齢のせいかな」「ずっとこうだから」とあきらめる前に、まずは今日の身体を振り返ってみてください。\n\nゴルフをされる方は、後半に前傾がつらくなるのも同じサインかもしれません⛳\n\n夜にできるやさしいセルフケアを画像にまとめました。あわせてご覧ください。\n強い痛みやしびれが続くときは、無理をせず整形外科など医療機関へご相談くださいね。\n\nBody Care mocoでは、メディセルで皮膚と筋膜をやさしく吸い上げ、揉まずにこわばりへしっかりアプローチします。\n\nご予約・ご相談はDMからお気軽にどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #腰痛",
+  "theme": "西日とグリーン読みで疲れた目と頭",
+  "caption": "金曜の夜、目の奥がずーんと重くありませんか？\n\n1週間のパソコン仕事に、週末前の練習やラウンド。\nゴルフでは、ボールの行方を追い、芝目を読み、晩秋のまぶしい西日の中で集中し続けます。\nその集中の積み重ねが、目や頭の重さとして残っていることがあります☀️\n\n実は、頭・首・肩の筋膜はひと続き。\n集中して首や肩が固まると、頭まで重く感じやすくなります。\n「パットのラインが読みづらかった」という日も、身体のこわばりが関係しているかもしれません。\n\n今夜は蒸しタオルで目元を温めて、首をゆっくり回し、早めに灯りを落としてみてください。\nチェックリストと今夜のケアを画像にまとめたので、あわせてご覧ください。\n\nBody Care mocoでは、メディセルで揉まずに吸い上げ、首や肩のこわばりにしっかりアプローチします。\n「頭まで軽く感じた」とおっしゃる方も多いんです。\n※強い頭痛やめまいが続くときは、医療機関へご相談くださいね。\n\n1週間、本当におつかれさまでした。\nご予約・ご相談はDMからお気軽にどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
   "cover": {
-    "lead": "今日もおつかれさまでした",
-    "headline": "夕方になると\n【腰が重い】\nのはなぜ？"
+    "lead": "金曜夜、目を閉じてみて",
+    "headline": "目の奥が\n【重い】のは\nがんばった証"
   },
   "slides": [
     {
-      "title": "こんな【腰のサイン】\nありませんか？",
+      "title": "目と頭が疲れる\n【こわばりのサイン】",
       "numbered": false,
       "items": [
-        "立ち上がるとき、つい腰に手を当てる",
-        "長く座ったあと、腰がすっと伸びにくい",
-        "朝より夜のほうが腰のはりを強く感じる",
-        "お尻や太もも裏まで重だるい",
-        "ゴルフの後半、前傾姿勢がつらくなる"
+        "夕方になると目の奥が重く感じる",
+        "こめかみや額がこわばっている",
+        "首の後ろ、頭のつけ根が固い",
+        "肩がすくみ、呼吸が浅くなっている",
+        "パットのラインが読みづらく感じた"
       ]
     },
     {
-      "title": "腰の重さは\n【腰だけ】が原因とは限らない",
-      "numbered": false,
-      "items": [
-        "お尻や太もも裏のこわばりが骨盤を引っぱる",
-        "座りっぱなしで股関節の前側が縮みやすい",
-        "背中から腰へ、筋膜は広くつながっている",
-        "呼吸が浅いとおなかまわりも固まりやすい"
-      ]
-    },
-    {
-      "title": "寝る前の\n【やさしい腰ケア】",
+      "title": "今夜できる\n【目と頭のリセット】",
       "numbered": true,
       "items": [
-        "湯船で腰とお尻をしっかり温める",
-        "仰向けで両膝を抱え、ゆっくり5呼吸",
-        "膝をそろえて左右にゆらし、腰まわりをほぐす",
-        "強く押したり揉んだりせず、心地よい範囲で",
-        "強い痛みやしびれが続くときは医療機関へ"
+        "蒸しタオルで目元をじんわり温める",
+        "こめかみを指の腹でやさしく円を描く",
+        "頭のつけ根を温め、首をゆっくり回す",
+        "画面から離れ、遠くを眺めて深呼吸",
+        "早めに灯りを落とし、眠りの準備を"
+      ]
+    },
+    {
+      "title": "目と頭の疲れと\n【筋膜】のつながり",
+      "numbered": false,
+      "items": [
+        "頭・首・肩の筋膜はひと続きでつながっている",
+        "集中すると首肩が固まり、頭も重く感じやすい",
+        "メディセルは揉まずに吸い上げ、こわばりにアプローチ",
+        "首肩が軽くなると、頭もすっきり感じる方も多い",
+        "強い頭痛やめまいが続く時は医療機関へ相談を"
       ]
     }
   ],
   "closing": {
-    "lead": "その腰の重さ、あきらめないで",
-    "headline": "お気軽に\n【DM】で\nご相談ください"
+    "lead": "1週間おつかれさまでした",
+    "headline": "重さを感じたら\n【お気軽に】\nご相談を"
   },
-  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a long day. Warm evening sunlight casting long shadows across the fairway, sky fading from soft sunset orange to deep blue. A well-used golf bag leaning against a wooden bench at the edge of the frame, a worn golf glove resting on the bench, the 18th green pin flag small in the far distance. Calm, composed, refined mood reflecting a hard-working day and a tired body. Color palette of bluish white, blue-gray and navy with gentle warm sunset accents, clean and gender-neutral design. Keep the center of the image bright, pale and mostly empty with generous negative space for overlaid text; place sky, trees, grass and objects toward the corners and left and right edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a round. Low golden sunset light streaming from the side, long soft shadows stretching across the fairway, sky fading from warm sunset glow near the horizon to deep calm blue. In the lower corners and side edges: a well-used golf bag leaning on a bench, a worn golf glove and a cap with sunglasses resting on top, a distant 18th green pin flag silhouetted against the sunset. Mood of a hard-fought day, gentle tiredness and quiet reflection on the day's concentration, calm and crisp. Color palette of bluish white, blue-gray and navy accented with warm sunset light, clean and refined, appealing to both men and women. Keep the center bright, pale and mostly empty with generous negative space for overlaying a Japanese headline later; place motifs toward the corners and edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
   "palette": "night",
   "images": [
-    "posts/20261119-night-1.jpg",
-    "posts/20261119-night-2.jpg",
-    "posts/20261119-night-3.jpg",
-    "posts/20261119-night-4.jpg",
-    "posts/20261119-night-5.jpg"
+    "posts/20261120-night-1.jpg",
+    "posts/20261120-night-2.jpg",
+    "posts/20261120-night-3.jpg",
+    "posts/20261120-night-4.jpg",
+    "posts/20261120-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18654539155046355",
-  "fb_post_id": "1336197019582610_122121481005501764"
+  "published": false
 }
