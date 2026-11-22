@@ -1,61 +1,58 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "slot": "night",
-  "theme": "土曜ラウンド後、足裏とふくらはぎの夜ケア",
-  "caption": "今日のラウンド、後半に踏ん張りがきかなかった…そんな日は、足裏の疲れを振り返ってみませんか。\n\n土曜日のゴルフ、お疲れさまでした⛳\n18ホールを歩き、傾斜で踏ん張り、スイングのたびに地面をとらえる足裏。\nいちばん働いているのに、ケアが後回しになりやすい場所です。\n\n足裏の筋膜は、ふくらはぎ・太ももの裏・背中へとつながっています。\n足元がこわばると、上の方まで動きにくく感じることもあるんです。\n「後半にスイングが崩れた」「脚がずっと重い」という日は、足元からしっかりケアしてあげましょう。\n\n今夜できるセルフケアを、画像にまとめました。\n強く押さず、やさしく動かすのがポイントです。\n保存して、ラウンドの夜にあわせてご覧ください。\n\nなお、かかとや足裏の痛みが強い・長く続くときは、整形外科などの医療機関にご相談くださいね。\n\nBody Care mocoでは、揉まずに吸い上げるメディセルで、足裏からふくらはぎまでつながる筋膜にアプローチします。\n「ずっとこうだから」とあきらめず、身体が軽くなる感覚をぜひ。\nご予約・ご相談はDMへどうぞ☀️\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
+  "theme": "冬ラウンド後の水分不足と筋膜",
+  "caption": "寒い日のラウンド、お水はどれくらい飲みましたか？\n\n日曜のラウンド、本当にお疲れさまでした⛳\n冬場は汗をかいた実感が少なく、トイレも気になって、つい飲み物を控えがちですよね。\n\nでも実は、身体は寒い日もしっかり水分を使っています。\n筋膜は、水分を含んだやわらかい膜。水分が足りないと滑りが悪くなり、こわばりやすくなると考えられています。\n\n「翌朝、身体がぎしぎし重い」\n「後半、ふくらはぎがつりそうだった」\n「なんだかスイングが小さくなった」\n\nそんなサインは、寒さだけでなく水分不足も重なっているのかもしれません。\n\n今夜からできる、筋膜をいたわる夜の過ごし方を画像にまとめました。保存して、次のラウンドの日にも見返してみてくださいね。\n\nそれでも抜けない重さやこわばりは、メディセルで筋膜にしっかりアプローチします。揉まずに吸い上げるケアなので、強い刺激が苦手な方も安心です。\n強い痛みやしびれ、腫れが続くときは、まず医療機関へご相談ください。\n\n身体が軽くなると、人生も、ゴルフも動き出す☀️\nご予約・ご相談はDMからお気軽にどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
   "cover": {
-    "lead": "18ホール歩いた夜に",
-    "headline": "ラウンド疲れ\n【足裏】に\n残っていませんか"
+    "lead": "冬のラウンドのあとに",
+    "headline": "その疲れ、\n【水分不足】\nかも？"
   },
   "slides": [
     {
-      "title": "今日の足元を\n【振り返り】チェック",
+      "title": "こんなサイン\nありませんか？",
       "numbered": false,
       "items": [
-        "靴を脱ぐと、足裏がジンと重い",
-        "ふくらはぎが張って、脚がだるい",
-        "後半、傾斜で踏ん張りがきかなかった",
-        "足指が縮こまって、広げにくい",
-        "帰りの運転中、脚がむくんだ感じがした"
+        "翌朝、身体がぎしぎしと重い",
+        "後半、ふくらはぎや足がつりそうになった",
+        "スイングが小さく、振り切れなくなった",
+        "寒さとトイレを気にして飲み物を控えた",
+        "喉の渇きをほとんど感じなかった"
       ]
     },
     {
-      "title": "今夜の【足裏ケア】\n5ステップ",
+      "title": "【筋膜】と水分の\n深い関係",
+      "numbered": false,
+      "items": [
+        "筋膜は水分を含んだやわらかい膜",
+        "水分が足りないと滑りが悪くこわばりやすい",
+        "冬は汗に気づきにくく、知らぬ間に不足しがち",
+        "寒さで縮こまる姿勢が重なり、さらに固まりやすい"
+      ]
+    },
+    {
+      "title": "今夜からできる\n【夜のケア】",
       "numbered": true,
       "items": [
-        "ぬるめのお湯で足首まで温める",
-        "足指をグーパー、ゆっくり10回",
-        "ボールを足裏で転がす（強く押さない）",
-        "ふくらはぎを足首から膝へやさしくさする",
-        "寝る前は足を少し高くして休む"
-      ]
-    },
-    {
-      "title": "明日に疲れを\n【残さない】ために",
-      "numbered": false,
-      "items": [
-        "足裏の筋膜は、背中までつながっている",
-        "痛いほど押さず、心地よい強さで",
-        "シューズとインソールは乾かして翌日へ",
-        "かかとの痛みが続くときは医療機関へ",
-        "足元が整うと、次のラウンドの一歩が軽く"
+        "常温の水や白湯を、ひと口ずつこまめに",
+        "ぬるめのお湯につかり、身体を内側から温める",
+        "湯上がりにふくらはぎと背中をゆっくり伸ばす",
+        "寝る前のお酒は控えめにして水も一杯",
+        "次のラウンドは温かい飲み物を持っていく"
       ]
     }
   ],
   "closing": {
-    "lead": "足元から、明日の一歩を",
-    "headline": "お気軽に\n【DM】で\nご相談ください"
+    "lead": "今日もお疲れさまでした",
+    "headline": "身体の声、\n【DM】で\nお聞かせください"
   },
-  "image_prompt": "Realistic watercolor painting of a golf course at dusk after a finished round. Warm low sunset light casting long shadows across the fairway, sky fading from soft orange to deep blue. In the lower left corner, a pair of well-worn golf shoes with grass and a little dirt on the spikes, resting beside a used golf glove; on the right edge, a worn golf bag leaning in the evening light, and a distant 18th green pin flag silhouetted. Calm, composed, refined mood reflecting a day of effort and tired feet. Palette of bluish white, blue-gray and navy with accents of warm sunset glow. Clean design appealing to both men and women. The center of the image is bright, pale and mostly empty with generous negative space for overlaying a headline; motifs are placed in the corners and along the left and right edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a winter round. Low setting sun casting long shadows across the 18th green, a pin flag gently fluttering, sky transitioning from warm sunset glow to deep calm blue. In the lower corner, a well-used golf bag leaning on a bench with a worn glove and a simple stainless thermos bottle beside it, subtle hints of crisp cold air. Bluish white and blue-gray palette with touches of warm golden sunset light, clean and refined, appealing to both men and women, calm and composed mood reflecting a hard-fought day. Keep the center bright, pale and mostly empty with generous negative space for a Japanese headline; place sky, trees, grass and objects toward the edges and corners. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
   "palette": "night",
   "images": [
-    "posts/20261121-night-1.jpg",
-    "posts/20261121-night-2.jpg",
-    "posts/20261121-night-3.jpg",
-    "posts/20261121-night-4.jpg",
-    "posts/20261121-night-5.jpg"
+    "posts/20261122-night-1.jpg",
+    "posts/20261122-night-2.jpg",
+    "posts/20261122-night-3.jpg",
+    "posts/20261122-night-4.jpg",
+    "posts/20261122-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18005290418809630",
-  "fb_post_id": "1336197019582610_122122103853501764"
+  "published": false
 }
