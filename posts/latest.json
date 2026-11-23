@@ -1,60 +1,57 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "slot": "night",
-  "theme": "冬ラウンド後の水分不足と筋膜",
-  "caption": "寒い日のラウンド、お水はどれくらい飲みましたか？\n\n日曜のラウンド、本当にお疲れさまでした⛳\n冬場は汗をかいた実感が少なく、トイレも気になって、つい飲み物を控えがちですよね。\n\nでも実は、身体は寒い日もしっかり水分を使っています。\n筋膜は、水分を含んだやわらかい膜。水分が足りないと滑りが悪くなり、こわばりやすくなると考えられています。\n\n「翌朝、身体がぎしぎし重い」\n「後半、ふくらはぎがつりそうだった」\n「なんだかスイングが小さくなった」\n\nそんなサインは、寒さだけでなく水分不足も重なっているのかもしれません。\n\n今夜からできる、筋膜をいたわる夜の過ごし方を画像にまとめました。保存して、次のラウンドの日にも見返してみてくださいね。\n\nそれでも抜けない重さやこわばりは、メディセルで筋膜にしっかりアプローチします。揉まずに吸い上げるケアなので、強い刺激が苦手な方も安心です。\n強い痛みやしびれ、腫れが続くときは、まず医療機関へご相談ください。\n\n身体が軽くなると、人生も、ゴルフも動き出す☀️\nご予約・ご相談はDMからお気軽にどうぞ。\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
+  "theme": "勤労感謝の日、働く身体をねぎらう夜",
+  "caption": "今日1日、ご自分の身体に「おつかれさま」を言いましたか？☀️\n\n今日は勤労感謝の日。\nデスクワーク、立ち仕事、家事や育児、介護。\n毎日がんばっている身体は、自分が思う以上にこわばりをため込んでいます。\n\n夕方になると肩や首が重い。\n朝起きたときから身体がかたい。\n連休のゴルフの疲れが抜けないまま、明日の仕事を迎えそう。\n\nそんな方こそ、今夜は少しだけ身体の声に耳を傾けてみてください。\nチェックリストと、今夜できるリセット方法を画像にまとめました。あわせてご覧ください。\n\nわたしmocoは、リウマチの母を20年以上介護してきました。\n誰かのために動き続ける毎日の大変さも、痛みのつらさも、そばで見てきたからこそ伝えたいのです。\n「ずっとこうだから」と、あきらめなくていいんです。\n\nBody Care mocoでは、メディセルで筋膜にしっかりアプローチし、動ける身体へと整えていきます。\n強く揉まないので、揉み返しが苦手な方にもおすすめです。\n※強い痛みやしびれが続くときは、医療機関へご相談ください。\n\n明日も軽やかに動けますように。\nご予約・ご相談はDMへどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #肩こり",
   "cover": {
-    "lead": "冬のラウンドのあとに",
-    "headline": "その疲れ、\n【水分不足】\nかも？"
+    "lead": "勤労感謝の日の夜に",
+    "headline": "がんばった\n【身体】にも\nありがとうを"
   },
   "slides": [
     {
-      "title": "こんなサイン\nありませんか？",
+      "title": "働く身体の\n【こわばり】チェック",
       "numbered": false,
       "items": [
-        "翌朝、身体がぎしぎしと重い",
-        "後半、ふくらはぎや足がつりそうになった",
-        "スイングが小さく、振り切れなくなった",
-        "寒さとトイレを気にして飲み物を控えた",
-        "喉の渇きをほとんど感じなかった"
+        "夕方になると肩や首が重く感じる",
+        "座りっぱなし・立ちっぱなしの時間が長い",
+        "朝起きたときから身体がかたい",
+        "家事や介護で前かがみの姿勢が多い",
+        "ゴルフの翌日、仕事中も疲れが抜けない"
       ]
     },
     {
-      "title": "【筋膜】と水分の\n深い関係",
-      "numbered": false,
-      "items": [
-        "筋膜は水分を含んだやわらかい膜",
-        "水分が足りないと滑りが悪くこわばりやすい",
-        "冬は汗に気づきにくく、知らぬ間に不足しがち",
-        "寒さで縮こまる姿勢が重なり、さらに固まりやすい"
-      ]
-    },
-    {
-      "title": "今夜からできる\n【夜のケア】",
+      "title": "今夜できる\n【働く身体】のリセット",
       "numbered": true,
       "items": [
-        "常温の水や白湯を、ひと口ずつこまめに",
-        "ぬるめのお湯につかり、身体を内側から温める",
-        "湯上がりにふくらはぎと背中をゆっくり伸ばす",
-        "寝る前のお酒は控えめにして水も一杯",
-        "次のラウンドは温かい飲み物を持っていく"
+        "湯船につかり、身体の芯まで温める",
+        "肩をすくめて、ストンと落とすを数回",
+        "両手を後ろで組み、胸をゆっくり開く",
+        "今日の身体の状態をひと言ふり返って眠る"
+      ]
+    },
+    {
+      "title": "ずっとがんばってきた\n身体へ【しっかりケア】",
+      "numbered": false,
+      "items": [
+        "長年の痛みも「年のせい」とあきらめないで",
+        "こわばりの奥の筋膜にしっかりアプローチ",
+        "揉まずに吸い上げるので揉み返しが苦手な方も",
+        "強い痛みやしびれが続くときは医療機関へ"
       ]
     }
   ],
   "closing": {
-    "lead": "今日もお疲れさまでした",
-    "headline": "身体の声、\n【DM】で\nお聞かせください"
+    "lead": "身体が軽くなると人生が動き出す",
+    "headline": "お気軽に\n【ご相談】\nください"
   },
-  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a winter round. Low setting sun casting long shadows across the 18th green, a pin flag gently fluttering, sky transitioning from warm sunset glow to deep calm blue. In the lower corner, a well-used golf bag leaning on a bench with a worn glove and a simple stainless thermos bottle beside it, subtle hints of crisp cold air. Bluish white and blue-gray palette with touches of warm golden sunset light, clean and refined, appealing to both men and women, calm and composed mood reflecting a hard-fought day. Keep the center bright, pale and mostly empty with generous negative space for a Japanese headline; place sky, trees, grass and objects toward the edges and corners. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "image_prompt": "Realistic watercolor-style illustration of a golf course at dusk after a long day of play. Warm setting sun casting long shadows across the fairway, sky fading from soft sunset orange into deep calm blue. A well-used golf bag and a worn golf glove resting on a bench near the edge, a flag on the 18th green in the distance, a few blades of grass and leaves catching the golden light. Mood of gratitude for a hard-working day, quiet reflection, and tired but satisfied body. Palette of bluish white, blue-gray and navy with gentle warm sunset accents, clean and crisp, appealing to both men and women, not spa-like. Keep the center bright, pale and open with plenty of empty space for overlaid text; place sky, plants and light motifs toward the corners and left and right edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
   "palette": "night",
   "images": [
-    "posts/20261122-night-1.jpg",
-    "posts/20261122-night-2.jpg",
-    "posts/20261122-night-3.jpg",
-    "posts/20261122-night-4.jpg",
-    "posts/20261122-night-5.jpg"
+    "posts/20261123-night-1.jpg",
+    "posts/20261123-night-2.jpg",
+    "posts/20261123-night-3.jpg",
+    "posts/20261123-night-4.jpg",
+    "posts/20261123-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18115763624593592",
-  "fb_post_id": "1336197019582610_122122380483501764"
+  "published": false
 }
