@@ -1,60 +1,58 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "slot": "night",
-  "theme": "ラウンド後に書く身体の振り返りメモ",
-  "caption": "スコアカードは見返すのに、身体のことは振り返っていますか？\n\nラウンドお疲れさまでした。\n「後半に崩れた」「いつもより飛ばなかった」\nその原因を、スイングだけでなく身体の側からも探してみませんか。\n\nおすすめは、ラウンドの夜に書く「身体メモ」。\nどこが重いか、左右差はあるか、何ホール目から力みを感じたか。\n書き留めておくと、毎回同じ場所に疲れがたまっていることに気づく方も多いんです。\n\nそれは、筋膜のこわばりが出しているサインかもしれません。\n揉まずにやさしく吸い上げるメディセルで、筋膜にしっかりアプローチして、動ける身体に整えていきます。\n\n今夜できる、疲れを翌日に残さない過ごし方もまとめました。\n画像もあわせてご覧ください。保存して、次のラウンド後にも使ってくださいね⛳\n\nなお、強い痛みやしびれ、腫れが続く場合は、整形外科などの医療機関へご相談ください。\n\n「ずっとこうだから」とあきらめず、身体の声に耳を傾けてみてください。\nご予約・ご相談はDMからお気軽にどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
+  "theme": "水曜夜、浅い呼吸と肋骨まわりのこわばり",
+  "caption": "今日1日、ゆっくり深呼吸できた瞬間はありましたか？\n\n週の真ん中、水曜日の夜。\nお仕事や家事、ラウンドでがんばった日ほど、気づかないうちに呼吸が浅くなっていることがあります。\n\n胸や脇、背中の筋膜がこわばると、肋骨が動きにくくなり、息が吸いにくい感覚につながることも。\n肩で息をするクセがつくと、首や肩まで重く感じやすくなります。\n\nゴルフをされる方は、アドレスやパットの前に息を止めていませんか？⛳\n後半に力みが抜けない日は、呼吸の浅さもひとつのサインかもしれません。\n\n寝る前にできる呼吸のリセット方法と、呼吸と筋膜の関係を画像にまとめました。あわせてご覧ください。\n\n胸のこわばりが続くときは、メディセルで筋膜にしっかりアプローチして、深く息を吸える身体に整えていきましょう。\n※息苦しさや胸の痛みがある場合は、医療機関へご相談ください。\n\nご予約・ご相談はDMからお気軽にどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
   "cover": {
-    "lead": "ラウンドの夜に",
-    "headline": "スコアと一緒に\n【身体】も\n振り返ろう"
+    "lead": "がんばった水曜日の夜に",
+    "headline": "今日1日、\n【深呼吸】\nできましたか？"
   },
   "slides": [
     {
-      "title": "ラウンド後の\n【身体メモ】5項目",
+      "title": "【呼吸が浅い】\nサインをチェック",
       "numbered": false,
       "items": [
-        "重さ・はりを感じる場所は？左右差は？",
-        "何ホール目あたりから力みを感じた？",
-        "ミスが続いたのは前半？それとも後半？",
-        "首・肩・腰で回しにくい方向はある？",
-        "翌朝の起きやすさ・身体の重さは？"
+        "肩が上がり、肩で息をしている気がする",
+        "ため息やあくびが増えた",
+        "みぞおちや脇腹がかたく感じる",
+        "アドレスやパットの前に息を止めがち",
+        "夕方になると首・肩が重くなる"
       ]
     },
     {
-      "title": "疲れを翌日に\n【残さない】夜の流れ",
+      "title": "寝る前の\n【呼吸リセット】",
       "numbered": true,
       "items": [
-        "帰宅したら、まずコップ1杯の水分補給",
-        "ぬるめのお湯で、身体を芯から温める",
-        "重い場所を手のひらでやさしくさする",
-        "深呼吸しながら、胸と脇をゆっくり伸ばす",
-        "いつもより少し早めに休む"
+        "仰向けで膝を立て、両手を肋骨の横に添える",
+        "鼻から4秒、肋骨が横に広がるのを感じて吸う",
+        "口から細く長く、6〜8秒かけて吐ききる",
+        "5回ほどくり返し、肩の力が抜けるのを感じる",
+        "苦しく感じたら無理せず中止しましょう"
       ]
     },
     {
-      "title": "メモが教えてくれる\n【こわばりのサイン】",
+      "title": "呼吸と【筋膜】の\n関係",
       "numbered": false,
       "items": [
-        "毎回同じ場所が重いなら、筋膜のこわばりかも",
-        "左右差は、スイングのクセのあらわれ",
-        "揉まずに吸い上げるメディセルでしっかりケア",
-        "強い痛み・しびれ・腫れは医療機関へ相談を"
+        "胸・脇・背中の筋膜がこわばると肋骨が動きにくい",
+        "呼吸が浅いと、首や肩の筋肉ががんばりがちに",
+        "メディセルは揉まずに吸い上げ、こわばりをほぐす",
+        "施術後、息が深く入るように感じる方も多いです"
       ]
     }
   ],
   "closing": {
-    "lead": "その疲れ、あきらめないで",
-    "headline": "お気軽に\n【ご相談】\nください"
+    "lead": "息も身体も、軽やかに",
+    "headline": "いつでも\n【DM】で\nご相談ください"
   },
-  "image_prompt": "Realistic watercolor painting of a golf course at dusk after a round. Warm setting sun casting long shadows across the fairway, sky fading from soft sunset orange to deep blue. A well-used golf bag with a worn glove and a small blank scorecard with a pencil resting beside it near the 18th green, a pin flag in the distance, slightly dirty golf shoes on the grass. Calm, composed, reflective mood of reviewing the day's play and feeling the body's tiredness. Color palette of bluish white, blue-gray and navy accented with warm golden sunlight, clean and refined, appealing to both men and women. Keep the center bright, pale and mostly empty for overlaying a headline later; place the sky, grass, light and golf items toward the corners and left and right edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos, no writing on the scorecard.",
+  "image_prompt": "Realistic watercolor-style illustration of a golf course at dusk after a round. Sky transitioning from soft sunset glow to deep blue, warm low western sunlight casting long shadows across the fairway. On the far left edge, a well-used golf bag leaning against a bench with a worn glove resting on it; on the right edge, the 18th green with a pin flag gently moving in the evening breeze and silhouetted trees. A calm, settled atmosphere suggesting a long day's effort, tired body, and a deep exhale. Color palette of bluish white, blue-gray, navy and sky blue with touches of warm golden sunset light. Clean, crisp, refined design appealing to both men and women, not spa-like. The center of the image is bright, pale and open with plenty of empty space for overlaying a Japanese headline; motifs placed toward the corners and side edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
   "palette": "night",
   "images": [
-    "posts/20261124-night-1.jpg",
-    "posts/20261124-night-2.jpg",
-    "posts/20261124-night-3.jpg",
-    "posts/20261124-night-4.jpg",
-    "posts/20261124-night-5.jpg"
+    "posts/20261125-night-1.jpg",
+    "posts/20261125-night-2.jpg",
+    "posts/20261125-night-3.jpg",
+    "posts/20261125-night-4.jpg",
+    "posts/20261125-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18346348588260111",
-  "fb_post_id": "1336197019582610_122122946955501764"
+  "published": false
 }
