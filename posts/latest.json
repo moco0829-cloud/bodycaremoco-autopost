@@ -1,60 +1,57 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "slot": "night",
-  "theme": "水曜夜、浅い呼吸と肋骨まわりのこわばり",
-  "caption": "今日1日、ゆっくり深呼吸できた瞬間はありましたか？\n\n週の真ん中、水曜日の夜。\nお仕事や家事、ラウンドでがんばった日ほど、気づかないうちに呼吸が浅くなっていることがあります。\n\n胸や脇、背中の筋膜がこわばると、肋骨が動きにくくなり、息が吸いにくい感覚につながることも。\n肩で息をするクセがつくと、首や肩まで重く感じやすくなります。\n\nゴルフをされる方は、アドレスやパットの前に息を止めていませんか？⛳\n後半に力みが抜けない日は、呼吸の浅さもひとつのサインかもしれません。\n\n寝る前にできる呼吸のリセット方法と、呼吸と筋膜の関係を画像にまとめました。あわせてご覧ください。\n\n胸のこわばりが続くときは、メディセルで筋膜にしっかりアプローチして、深く息を吸える身体に整えていきましょう。\n※息苦しさや胸の痛みがある場合は、医療機関へご相談ください。\n\nご予約・ご相談はDMからお気軽にどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
+  "theme": "ゴルフバッグの積み下ろしと片側の負担",
+  "caption": "ラウンドの帰り道、片側の肩だけが重く感じていませんか？\n\n木曜の夜、今日もお疲れさまでした☀️\nスイングの疲れに目が向きがちですが、意外と見落としやすいのが「ゴルフバッグの積み下ろし」です。\n\nトランクから腕の力だけで持ち上げる。\nいつも同じ肩で担ぐ。\n腰を丸めたまま、ひねって下ろす。\n\nこうしたクセが重なると、片側の肩や首、腰まわりにこわばりがたまりやすくなります。筋膜は動きのクセに合わせて固まりやすく、左右差となって残ることもあります。\n\n今夜は担いだ側をゆっくりほどくセルフケアを。次のラウンドからできる、積み下ろしの小さな工夫もまとめました。画像もあわせてご覧ください。\n\nBody Care mocoでは、メディセルで皮膚と筋膜をやさしく吸い上げ、偏ったこわばりにしっかりアプローチします。強く揉まないので、揉み返しが苦手な方にもおすすめです。\n\n※強い痛みやしびれが続く場合は、整形外科など医療機関へご相談ください。\n\nご予約・ご相談はDMへどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
   "cover": {
-    "lead": "がんばった水曜日の夜に",
-    "headline": "今日1日、\n【深呼吸】\nできましたか？"
+    "lead": "ゴルフの帰り道に",
+    "headline": "その【肩の重さ】、\nバッグの\nせいかも？"
   },
   "slides": [
     {
-      "title": "【呼吸が浅い】\nサインをチェック",
+      "title": "こんなサイン\nありませんか？",
       "numbered": false,
       "items": [
-        "肩が上がり、肩で息をしている気がする",
-        "ため息やあくびが増えた",
-        "みぞおちや脇腹がかたく感じる",
-        "アドレスやパットの前に息を止めがち",
-        "夕方になると首・肩が重くなる"
+        "いつも同じ肩でバッグを担いでいる",
+        "トランクから腕の力だけで持ち上げる",
+        "帰宅後、片側の肩や首だけが重い",
+        "腰を丸めたまま積み下ろししている"
       ]
     },
     {
-      "title": "寝る前の\n【呼吸リセット】",
+      "title": "【片側の疲れ】を\nほどく夜のケア",
       "numbered": true,
       "items": [
-        "仰向けで膝を立て、両手を肋骨の横に添える",
-        "鼻から4秒、肋骨が横に広がるのを感じて吸う",
-        "口から細く長く、6〜8秒かけて吐ききる",
-        "5回ほどくり返し、肩の力が抜けるのを感じる",
-        "苦しく感じたら無理せず中止しましょう"
+        "担いだ側の肩をゆっくり大きく回す",
+        "首を反対側へ倒し、首すじを伸ばす",
+        "両手を組んで体側を左右に伸ばす",
+        "仰向けで膝を抱え、腰まわりをやさしく丸める",
+        "痛みが出る動きは無理せず中止する"
       ]
     },
     {
-      "title": "呼吸と【筋膜】の\n関係",
+      "title": "次のラウンドから\n【積み下ろし】の工夫",
       "numbered": false,
       "items": [
-        "胸・脇・背中の筋膜がこわばると肋骨が動きにくい",
-        "呼吸が浅いと、首や肩の筋肉ががんばりがちに",
-        "メディセルは揉まずに吸い上げ、こわばりをほぐす",
-        "施術後、息が深く入るように感じる方も多いです"
+        "膝を曲げ、バッグを身体に近づけて持つ",
+        "担ぐ肩を左右で持ち替えてみる",
+        "持ち上げる前に足をトランクに近づける",
+        "腰をひねらず、足の向きごと方向を変える"
       ]
     }
   ],
   "closing": {
-    "lead": "息も身体も、軽やかに",
-    "headline": "いつでも\n【DM】で\nご相談ください"
+    "lead": "片側だけの重さも",
+    "headline": "お気軽に\n【ご相談】\nください"
   },
-  "image_prompt": "Realistic watercolor-style illustration of a golf course at dusk after a round. Sky transitioning from soft sunset glow to deep blue, warm low western sunlight casting long shadows across the fairway. On the far left edge, a well-used golf bag leaning against a bench with a worn glove resting on it; on the right edge, the 18th green with a pin flag gently moving in the evening breeze and silhouetted trees. A calm, settled atmosphere suggesting a long day's effort, tired body, and a deep exhale. Color palette of bluish white, blue-gray, navy and sky blue with touches of warm golden sunset light. Clean, crisp, refined design appealing to both men and women, not spa-like. The center of the image is bright, pale and open with plenty of empty space for overlaying a Japanese headline; motifs placed toward the corners and side edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "image_prompt": "Realistic watercolor illustration of a golf course at dusk after a round. Warm low sunlight casting long shadows across the fairway, sky fading from soft sunset orange into deep calm blue. A well-used golf bag leaning on a wooden bench at the left edge, a worn golf glove and muddy golf shoes beside it, an 18th green pin flag silhouetted at the far right edge. Clean, crisp, composed mood, bluish white and blue-gray tones with touches of warm sunset light, appealing to both men and women. Keep the center bright, pale and open with plenty of empty space for overlaying a headline; place sky, plants, light and objects toward the corners and edges. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
   "palette": "night",
   "images": [
-    "posts/20261125-night-1.jpg",
-    "posts/20261125-night-2.jpg",
-    "posts/20261125-night-3.jpg",
-    "posts/20261125-night-4.jpg",
-    "posts/20261125-night-5.jpg"
+    "posts/20261126-night-1.jpg",
+    "posts/20261126-night-2.jpg",
+    "posts/20261126-night-3.jpg",
+    "posts/20261126-night-4.jpg",
+    "posts/20261126-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18103545593411140",
-  "fb_post_id": "1336197019582610_122123237559501764"
+  "published": false
 }
