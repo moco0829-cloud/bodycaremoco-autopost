@@ -1,58 +1,59 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "slot": "night",
-  "theme": "出だしでつまずいた日と冷えた身体",
-  "caption": "「1番ホール、なんであんな当たりだったんだろう…」\n\n今日もラウンドお疲れさまでした☀️\n寒くなってきたこの時期、出だしのティーショットやセカンドでつまずいた方も多いのではないでしょうか。\n\n腕前のせいだと反省する前に、少しだけ身体の状態を振り返ってみてください。\n朝の冷えや車での移動で、筋膜がこわばったままスタートしていたのかもしれません。\n身体が回りきらないと、つい腕で合わせにいき、力みやミスにつながりやすくなります。\n\n今夜は、冷えて固まった身体をしっかり温めてゆるめる時間に。\n次のラウンドの朝にできる工夫もまとめました。\n画像もあわせてご覧ください。\n\nBody Care mocoでは、メディセルで皮膚と筋膜をやさしく吸い上げ、こわばりにしっかりアプローチします。\n「最近、出だしが悪い」「身体が回らない」と感じている方も、お気軽にご相談ください。\n※強い痛みや腫れが続くときは、医療機関へのご相談をおすすめします。\n\nご予約・ご相談はDMへ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
+  "theme": "練習場で打ちすぎた夜と片側の偏り",
+  "caption": "今日、練習場で「あと1カゴだけ」と打ち込んでいませんか？\n\n土曜の練習、本当にお疲れさまでした⛳\n上達したい気持ちで打ち続けた日ほど、夜になって片側の腰や背中だけが張っていることがあります。\n\nゴルフのスイングは、いつも同じ方向へ身体をひねる動き。\n同じ動きを何百回もくり返すと、使う側の筋膜がこわばりやすくなり、左右の動きに差が出てくることがあります。\n終盤に当たりが薄くなったのは、技術だけでなく身体の偏りのサインかもしれません。\n\n今夜は、逆方向にゆっくり身体を動かしたり、お尻を伸ばしたりして、偏りをリセットしてあげてください。\nセルフチェックと夜のケア、次の練習で偏りをためないコツを画像にまとめましたので、あわせてご覧ください。\n\n強い痛みやしびれが続くときは、整形外科などの医療機関にご相談くださいね。\n\nBody Care mocoでは、メディセルで筋膜をやさしく吸い上げ、こわばりにしっかりアプローチします。練習の成果を活かせる、動ける身体に整えていきましょう。\nご予約・ご相談はDMへどうぞ📩\n\n#BodyCaremoco #メディセル #筋膜リリース #成田市 #ゴルフケア",
   "cover": {
-    "lead": "今日もお疲れさまでした",
-    "headline": "出だしの\n【つまずき】は\n冷えのサイン？"
+    "lead": "練習場帰りのあなたへ",
+    "headline": "打ちすぎた夜、\n【片側】だけ\n張っていませんか？"
   },
   "slides": [
     {
-      "title": "出だしが崩れやすい\n【身体の理由】",
+      "title": "打ちすぎサイン\n【セルフチェック】",
       "numbered": false,
       "items": [
-        "朝の冷えで、筋膜が縮こまりやすい",
-        "車の移動で、股関節や背中が固まったまま",
-        "練習なしの一打目は、力みやすい",
-        "回らない身体を、腕で補おうとしてしまう"
+        "片側の腰や背中だけが張っている",
+        "振り向く動きが左右で違う",
+        "グリップした手や指がこわばっている",
+        "終盤、当たりが薄くなってきた",
+        "帰りの車で身体をひねると重い"
       ]
     },
     {
-      "title": "今夜の【冷えリセット】",
+      "title": "夜の【偏りリセット】\n5ステップ",
       "numbered": true,
       "items": [
-        "ぬるめのお湯に肩までつかって温まる",
-        "お尻と太もも裏をゆっくり伸ばす",
-        "胸を開いて、深く長い呼吸を数回",
-        "身体が冷めないうちに早めに休む"
+        "クラブなしで、逆方向にゆっくり素振り",
+        "両手を胸の前で組み、左右のひねりを比べる",
+        "椅子に座り、片膝を抱えてお尻を伸ばす",
+        "ぬるめのお湯でしっかり温める",
+        "水や白湯でこまめに水分補給"
       ]
     },
     {
-      "title": "次のラウンドの朝に\n【できる工夫】",
+      "title": "次の練習で\n【偏りをためない】コツ",
       "numbered": false,
       "items": [
-        "首・手首・足首を冷やさない服装で",
-        "家を出る前に、肩甲骨を大きく回す",
-        "到着したら少し歩いて身体を起こす",
-        "最初のホールは力まず、8割の振りで"
+        "打つ前に左右のひねりを確かめる",
+        "途中でこまめに休憩をはさむ",
+        "ときどき逆方向の素振りを入れる",
+        "球数より1球の質を大切にする",
+        "張りが続くなら早めにケアを"
       ]
     }
   ],
   "closing": {
-    "lead": "次のラウンドを軽やかに",
-    "headline": "その身体、\n【一緒に】\n整えませんか"
+    "lead": "練習の成果を身体で活かす",
+    "headline": "整えて、\n【次の一打】へ\nご相談はDMで"
   },
-  "image_prompt": "Realistic watercolor painting of a golf course at dusk after a round in late autumn. Long shadows stretching across the fairway in the warm setting sun, sky shifting from soft sunset glow to deep blue, a pin flag on the 18th green, a well-used golf bag, a worn golf glove and a knit headcover resting near the edge, a hint of cool evening air and frost-touched grass. Bluish white to blue-gray palette with warm sunset light accents, clean, calm and crisp atmosphere appealing to both men and women. Motifs placed in the corners and along the left and right edges, the center kept bright, pale and mostly empty for overlaying a headline. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
+  "image_prompt": "Realistic watercolor illustration of a golf driving range and course at dusk after a long practice session. Long shadows stretch across the turf under the setting sun, the sky transitions from soft sunset orange to deep calm blue. On the left and right edges: a well-used golf bag leaning on a bench, a worn golf glove, a wire basket with a few remaining practice balls, slightly dirty golf shoes, and a distant 18th green pin flag silhouetted against the evening light. Motifs placed toward the corners and side edges, leaving the center bright, airy and mostly empty with pale bluish-white and blue-gray tones for overlaying text. Warm golden sunset light accents, clean, crisp, calm and focused mood, appealing to both men and women. No people, no faces, no body parts. No text, no letters, no numbers, no logos.",
   "palette": "night",
   "images": [
-    "posts/20261127-night-1.jpg",
-    "posts/20261127-night-2.jpg",
-    "posts/20261127-night-3.jpg",
-    "posts/20261127-night-4.jpg",
-    "posts/20261127-night-5.jpg"
+    "posts/20261128-night-1.jpg",
+    "posts/20261128-night-2.jpg",
+    "posts/20261128-night-3.jpg",
+    "posts/20261128-night-4.jpg",
+    "posts/20261128-night-5.jpg"
   ],
-  "published": true,
-  "media_id": "18137330911764667",
-  "fb_post_id": "1336197019582610_122123770437501764"
+  "published": false
 }
